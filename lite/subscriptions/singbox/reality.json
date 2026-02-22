@@ -108,11 +108,11 @@
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 18",
-                "❔XX | 🟢 | vless | @vmess_vless_v2rayng | 19",
+                "🇷🇺RU | 🟢 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🟢 | vless | @lrnbymaa | 15",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @mehrosaboran | 9",
+                "❔XX | 🟢 | vless | @mehrosaboran | 8",
                 "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
@@ -124,11 +124,11 @@
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 18",
-                "❔XX | 🟢 | vless | @vmess_vless_v2rayng | 19",
+                "🇷🇺RU | 🟢 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🟢 | vless | @lrnbymaa | 15",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @mehrosaboran | 9",
+                "❔XX | 🟢 | vless | @mehrosaboran | 8",
                 "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
@@ -212,7 +212,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @vmess_vless_v2rayng | 19",
+            "tag": "🇷🇺RU | 🟢 | vless | @vmess_vless_v2rayng | 19",
             "type": "vless",
             "server": "de2.srv.oplcdn.link",
             "server_port": 8443,
@@ -328,11 +328,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @mehrosaboran | 9",
+            "tag": "❔XX | 🟢 | vless | @mehrosaboran | 8",
             "type": "vless",
-            "server": "51.250.86.102",
+            "server": "193.124.254.76",
             "server_port": 443,
-            "uuid": "64a3a23c-363a-4bee-9401-f5c42eea5a27",
+            "uuid": "fa-7055554789-1771525571155969",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -342,17 +342,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "ads.x5.ru",
+                "server_name": "mycatcollection.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "random"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg",
-                    "short_id": "e55fd8f9c9a9a0ca"
+                    "public_key": "2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE",
+                    "short_id": "d1d42381ba35"
                 }
             }
         },
