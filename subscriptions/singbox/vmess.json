@@ -106,7 +106,6 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
@@ -131,22 +130,19 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 0",
-                "❔XX | 🟢 | vmess | @v2Line | 1",
-                "❔XX | 🟢 | vmess | @v2Line | 2",
+                "🇭🇰HK | 🟢 | vmess | @v2Line | 0",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 1",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 2",
                 "🚩CF | 🟢 | vmess | @v2Line | 3",
-                "❔XX | 🟢 | vmess | @v2Line | 4",
-                "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 6",
-                "🇩🇪DE | 🟢 | vmess | @iP_CF | 4",
-                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 4",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
+                "🇺🇸US | 🟢 | vmess | @v2Line | 6"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
@@ -171,15 +167,13 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 0",
-                "❔XX | 🟢 | vmess | @v2Line | 1",
-                "❔XX | 🟢 | vmess | @v2Line | 2",
+                "🇭🇰HK | 🟢 | vmess | @v2Line | 0",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 1",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 2",
                 "🚩CF | 🟢 | vmess | @v2Line | 3",
-                "❔XX | 🟢 | vmess | @v2Line | 4",
-                "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 6",
-                "🇩🇪DE | 🟢 | vmess | @iP_CF | 4",
-                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 4",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
+                "🇺🇸US | 🟢 | vmess | @v2Line | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -200,23 +194,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
-            "type": "vmess",
-            "server": "146.59.147.250",
-            "server_port": 29776,
-            "uuid": "82447abf-dcb9-408a-9ca6-79e0a7698d08",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
         },
         {
             "tag": "❔XX | 🟢 | vmess | @mftizi | 0",
@@ -730,7 +707,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 0",
+            "tag": "🇭🇰HK | 🟢 | vmess | @v2Line | 0",
             "type": "vmess",
             "server": "47.242.192.233",
             "server_port": 52190,
@@ -747,7 +724,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 1",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 1",
             "type": "vmess",
             "server": "57.129.24.124",
             "server_port": 443,
@@ -781,7 +758,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 2",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 2",
             "type": "vmess",
             "server": "57.129.28.214",
             "server_port": 443,
@@ -839,7 +816,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 4",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 4",
             "type": "vmess",
             "server": "57.129.28.63",
             "server_port": 443,
@@ -873,7 +850,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 5",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
             "type": "vmess",
             "server": "57.129.24.125",
             "server_port": 443,
@@ -907,62 +884,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 6",
+            "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 6",
             "type": "vmess",
             "server": "172.233.229.91",
             "server_port": 14102,
             "uuid": "27ba87fc-583f-4763-9060-83cf0b9264db",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vmess | @iP_CF | 4",
-            "type": "vmess",
-            "server": "57.129.25.23",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "yichueng.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "yichueng.org"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @nofiltering2 | 7",
-            "type": "vmess",
-            "server": "193.151.128.37",
-            "server_port": 3131,
-            "uuid": "23f58ce5-5e07-4d4e-9551-85f84db5c492",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
