@@ -106,13 +106,13 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
+                "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 0",
-                "❔XX | 🟢 | vmess | @mftizi | 1",
+                "🇯🇵JP | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
                 "❔XX | 🟢 | vmess | @mftizi | 3",
-                "❔XX | 🟢 | vmess | @mftizi | 4",
-                "❔XX | 🟢 | vmess | @mftizi | 5",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 4",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 5",
                 "❔XX | 🟢 | vmess | @mftizi | 6",
                 "❔XX | 🟢 | vmess | @mftizi | 10",
                 "❔XX | 🟢 | vmess | @mftizi | 11",
@@ -127,8 +127,8 @@
                 "❔XX | 🟢 | vmess | @prrofile_purple | 109",
                 "🚩CF | 🟢 | vmess | @customv2ray | 8",
                 "❔XX | 🟢 | vmess | @ShadowProxy66 | 0",
-                "❔XX | 🟢 | vmess | @yaney_01 | 1",
-                "❔XX | 🟢 | vmess | @yaney_01 | 2",
+                "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
+                "🇲🇾MY | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
@@ -141,21 +141,21 @@
                 "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 6",
                 "🇨🇦CA | 🟢 | vmess | @v2Line | 7",
-                "❔XX | 🟢 | vmess | @iP_CF | 4",
-                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
+                "🇩🇪DE | 🟢 | vmess | @iP_CF | 4",
+                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
+                "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 0",
-                "❔XX | 🟢 | vmess | @mftizi | 1",
+                "🇯🇵JP | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
                 "❔XX | 🟢 | vmess | @mftizi | 3",
-                "❔XX | 🟢 | vmess | @mftizi | 4",
-                "❔XX | 🟢 | vmess | @mftizi | 5",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 4",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 5",
                 "❔XX | 🟢 | vmess | @mftizi | 6",
                 "❔XX | 🟢 | vmess | @mftizi | 10",
                 "❔XX | 🟢 | vmess | @mftizi | 11",
@@ -170,8 +170,8 @@
                 "❔XX | 🟢 | vmess | @prrofile_purple | 109",
                 "🚩CF | 🟢 | vmess | @customv2ray | 8",
                 "❔XX | 🟢 | vmess | @ShadowProxy66 | 0",
-                "❔XX | 🟢 | vmess | @yaney_01 | 1",
-                "❔XX | 🟢 | vmess | @yaney_01 | 2",
+                "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
+                "🇲🇾MY | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
@@ -184,8 +184,8 @@
                 "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 6",
                 "🇨🇦CA | 🟢 | vmess | @v2Line | 7",
-                "❔XX | 🟢 | vmess | @iP_CF | 4",
-                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
+                "🇩🇪DE | 🟢 | vmess | @iP_CF | 4",
+                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -208,7 +208,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
+            "tag": "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
             "type": "vmess",
             "server": "146.59.147.250",
             "server_port": 29776,
@@ -242,7 +242,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 1",
+            "tag": "🇯🇵JP | 🟢 | vmess | @mftizi | 1",
             "type": "vmess",
             "server": "45.159.51.116",
             "server_port": 48019,
@@ -293,7 +293,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 4",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 4",
             "type": "vmess",
             "server": "183.236.51.23",
             "server_port": 48109,
@@ -310,7 +310,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 5",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 5",
             "type": "vmess",
             "server": "183.236.51.23",
             "server_port": 53002,
@@ -640,7 +640,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 1",
+            "tag": "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
             "type": "vmess",
             "server": "45.199.138.217",
             "server_port": 41000,
@@ -674,7 +674,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 2",
+            "tag": "🇲🇾MY | 🟢 | vmess | @yaney_01 | 2",
             "type": "vmess",
             "server": "107.149.119.43",
             "server_port": 37000,
@@ -1035,7 +1035,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @iP_CF | 4",
+            "tag": "🇩🇪DE | 🟢 | vmess | @iP_CF | 4",
             "type": "vmess",
             "server": "57.129.25.23",
             "server_port": 443,
@@ -1069,7 +1069,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @nofiltering2 | 7",
+            "tag": "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7",
             "type": "vmess",
             "server": "193.151.128.37",
             "server_port": 3131,
