@@ -106,14 +106,14 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16"
+                "🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 16"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16"
+                "🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 16"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -136,7 +136,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
+            "tag": "🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 16",
             "type": "shadowsocks",
             "server": "154.53.34.27",
             "server_port": 45234,
