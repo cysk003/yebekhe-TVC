@@ -109,12 +109,13 @@
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 16",
                 "🇷🇺RU | 🟢 | vless | @Outline_Vpn | 17",
-                "🇷🇺RU | 🟢 | vless | @lrnbymaa | 15",
+                "❔XX | 🟢 | vless | @lrnbymaa | 15",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇳🇱NL | 🟢 | vless | @FreakConfig | 16",
-                "🇱🇻LV | 🟢 | vless | @mehrosaboran | 8",
-                "🇩🇪DE | 🟢 | vless | @kiava | 43",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vless | @FreakConfig | 16",
+                "❔XX | 🟢 | vless | @FreakConfig | 17",
+                "❔XX | 🟢 | vless | @mehrosaboran | 8",
+                "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ]
@@ -126,12 +127,13 @@
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 16",
                 "🇷🇺RU | 🟢 | vless | @Outline_Vpn | 17",
-                "🇷🇺RU | 🟢 | vless | @lrnbymaa | 15",
+                "❔XX | 🟢 | vless | @lrnbymaa | 15",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇳🇱NL | 🟢 | vless | @FreakConfig | 16",
-                "🇱🇻LV | 🟢 | vless | @mehrosaboran | 8",
-                "🇩🇪DE | 🟢 | vless | @kiava | 43",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vless | @FreakConfig | 16",
+                "❔XX | 🟢 | vless | @FreakConfig | 17",
+                "❔XX | 🟢 | vless | @mehrosaboran | 8",
+                "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ],
@@ -243,7 +245,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | @lrnbymaa | 15",
+            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 15",
             "type": "vless",
             "server": "51.250.86.102",
             "server_port": 443,
@@ -301,7 +303,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -330,7 +332,36 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @FreakConfig | 16",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 16",
+            "type": "vless",
+            "server": "ir.grbr.private-link.lornanet.ir",
+            "server_port": 3130,
+            "uuid": "4ed6948d-0beb-f7ca-18e8-b4259eeb0dbb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "rEfErSion.Com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "safari"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw",
+                    "short_id": "e99768d076c05ab2"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 17",
             "type": "vless",
             "server": "51.158.206.98",
             "server_port": 23576,
@@ -359,7 +390,7 @@
             }
         },
         {
-            "tag": "🇱🇻LV | 🟢 | vless | @mehrosaboran | 8",
+            "tag": "❔XX | 🟢 | vless | @mehrosaboran | 8",
             "type": "vless",
             "server": "193.124.254.76",
             "server_port": 443,
@@ -388,7 +419,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @kiava | 43",
+            "tag": "❔XX | 🟢 | vless | @kiava | 43",
             "type": "vless",
             "server": "94.141.123.12",
             "server_port": 558,
