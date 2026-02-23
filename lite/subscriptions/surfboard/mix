@@ -11,17 +11,17 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12 = trojan, 35.181.68.122, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 13 = trojan, 35.181.11.162, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | @DirectVPN | 12 = trojan, 35.181.68.122, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | @DirectVPN | 13 = trojan, 35.181.11.162, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4 = vmess, 104.19.37.10, 8080, username = e8b1500b-e9e8-5492-8312-f4eadf7d0767, ws = true, tls = , vmess-aead = true, ws-path = /NASNET/cdn, ws-headers = Host:"nasnet-571299667.rahavard365.co", skip-cert-verify = true, tfo = false
+🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 12 = trojan, 18.195.254.156, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 13 = trojan, 35.181.68.122, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🟢 | trojan | @DirectVPN | 12 = trojan, 18.195.254.156, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | @DirectVPN | 13 = trojan, 35.181.68.122, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6 = vmess, 104.19.37.10, 8080, username = e8b1500b-e9e8-5492-8312-f4eadf7d0767, ws = true, tls = , vmess-aead = true, ws-path = /NASNET/cdn, ws-headers = Host:"nasnet-571299667.rahavard365.co", skip-cert-verify = true, tfo = false
 ❔XX | 🟢 | ss | @OutlineVpnOfficial | 16 = ss, 154.53.34.27, 45234, encrypt-method = chacha20-ietf-poly1305, password = 5d8680180abdb564
 ❔XX | 🟢 | vmess | @yaney_01 | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 13,🇫🇷FR | 🟢 | trojan | @DirectVPN | 12,🇫🇷FR | 🟢 | trojan | @DirectVPN | 13,🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4
-URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 13,🇫🇷FR | 🟢 | trojan | @DirectVPN | 12,🇫🇷FR | 🟢 | trojan | @DirectVPN | 13,🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4
-FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 13,🇫🇷FR | 🟢 | trojan | @DirectVPN | 12,🇫🇷FR | 🟢 | trojan | @DirectVPN | 13,🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4
+MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 12,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 13,🇩🇪DE | 🟢 | trojan | @DirectVPN | 12,🇫🇷FR | 🟢 | trojan | @DirectVPN | 13,🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4
+URL-TEST = url-test,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 12,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 13,🇩🇪DE | 🟢 | trojan | @DirectVPN | 12,🇫🇷FR | 🟢 | trojan | @DirectVPN | 13,🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4
+FALLBACK = fallback,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 12,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 13,🇩🇪DE | 🟢 | trojan | @DirectVPN | 12,🇫🇷FR | 🟢 | trojan | @DirectVPN | 13,🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
