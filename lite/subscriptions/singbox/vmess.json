@@ -108,15 +108,14 @@
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 131",
                 "❔XX | 🟢 | vmess | @ShadowProxy66 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 0",
-                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 6",
-                "🇩🇪DE | 🟢 | vmess | @iP_CF | 4"
+                "❔XX | 🟢 | vmess | @yaney_01 | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 0",
+                "❔XX | 🟢 | vmess | @v2Line | 5",
+                "❔XX | 🟢 | vmess | @v2Line | 6",
+                "❔XX | 🟢 | vmess | @iP_CF | 4"
             ]
         },
         {
@@ -125,15 +124,14 @@
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 131",
                 "❔XX | 🟢 | vmess | @ShadowProxy66 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 0",
-                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 6",
-                "🇩🇪DE | 🟢 | vmess | @iP_CF | 4"
+                "❔XX | 🟢 | vmess | @yaney_01 | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 0",
+                "❔XX | 🟢 | vmess | @v2Line | 5",
+                "❔XX | 🟢 | vmess | @v2Line | 6",
+                "❔XX | 🟢 | vmess | @iP_CF | 4"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -187,30 +185,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6",
-            "type": "vmess",
-            "server": "104.19.37.10",
-            "server_port": 8080,
-            "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/NASNET\/cdn",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {
@@ -272,7 +246,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -306,7 +280,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vmess | @Hope_Net | 0",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 0",
             "type": "vmess",
             "server": "46.29.163.158",
             "server_port": 11811,
@@ -323,7 +297,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
+            "tag": "❔XX | 🟢 | vmess | @v2Line | 5",
             "type": "vmess",
             "server": "57.129.24.125",
             "server_port": 443,
@@ -357,7 +331,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 6",
+            "tag": "❔XX | 🟢 | vmess | @v2Line | 6",
             "type": "vmess",
             "server": "172.233.229.91",
             "server_port": 14102,
@@ -374,7 +348,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vmess | @iP_CF | 4",
+            "tag": "❔XX | 🟢 | vmess | @iP_CF | 4",
             "type": "vmess",
             "server": "57.129.25.23",
             "server_port": 443,

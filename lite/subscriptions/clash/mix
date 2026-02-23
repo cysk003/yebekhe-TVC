@@ -124,13 +124,13 @@ proxies:
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 17","type":"trojan","server":"52.29.75.76","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0","type":"vmess","server":"146.59.147.250","port":"29776","cipher":"auto","uuid":"82447abf-dcb9-408a-9ca6-79e0a7698d08","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇪🇸ES | 🔴 | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"185.18.250.245","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
-  - {"name":"🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6","type":"vmess","server":"104.19.37.10","port":"8080","cipher":"auto","uuid":"e8b1500b-e9e8-5492-8312-f4eadf7d0767","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/NASNET/cdn","headers":{"host":"nasnet-571299667.rahavard365.co"}}}
+  - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7","type":"trojan","server":"ca05.oportal.cc","port":443,"udp":false,"password":"adb13850-7e70-492e-85b2-01184801d587","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇪🇸ES | 🔴 | trojan | @oneclickvpnkeys | 8","type":"trojan","server":"185.18.250.245","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
   - {"name":"🇮🇷IR | 🟢 | vmess | @prrofile_purple | 131","type":"vmess","server":"panel713.colsvpn.top","port":"56511","cipher":"auto","uuid":"78e81d7f-f111-48d7-937d-c9d2c35cf0da","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 16","type":"ss","server":"154.53.34.27","port":45234,"password":"5d8680180abdb564","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 16","type":"ss","server":"154.53.34.27","port":45234,"password":"5d8680180abdb564","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"🇷🇺RU | 🟢 | vmess | @Hope_Net | 0","type":"vmess","server":"46.29.163.158","port":"11811","cipher":"auto","uuid":"0de1ee2b-92d7-4ca8-9f0e-64e89f5e5f6d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US | 🟢 | vmess | @v2Line | 6","type":"vmess","server":"172.233.229.91","port":"14102","cipher":"auto","uuid":"27ba87fc-583f-4763-9060-83cf0b9264db","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 0","type":"vmess","server":"46.29.163.158","port":"11811","cipher":"auto","uuid":"0de1ee2b-92d7-4ca8-9f0e-64e89f5e5f6d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | @v2Line | 6","type":"vmess","server":"172.233.229.91","port":"14102","cipher":"auto","uuid":"27ba87fc-583f-4763-9060-83cf0b9264db","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -143,13 +143,13 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
-      - '🇪🇸ES | 🔴 | trojan | @oneclickvpnkeys | 5'
-      - '🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7'
+      - '🇪🇸ES | 🔴 | trojan | @oneclickvpnkeys | 8'
       - '🇮🇷IR | 🟢 | vmess | @prrofile_purple | 131'
-      - '🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 16'
+      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 16'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
-      - '🇷🇺RU | 🟢 | vmess | @Hope_Net | 0'
-      - '🇺🇸US | 🟢 | vmess | @v2Line | 6'
+      - '❔XX | 🟢 | vmess | @Hope_Net | 0'
+      - '❔XX | 🟢 | vmess | @v2Line | 6'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -162,13 +162,13 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
-      - '🇪🇸ES | 🔴 | trojan | @oneclickvpnkeys | 5'
-      - '🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7'
+      - '🇪🇸ES | 🔴 | trojan | @oneclickvpnkeys | 8'
       - '🇮🇷IR | 🟢 | vmess | @prrofile_purple | 131'
-      - '🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 16'
+      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 16'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
-      - '🇷🇺RU | 🟢 | vmess | @Hope_Net | 0'
-      - '🇺🇸US | 🟢 | vmess | @v2Line | 6'
+      - '❔XX | 🟢 | vmess | @Hope_Net | 0'
+      - '❔XX | 🟢 | vmess | @v2Line | 6'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -180,13 +180,13 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
-      - '🇪🇸ES | 🔴 | trojan | @oneclickvpnkeys | 5'
-      - '🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7'
+      - '🇪🇸ES | 🔴 | trojan | @oneclickvpnkeys | 8'
       - '🇮🇷IR | 🟢 | vmess | @prrofile_purple | 131'
-      - '🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 16'
+      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 16'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
-      - '🇷🇺RU | 🟢 | vmess | @Hope_Net | 0'
-      - '🇺🇸US | 🟢 | vmess | @v2Line | 6'
+      - '❔XX | 🟢 | vmess | @Hope_Net | 0'
+      - '❔XX | 🟢 | vmess | @v2Line | 6'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
