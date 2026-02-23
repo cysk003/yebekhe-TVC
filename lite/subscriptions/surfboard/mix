@@ -11,17 +11,20 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16 = trojan, 35.181.11.162, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 17 = trojan, 3.65.47.214, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | @DirectVPN | 16 = trojan, 35.181.11.162, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🟢 | trojan | @DirectVPN | 17 = trojan, 3.65.47.214, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 8 = trojan, ca05.oportal.cc, 443, password = adb13850-7e70-492e-85b2-01184801d587, udp-delay = true, skip-cert-verify = true, ws = false
-🇨🇭CH | 🔴 | trojan | @oneclickvpnkeys | 9 = trojan, 185.18.250.245, 443, password = humanity, udp-delay = true, skip-cert-verify = true, sni = www.calmlunch.com, ws = false
+🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16 = trojan, 35.181.68.122, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17 = trojan, 35.181.11.162, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | @DirectVPN | 16 = trojan, 35.181.68.122, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | @DirectVPN | 17 = trojan, 35.181.11.162, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 9 = trojan, ca05.oportal.cc, 443, password = adb13850-7e70-492e-85b2-01184801d587, udp-delay = true, skip-cert-verify = true, ws = false
+🇨🇭CH | 🔴 | trojan | @oneclickvpnkeys | 10 = trojan, 185.18.250.245, 443, password = humanity, udp-delay = true, skip-cert-verify = true, sni = www.calmlunch.com, ws = false
+🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 16 = ss, 38.54.14.156, 11201, encrypt-method = chacha20-ietf-poly1305, password = a94f0b6916f67bdc
 ❔XX | 🟢 | vmess | @yaney_01 | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
+🇺🇸US | 🟢 | vmess | @v2Line | 5 = vmess, 104.19.173.68, 8080, username = e8b1500b-e9e8-5492-8312-f4eadf7d0767, ws = true, tls = , vmess-aead = true, ws-path = /NASNET/cdn, ws-headers = Host:"nasnet-571299667.rahavard365.co", skip-cert-verify = true, tfo = false
+🇳🇱NL | 🟢 | ss | @iP_CF | 2 = ss, 82.38.31.179, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇩🇪DE | 🟢 | trojan | @DirectVPN | 17,🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 8,🇨🇭CH | 🔴 | trojan | @oneclickvpnkeys | 9,❔XX | 🟢 | vmess | @yaney_01 | 4
-URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇩🇪DE | 🟢 | trojan | @DirectVPN | 17,🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 8,🇨🇭CH | 🔴 | trojan | @oneclickvpnkeys | 9,❔XX | 🟢 | vmess | @yaney_01 | 4
-FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇩🇪DE | 🟢 | trojan | @DirectVPN | 17,🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 8,🇨🇭CH | 🔴 | trojan | @oneclickvpnkeys | 9,❔XX | 🟢 | vmess | @yaney_01 | 4
+MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 9,🇨🇭CH | 🔴 | trojan | @oneclickvpnkeys | 10,🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4,🇺🇸US | 🟢 | vmess | @v2Line | 5,🇳🇱NL | 🟢 | ss | @iP_CF | 2
+URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 9,🇨🇭CH | 🔴 | trojan | @oneclickvpnkeys | 10,🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4,🇺🇸US | 🟢 | vmess | @v2Line | 5,🇳🇱NL | 🟢 | ss | @iP_CF | 2
+FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 9,🇨🇭CH | 🔴 | trojan | @oneclickvpnkeys | 10,🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4,🇺🇸US | 🟢 | vmess | @v2Line | 5,🇳🇱NL | 🟢 | ss | @iP_CF | 2
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL

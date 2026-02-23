@@ -112,9 +112,8 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇷🇺RU | 🟢 | vmess | @Hope_Net | 0",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 6",
-                "🇨🇦CA | 🟢 | vmess | @v2Line | 7",
-                "🇩🇪DE | 🟢 | vmess | @iP_CF | 4"
+                "🇺🇸US | 🟢 | vmess | @v2Line | 5",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 6"
             ]
         },
         {
@@ -127,9 +126,8 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇷🇺RU | 🟢 | vmess | @Hope_Net | 0",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 6",
-                "🇨🇦CA | 🟢 | vmess | @v2Line | 7",
-                "🇩🇪DE | 🟢 | vmess | @iP_CF | 4"
+                "🇺🇸US | 🟢 | vmess | @v2Line | 5",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -278,11 +276,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 6",
+            "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 5",
             "type": "vmess",
-            "server": "172.233.229.91",
-            "server_port": 14102,
-            "uuid": "27ba87fc-583f-4763-9060-83cf0b9264db",
+            "server": "104.19.173.68",
+            "server_port": 8080,
+            "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -292,12 +290,19 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/NASNET\/cdn",
+                "headers": {
+                    "Host": ""
+                }
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @v2Line | 7",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 6",
             "type": "vmess",
-            "server": "15.235.85.147",
+            "server": "57.129.28.63",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
@@ -312,7 +317,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "pelang.org",
+                "server_name": "",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -324,41 +329,7 @@
                 "type": "ws",
                 "path": "\/linkvws",
                 "headers": {
-                    "Host": "pelang.org"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vmess | @iP_CF | 4",
-            "type": "vmess",
-            "server": "57.129.25.23",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "yichueng.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "yichueng.org"
+                    "Host": ""
                 }
             }
         }
