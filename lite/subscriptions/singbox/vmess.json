@@ -109,14 +109,14 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6",
-                "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 131",
                 "❔XX | 🟢 | vmess | @ShadowProxy66 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 0",
                 "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 6",
-                "❔XX | 🟢 | vmess | @iP_CF | 4"
+                "🇩🇪DE | 🟢 | vmess | @iP_CF | 4"
             ]
         },
         {
@@ -126,14 +126,14 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6",
-                "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 131",
                 "❔XX | 🟢 | vmess | @ShadowProxy66 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇷🇺RU | 🟢 | vmess | @Hope_Net | 0",
                 "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 6",
-                "❔XX | 🟢 | vmess | @iP_CF | 4"
+                "🇩🇪DE | 🟢 | vmess | @iP_CF | 4"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -210,40 +210,6 @@
                 "path": "\/NASNET\/cdn",
                 "headers": {
                     "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 7",
-            "type": "vmess",
-            "server": "141.95.126.134",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "jamekk.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "jamekk.org"
                 }
             }
         },
@@ -340,6 +306,23 @@
             }
         },
         {
+            "tag": "🇷🇺RU | 🟢 | vmess | @Hope_Net | 0",
+            "type": "vmess",
+            "server": "46.29.163.158",
+            "server_port": 11811,
+            "uuid": "0de1ee2b-92d7-4ca8-9f0e-64e89f5e5f6d",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
             "type": "vmess",
             "server": "57.129.24.125",
@@ -391,7 +374,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @iP_CF | 4",
+            "tag": "🇩🇪DE | 🟢 | vmess | @iP_CF | 4",
             "type": "vmess",
             "server": "57.129.25.23",
             "server_port": 443,
