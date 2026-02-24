@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
+                "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
@@ -124,18 +124,19 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 138",
                 "🚩CF | 🟢 | vmess | @customv2ray | 8",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 0",
-                "❔XX | 🟢 | vmess | @v2Line | 1",
-                "❔XX | 🟢 | vmess | @v2Line | 2",
-                "❔XX | 🟢 | vmess | @v2Line | 3",
-                "❔XX | 🟢 | vmess | @v2Line | 4",
-                "❔XX | 🟢 | vmess | @v2Line | 5",
+                "🇭🇺HU | 🟢 | vmess | @v2Line | 0",
+                "🇭🇰HK | 🟢 | vmess | @v2Line | 1",
+                "🇹🇼TW | 🟢 | vmess | @v2Line | 2",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 3",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 4",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🟢 | vmess | @nofiltering2 | 7"
             ]
         },
@@ -143,7 +144,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
+                "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
@@ -161,18 +162,19 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 138",
                 "🚩CF | 🟢 | vmess | @customv2ray | 8",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 0",
-                "❔XX | 🟢 | vmess | @v2Line | 1",
-                "❔XX | 🟢 | vmess | @v2Line | 2",
-                "❔XX | 🟢 | vmess | @v2Line | 3",
-                "❔XX | 🟢 | vmess | @v2Line | 4",
-                "❔XX | 🟢 | vmess | @v2Line | 5",
+                "🇭🇺HU | 🟢 | vmess | @v2Line | 0",
+                "🇭🇰HK | 🟢 | vmess | @v2Line | 1",
+                "🇹🇼TW | 🟢 | vmess | @v2Line | 2",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 3",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 4",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🟢 | vmess | @nofiltering2 | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -196,7 +198,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
+            "tag": "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
             "type": "vmess",
             "server": "146.59.147.250",
             "server_port": 29776,
@@ -553,6 +555,23 @@
             }
         },
         {
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 138",
+            "type": "vmess",
+            "server": "panel713.colsvpn.top",
+            "server_port": 29168,
+            "uuid": "15eb08ba-f6c1-4c44-8024-c72dc36a31a2",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🚩CF | 🟢 | vmess | @customv2ray | 8",
             "type": "vmess",
             "server": "104.24.169.183",
@@ -727,7 +746,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 0",
+            "tag": "🇭🇺HU | 🟢 | vmess | @v2Line | 0",
             "type": "vmess",
             "server": "45.12.132.183",
             "server_port": 80,
@@ -751,7 +770,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 1",
+            "tag": "🇭🇰HK | 🟢 | vmess | @v2Line | 1",
             "type": "vmess",
             "server": "149.88.95.217",
             "server_port": 35760,
@@ -768,7 +787,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 2",
+            "tag": "🇹🇼TW | 🟢 | vmess | @v2Line | 2",
             "type": "vmess",
             "server": "165.154.195.38",
             "server_port": 35034,
@@ -785,7 +804,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 3",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 3",
             "type": "vmess",
             "server": "57.129.24.124",
             "server_port": 443,
@@ -819,7 +838,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 4",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 4",
             "type": "vmess",
             "server": "57.129.28.214",
             "server_port": 443,
@@ -853,7 +872,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 5",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
             "type": "vmess",
             "server": "57.129.28.63",
             "server_port": 443,
