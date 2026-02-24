@@ -108,6 +108,7 @@
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇸🇪SE | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 3",
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 138",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -122,6 +123,7 @@
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇸🇪SE | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 3",
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 138",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -174,6 +176,23 @@
             "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
             "alter_id": 64,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🟢 | vmess | @oneclickvpnkeys | 2",
+            "type": "vmess",
+            "server": "dd.openaccessnode.com",
+            "server_port": 502,
+            "uuid": "75193bef-8d8f-e823-41e0-2dd083dc1399",
+            "security": "auto",
+            "alter_id": 0,
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
