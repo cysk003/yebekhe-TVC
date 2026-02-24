@@ -112,16 +112,15 @@
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4",
                 "❔XX | 🔴 | vless | @v2logy | 6",
-                "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 12",
+                "❔XX | 🟢 | vless | @Outline_Vpn | 12",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
-                "🇮🇷IR | 🟢 | vless | @prrofile_purple | 126",
+                "❔XX | 🟢 | vless | @prrofile_purple | 126",
                 "❔XX | 🟢 | vless | @customv2ray | 5",
                 "❔XX | 🟢 | vless | @customv2ray | 9",
                 "❔XX | 🟢 | vless | @v2ray1_ng | 1",
                 "❔XX | 🟢 | vless | @lrnbymaa | 5",
                 "❔XX | 🟢 | vless | @lrnbymaa | 7",
                 "❔XX | 🟢 | vless | @lrnbymaa | 13",
-                "❔XX | 🟢 | vless | @lrnbymaa | 15",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -181,16 +180,15 @@
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4",
                 "❔XX | 🔴 | vless | @v2logy | 6",
-                "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 12",
+                "❔XX | 🟢 | vless | @Outline_Vpn | 12",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
-                "🇮🇷IR | 🟢 | vless | @prrofile_purple | 126",
+                "❔XX | 🟢 | vless | @prrofile_purple | 126",
                 "❔XX | 🟢 | vless | @customv2ray | 5",
                 "❔XX | 🟢 | vless | @customv2ray | 9",
                 "❔XX | 🟢 | vless | @v2ray1_ng | 1",
                 "❔XX | 🟢 | vless | @lrnbymaa | 5",
                 "❔XX | 🟢 | vless | @lrnbymaa | 7",
                 "❔XX | 🟢 | vless | @lrnbymaa | 13",
-                "❔XX | 🟢 | vless | @lrnbymaa | 15",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -448,7 +446,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 12",
+            "tag": "❔XX | 🟢 | vless | @Outline_Vpn | 12",
             "type": "vless",
             "server": "57.129.49.1",
             "server_port": 23576,
@@ -506,7 +504,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vless | @prrofile_purple | 126",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 126",
             "type": "vless",
             "server": "81.12.91.190",
             "server_port": 443,
@@ -705,35 +703,6 @@
                     "enabled": true,
                     "public_key": "Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 15",
-            "type": "vless",
-            "server": "51.250.86.102",
-            "server_port": 443,
-            "uuid": "7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "api-maps.yandex.ru",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg",
-                    "short_id": "c8597fb67d55d9c4"
                 }
             }
         },
