@@ -109,10 +109,10 @@
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 16",
                 "🇷🇺RU | 🟢 | vless | @Outline_Vpn | 17",
-                "❔XX | 🟢 | vless | @lrnbymaa | 15",
+                "🇷🇺RU | 🟢 | vless | @lrnbymaa | 15",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @FreakConfig | 17",
+                "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🟢 | vless | @mehrosaboran | 9",
                 "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
@@ -126,10 +126,10 @@
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 16",
                 "🇷🇺RU | 🟢 | vless | @Outline_Vpn | 17",
-                "❔XX | 🟢 | vless | @lrnbymaa | 15",
+                "🇷🇺RU | 🟢 | vless | @lrnbymaa | 15",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @FreakConfig | 17",
+                "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🟢 | vless | @mehrosaboran | 9",
                 "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
@@ -243,7 +243,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 15",
+            "tag": "🇷🇺RU | 🟢 | vless | @lrnbymaa | 15",
             "type": "vless",
             "server": "51.250.86.102",
             "server_port": 443,
@@ -330,11 +330,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @FreakConfig | 17",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 16",
             "type": "vless",
-            "server": "ir.grbr.private-link.lornanet.ir",
-            "server_port": 3130,
-            "uuid": "4ed6948d-0beb-f7ca-18e8-b4259eeb0dbb",
+            "server": "51.158.206.98",
+            "server_port": 23576,
+            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -344,17 +344,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "rEfErSion.Com",
+                "server_name": "fuck.rkn",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "safari"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw",
-                    "short_id": "e99768d076c05ab2"
+                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
+                    "short_id": "01"
                 }
             }
         },
