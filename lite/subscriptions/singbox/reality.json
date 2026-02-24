@@ -107,8 +107,7 @@
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
-                "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 16",
-                "🇷🇺RU | 🟢 | vless | @Outline_Vpn | 17",
+                "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "❔XX | 🟢 | vless | @lrnbymaa | 13",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -124,8 +123,7 @@
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
-                "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 16",
-                "🇷🇺RU | 🟢 | vless | @Outline_Vpn | 17",
+                "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "❔XX | 🟢 | vless | @lrnbymaa | 13",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -185,7 +183,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 16",
+            "tag": "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
             "type": "vless",
             "server": "57.129.49.1",
             "server_port": 23576,
@@ -210,35 +208,6 @@
                     "enabled": true,
                     "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
                     "short_id": "01"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺RU | 🟢 | vless | @Outline_Vpn | 17",
-            "type": "vless",
-            "server": "212.111.84.187",
-            "server_port": 51102,
-            "uuid": "c9246b70-3eca-4825-84b0-16c32e3124a7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "m.vk.ru",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc",
-                    "short_id": "887c0d72e771a934"
                 }
             }
         },
