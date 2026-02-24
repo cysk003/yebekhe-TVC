@@ -107,13 +107,14 @@
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
+                "🇩🇪DE | 🟢 | vless | @proxy_kafee | 0",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇺🇸US | 🟢 | vless | @lrnbymaa | 13",
+                "🇺🇸US | 🟢 | vless | @lrnbymaa | 14",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇳🇱NL | 🔴 | vless | @FreakConfig | 16",
-                "🇱🇻LV | 🟢 | vless | @mehrosaboran | 9",
-                "🇩🇪DE | 🟢 | vless | @kiava | 43",
+                "❔XX | 🔴 | vless | @FreakConfig | 16",
+                "❔XX | 🟢 | vless | @mehrosaboran | 9",
+                "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ]
@@ -123,13 +124,14 @@
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
+                "🇩🇪DE | 🟢 | vless | @proxy_kafee | 0",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇺🇸US | 🟢 | vless | @lrnbymaa | 13",
+                "🇺🇸US | 🟢 | vless | @lrnbymaa | 14",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇳🇱NL | 🔴 | vless | @FreakConfig | 16",
-                "🇱🇻LV | 🟢 | vless | @mehrosaboran | 9",
-                "🇩🇪DE | 🟢 | vless | @kiava | 43",
+                "❔XX | 🔴 | vless | @FreakConfig | 16",
+                "❔XX | 🟢 | vless | @mehrosaboran | 9",
+                "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ],
@@ -183,6 +185,35 @@
             }
         },
         {
+            "tag": "🇩🇪DE | 🟢 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "nl.jojack.ru",
+            "server_port": 443,
+            "uuid": "eb071647-72a6-46be-8e89-ff3d228d52f6",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "nl.jojack.ru",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4",
+                    "short_id": "6bb3c7f9f97b45b8"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
             "type": "vless",
             "server": "57.129.49.1",
@@ -212,7 +243,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @lrnbymaa | 13",
+            "tag": "🇺🇸US | 🟢 | vless | @lrnbymaa | 14",
             "type": "vless",
             "server": "142.248.80.157",
             "server_port": 443,
@@ -299,7 +330,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @FreakConfig | 16",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 16",
             "type": "vless",
             "server": "195.26.224.112",
             "server_port": 8443,
@@ -328,7 +359,7 @@
             }
         },
         {
-            "tag": "🇱🇻LV | 🟢 | vless | @mehrosaboran | 9",
+            "tag": "❔XX | 🟢 | vless | @mehrosaboran | 9",
             "type": "vless",
             "server": "193.124.254.76",
             "server_port": 443,
@@ -357,7 +388,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @kiava | 43",
+            "tag": "❔XX | 🟢 | vless | @kiava | 43",
             "type": "vless",
             "server": "94.141.123.12",
             "server_port": 558,
