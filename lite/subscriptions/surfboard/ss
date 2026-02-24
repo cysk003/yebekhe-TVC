@@ -11,12 +11,12 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-❔XX | 🟢 | ss | @OutlineVpnOfficial | 16 = ss, 38.54.14.156, 11201, encrypt-method = chacha20-ietf-poly1305, password = a94f0b6916f67bdc
-❔XX | 🟢 | ss | @iP_CF | 2 = ss, 82.38.31.179, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 16 = ss, 38.54.14.156, 11201, encrypt-method = chacha20-ietf-poly1305, password = a94f0b6916f67bdc
+🇳🇱NL | 🟢 | ss | @iP_CF | 2 = ss, 82.38.31.179, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | ss | @iP_CF | 2
-URL-TEST = url-test,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | ss | @iP_CF | 2
-FALLBACK = fallback,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | ss | @iP_CF | 2
+MANUAL = select,URL-TEST,FALLBACK,🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 16,🇳🇱NL | 🟢 | ss | @iP_CF | 2
+URL-TEST = url-test,🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 16,🇳🇱NL | 🟢 | ss | @iP_CF | 2
+FALLBACK = fallback,🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 16,🇳🇱NL | 🟢 | ss | @iP_CF | 2
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
