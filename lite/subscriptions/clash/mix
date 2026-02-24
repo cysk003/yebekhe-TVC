@@ -126,8 +126,8 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 16","type":"ss","server":"38.54.14.156","port":11201,"password":"a94f0b6916f67bdc","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
+  - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 0","type":"vmess","server":"104.19.47.174","port":8443,"cipher":"auto","uuid":"39135a39-e6ca-43df-a360-d859eea58d86","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"hk01.linkitnow.net"}}}
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 1","type":"vmess","server":"104.22.30.97","port":"80","cipher":"none","uuid":"2ac4e269-1576-4f41-8c0d-6242e3c5fd8c","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"1270.0.1.dl3.烏克爾拯救聖誕老人電影.yркельпасаетcанту.фильм.urkel.烏克爾救援.wonkacapitano.buzz."}}}
-  - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 2","type":"vmess","server":"104.19.48.35","port":"8443","cipher":"auto","uuid":"39135a39-e6ca-43df-a360-d859eea58d86","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"hk01.linkitnow.net"}}}
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 5","type":"vmess","server":"104.19.173.68","port":"8080","cipher":"auto","uuid":"e8b1500b-e9e8-5492-8312-f4eadf7d0767","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/NASNET/cdn","headers":{"host":"nasnet-571299667.rahavard365.co"}}}
 proxy-groups:
   - name: MANUAL
@@ -143,8 +143,8 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 16'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
+      - '❔XX | 🟢 | vmess | @Hope_Net | 0'
       - '❔XX | 🟢 | vmess | @Hope_Net | 1'
-      - '❔XX | 🟢 | vmess | @Hope_Net | 2'
       - '❔XX | 🟢 | vmess | @v2Line | 5'
   - name: URL-TEST
     type: url-test
@@ -160,8 +160,8 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 16'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
+      - '❔XX | 🟢 | vmess | @Hope_Net | 0'
       - '❔XX | 🟢 | vmess | @Hope_Net | 1'
-      - '❔XX | 🟢 | vmess | @Hope_Net | 2'
       - '❔XX | 🟢 | vmess | @v2Line | 5'
   - name: FALLBACK
     type: fallback
@@ -176,8 +176,8 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 16'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
+      - '❔XX | 🟢 | vmess | @Hope_Net | 0'
       - '❔XX | 🟢 | vmess | @Hope_Net | 1'
-      - '❔XX | 🟢 | vmess | @Hope_Net | 2'
       - '❔XX | 🟢 | vmess | @v2Line | 5'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
