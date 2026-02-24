@@ -139,11 +139,8 @@ proxies:
   - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 0","type":"vmess","server":"104.19.47.174","port":8443,"cipher":"auto","uuid":"39135a39-e6ca-43df-a360-d859eea58d86","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"hk01.linkitnow.net"}}}
   - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 1","type":"vmess","server":"104.22.30.97","port":"80","cipher":"none","uuid":"2ac4e269-1576-4f41-8c0d-6242e3c5fd8c","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"1270.0.1.dl3.烏克爾拯救聖誕老人電影.yркельпасаетcанту.фильм.urkel.烏克爾救援.wonkacapitano.buzz."}}}
   - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 2","type":"vmess","server":"104.19.48.35","port":"8443","cipher":"auto","uuid":"39135a39-e6ca-43df-a360-d859eea58d86","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"hk01.linkitnow.net"}}}
-  - {"name":"🇨🇦CA | 🟢 | vmess | @Hope_Net | 3","type":"vmess","server":"23.227.38.13","port":"2052","cipher":"auto","uuid":"d6b6d982-d52f-465a-b988-85670b23f64a","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"cdn2.freegradely.xyz"}}}
-  - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 4","type":"vmess","server":"104.19.58.175","port":"2052","cipher":"auto","uuid":"d6b6d982-d52f-465a-b988-85670b23f64a","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"cdn1.freegradely.xyz"}}}
-  - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 5","type":"vmess","server":"104.19.45.11","port":"2086","cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip1.1457230.xyz"}}}
-  - {"name":"🇭🇰HK | 🟢 | vmess | @v2Line | 0","type":"vmess","server":"149.88.95.217","port":"35760","cipher":"auto","uuid":"17e96792-d8c3-4741-9c34-e5d1c11d754f","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇹🇼TW | 🟢 | vmess | @v2Line | 1","type":"vmess","server":"165.154.195.38","port":"35034","cipher":"auto","uuid":"959a8caf-4cea-43d0-a548-3628e7ddfafc","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | @v2Line | 0","type":"vmess","server":"149.88.95.217","port":"35760","cipher":"auto","uuid":"17e96792-d8c3-4741-9c34-e5d1c11d754f","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | @v2Line | 1","type":"vmess","server":"165.154.195.38","port":"35034","cipher":"auto","uuid":"959a8caf-4cea-43d0-a548-3628e7ddfafc","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 2","type":"vmess","server":"47.242.192.233","port":"52190","cipher":"auto","uuid":"98689724-deb2-4a3d-b83b-602221995baf","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🚩CF | 🟢 | vmess | @v2Line | 5","type":"vmess","server":"104.19.173.68","port":"8080","cipher":"auto","uuid":"e8b1500b-e9e8-5492-8312-f4eadf7d0767","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/NASNET/cdn","headers":{"host":"nasnet-571299667.rahavard365.co"}}}
   - {"name":"❔XX | 🟢 | vmess | @nofiltering2 | 7","type":"vmess","server":"193.151.128.37","port":"3131","cipher":"auto","uuid":"23f58ce5-5e07-4d4e-9551-85f84db5c492","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -174,11 +171,8 @@ proxy-groups:
       - '🚩CF | 🟢 | vmess | @Hope_Net | 0'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 1'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 2'
-      - '🇨🇦CA | 🟢 | vmess | @Hope_Net | 3'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 4'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 5'
-      - '🇭🇰HK | 🟢 | vmess | @v2Line | 0'
-      - '🇹🇼TW | 🟢 | vmess | @v2Line | 1'
+      - '❔XX | 🟢 | vmess | @v2Line | 0'
+      - '❔XX | 🟢 | vmess | @v2Line | 1'
       - '❔XX | 🟢 | vmess | @v2Line | 2'
       - '🚩CF | 🟢 | vmess | @v2Line | 5'
       - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
@@ -209,11 +203,8 @@ proxy-groups:
       - '🚩CF | 🟢 | vmess | @Hope_Net | 0'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 1'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 2'
-      - '🇨🇦CA | 🟢 | vmess | @Hope_Net | 3'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 4'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 5'
-      - '🇭🇰HK | 🟢 | vmess | @v2Line | 0'
-      - '🇹🇼TW | 🟢 | vmess | @v2Line | 1'
+      - '❔XX | 🟢 | vmess | @v2Line | 0'
+      - '❔XX | 🟢 | vmess | @v2Line | 1'
       - '❔XX | 🟢 | vmess | @v2Line | 2'
       - '🚩CF | 🟢 | vmess | @v2Line | 5'
       - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
@@ -243,11 +234,8 @@ proxy-groups:
       - '🚩CF | 🟢 | vmess | @Hope_Net | 0'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 1'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 2'
-      - '🇨🇦CA | 🟢 | vmess | @Hope_Net | 3'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 4'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 5'
-      - '🇭🇰HK | 🟢 | vmess | @v2Line | 0'
-      - '🇹🇼TW | 🟢 | vmess | @v2Line | 1'
+      - '❔XX | 🟢 | vmess | @v2Line | 0'
+      - '❔XX | 🟢 | vmess | @v2Line | 1'
       - '❔XX | 🟢 | vmess | @v2Line | 2'
       - '🚩CF | 🟢 | vmess | @v2Line | 5'
       - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
