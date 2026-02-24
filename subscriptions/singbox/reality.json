@@ -114,7 +114,12 @@
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 12",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
-                "❔XX | 🟢 | vless | @prrofile_purple | 126",
+                "❔XX | 🟢 | vless | @prrofile_purple | 93",
+                "❔XX | 🟢 | vless | @prrofile_purple | 95",
+                "❔XX | 🔴 | vless | @prrofile_purple | 98",
+                "❔XX | 🟢 | vless | @prrofile_purple | 99",
+                "❔XX | 🔴 | vless | @prrofile_purple | 102",
+                "❔XX | 🔴 | vless | @prrofile_purple | 103",
                 "❔XX | 🟢 | vless | @customv2ray | 5",
                 "❔XX | 🟢 | vless | @customv2ray | 9",
                 "❔XX | 🟢 | vless | @v2ray1_ng | 1",
@@ -146,10 +151,11 @@
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @FreakConfig | 3",
+                "❔XX | 🟢 | vless | @FreakConfig | 0",
                 "❔XX | 🟢 | vless | @FreakConfig | 4",
-                "❔XX | 🟢 | vless | @FreakConfig | 6",
-                "❔XX | 🔴 | vless | @FreakConfig | 8",
+                "❔XX | 🟢 | vless | @FreakConfig | 5",
+                "❔XX | 🟢 | vless | @FreakConfig | 7",
+                "❔XX | 🔴 | vless | @FreakConfig | 9",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🟢 | vless | @mehrosaboran | 9",
                 "❔XX | 🔴 | vless | @kiava | 26",
@@ -182,7 +188,12 @@
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 12",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
-                "❔XX | 🟢 | vless | @prrofile_purple | 126",
+                "❔XX | 🟢 | vless | @prrofile_purple | 93",
+                "❔XX | 🟢 | vless | @prrofile_purple | 95",
+                "❔XX | 🔴 | vless | @prrofile_purple | 98",
+                "❔XX | 🟢 | vless | @prrofile_purple | 99",
+                "❔XX | 🔴 | vless | @prrofile_purple | 102",
+                "❔XX | 🔴 | vless | @prrofile_purple | 103",
                 "❔XX | 🟢 | vless | @customv2ray | 5",
                 "❔XX | 🟢 | vless | @customv2ray | 9",
                 "❔XX | 🟢 | vless | @v2ray1_ng | 1",
@@ -214,10 +225,11 @@
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @FreakConfig | 3",
+                "❔XX | 🟢 | vless | @FreakConfig | 0",
                 "❔XX | 🟢 | vless | @FreakConfig | 4",
-                "❔XX | 🟢 | vless | @FreakConfig | 6",
-                "❔XX | 🔴 | vless | @FreakConfig | 8",
+                "❔XX | 🟢 | vless | @FreakConfig | 5",
+                "❔XX | 🟢 | vless | @FreakConfig | 7",
+                "❔XX | 🔴 | vless | @FreakConfig | 9",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🟢 | vless | @mehrosaboran | 9",
                 "❔XX | 🔴 | vless | @kiava | 26",
@@ -504,11 +516,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 126",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 93",
             "type": "vless",
-            "server": "81.12.91.190",
-            "server_port": 443,
-            "uuid": "f17bb8c9-612e-4624-96fd-ca04cd01bc75",
+            "server": "45.131.108.191",
+            "server_port": 8443,
+            "uuid": "3432abbc-85da-42fe-8997-4d9041d4c923",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -518,7 +530,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "git-scm.com",
+                "server_name": "play.google.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -527,8 +539,153 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM",
-                    "short_id": "e081d94bd1f9bd56"
+                    "public_key": "RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM",
+                    "short_id": "c3b6ed4da7a983c7"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 95",
+            "type": "vless",
+            "server": "my.kiomars.shop",
+            "server_port": 6664,
+            "uuid": "3432abbc-85da-42fe-8997-4d9041d4c923",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "play.google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM",
+                    "short_id": "c3b6ed4da7a983c7"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 98",
+            "type": "vless",
+            "server": "185.26.33.209",
+            "server_port": 8011,
+            "uuid": "284794c7-4dd7-4434-a269-d5517b2768c6",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
+                    "short_id": "5ca62fd4cea30bdf"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 99",
+            "type": "vless",
+            "server": "144.31.92.173",
+            "server_port": 443,
+            "uuid": "45d95284-05ce-4e8b-ad84-a6bcdfebcb59",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "144.31.92.173",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "0A9nE6Scvg5oYRN8aRsLR-YqrvDNNX5s2UXa4yvyRkA",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 102",
+            "type": "vless",
+            "server": "185.26.33.216",
+            "server_port": 8011,
+            "uuid": "284794c7-4dd7-4434-a269-d5517b2768c6",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
+                    "short_id": "5ca62fd4cea30bdf"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 103",
+            "type": "vless",
+            "server": "193.151.137.184",
+            "server_port": 8011,
+            "uuid": "284794c7-4dd7-4434-a269-d5517b2768c6",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
+                    "short_id": "5ca62fd4cea30bdf"
                 }
             }
         },
@@ -1460,7 +1617,36 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @FreakConfig | 3",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 0",
+            "type": "vless",
+            "server": "185.227.149.123",
+            "server_port": 443,
+            "uuid": "7c3f08c8-7b3b-4028-91d8-378a18c2b62a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mycatcollection.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "qq"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": "6ba85179e30d4fc2"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 4",
             "type": "vless",
             "server": "103.231.75.185",
             "server_port": 443,
@@ -1489,7 +1675,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @FreakConfig | 4",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 5",
             "type": "vless",
             "server": "51.158.206.98",
             "server_port": 23576,
@@ -1518,7 +1704,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @FreakConfig | 6",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 7",
             "type": "vless",
             "server": "game.pineappled.org",
             "server_port": 443,
@@ -1547,7 +1733,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 8",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 9",
             "type": "vless",
             "server": "195.26.224.112",
             "server_port": 8443,
