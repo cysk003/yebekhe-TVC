@@ -109,9 +109,10 @@
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 16",
                 "🇷🇺RU | 🟢 | vless | @Outline_Vpn | 17",
-                "🇷🇺RU | 🟢 | vless | @lrnbymaa | 15",
+                "❔XX | 🟢 | vless | @lrnbymaa | 13",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🟢 | vless | @mehrosaboran | 9",
                 "❔XX | 🟢 | vless | @kiava | 43",
@@ -126,9 +127,10 @@
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 16",
                 "🇷🇺RU | 🟢 | vless | @Outline_Vpn | 17",
-                "🇷🇺RU | 🟢 | vless | @lrnbymaa | 15",
+                "❔XX | 🟢 | vless | @lrnbymaa | 13",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🟢 | vless | @mehrosaboran | 9",
                 "❔XX | 🟢 | vless | @kiava | 43",
@@ -243,11 +245,11 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | @lrnbymaa | 15",
+            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 13",
             "type": "vless",
-            "server": "51.250.86.102",
+            "server": "142.248.80.157",
             "server_port": 443,
-            "uuid": "7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd",
+            "uuid": "4aff5de5-83dc-43c9-a33e-10e6fdb90ed2",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -257,7 +259,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "api-maps.yandex.ru",
+                "server_name": "apple.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -266,8 +268,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg",
-                    "short_id": "c8597fb67d55d9c4"
+                    "public_key": "Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y",
+                    "short_id": ""
                 }
             }
         },
@@ -326,6 +328,35 @@
                     "enabled": true,
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 15",
+            "type": "vless",
+            "server": "game.pineappled.org",
+            "server_port": 443,
+            "uuid": "18f72be7-0651-4037-928b-8a309d685796",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU",
+                    "short_id": "9eb31eb7572c0882"
                 }
             }
         },
