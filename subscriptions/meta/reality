@@ -123,8 +123,7 @@ proxies:
   - {"name":"❔XX | 🟢 | vless | @rxv2ray | 7","type":"vless","server":"89.208.86.65","port":443,"udp":true,"uuid":"3a83ab7a-9b6f-460c-a128-1799f63695e3","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"tradingview.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM","short-id":"f32140952ba18e18"}}
   - {"name":"❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3","type":"vless","server":"51.158.206.93","port":23576,"udp":true,"uuid":"48ff2b70-e180-582f-8866-d9a2edeed5f5","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"fuck.rkn","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s","short-id":"01"}}
   - {"name":"❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4","type":"vless","server":"137.184.218.169","port":36925,"udp":true,"uuid":"c9fd0fb1-8251-4106-b09a-f4b426736f67","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"www.cloudflare.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0"}}
-  - {"name":"❔XX | 🟢 | vless | @Outline_Vpn | 12","type":"vless","server":"57.129.49.1","port":23576,"udp":true,"uuid":"48ff2b70-e180-582f-8866-d9a2edeed5f5","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"fuck.rkn","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s","short-id":"01"}}
-  - {"name":"❔XX | 🟢 | vless | @Outline_Vpn | 17","type":"vless","server":"212.111.84.187","port":51102,"udp":true,"uuid":"c9246b70-3eca-4825-84b0-16c32e3124a7","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"m.vk.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc","short-id":"887c0d72e771a934"}}
+  - {"name":"❔XX | 🟢 | vless | @Outline_Vpn | 13","type":"vless","server":"57.129.49.1","port":23576,"udp":true,"uuid":"48ff2b70-e180-582f-8866-d9a2edeed5f5","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"fuck.rkn","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s","short-id":"01"}}
   - {"name":"❔XX | 🟢 | vless | @prrofile_purple | 93","type":"vless","server":"45.131.108.191","port":8443,"udp":true,"uuid":"3432abbc-85da-42fe-8997-4d9041d4c923","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"play.google.com","reality-opts":{"public-key":"RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM","short-id":"c3b6ed4da7a983c7"}}
   - {"name":"❔XX | 🟢 | vless | @prrofile_purple | 95","type":"vless","server":"my.kiomars.shop","port":6664,"udp":true,"uuid":"3432abbc-85da-42fe-8997-4d9041d4c923","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"play.google.com","reality-opts":{"public-key":"RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM","short-id":"c3b6ed4da7a983c7"}}
   - {"name":"❔XX | 🔴 | vless | @prrofile_purple | 98","type":"vless","server":"185.26.33.209","port":8011,"udp":true,"uuid":"284794c7-4dd7-4434-a269-d5517b2768c6","tls":true,"network":"xhttp","client-fingerprint":"firefox","servername":"www.tgju.org","reality-opts":{"public-key":"bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM","short-id":"5ca62fd4cea30bdf"}}
@@ -189,8 +188,7 @@ proxy-groups:
       - '❔XX | 🟢 | vless | @rxv2ray | 7'
       - '❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3'
       - '❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4'
-      - '❔XX | 🟢 | vless | @Outline_Vpn | 12'
-      - '❔XX | 🟢 | vless | @Outline_Vpn | 17'
+      - '❔XX | 🟢 | vless | @Outline_Vpn | 13'
       - '❔XX | 🟢 | vless | @prrofile_purple | 93'
       - '❔XX | 🟢 | vless | @prrofile_purple | 95'
       - '❔XX | 🔴 | vless | @prrofile_purple | 98'
@@ -255,8 +253,7 @@ proxy-groups:
       - '❔XX | 🟢 | vless | @rxv2ray | 7'
       - '❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3'
       - '❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4'
-      - '❔XX | 🟢 | vless | @Outline_Vpn | 12'
-      - '❔XX | 🟢 | vless | @Outline_Vpn | 17'
+      - '❔XX | 🟢 | vless | @Outline_Vpn | 13'
       - '❔XX | 🟢 | vless | @prrofile_purple | 93'
       - '❔XX | 🟢 | vless | @prrofile_purple | 95'
       - '❔XX | 🔴 | vless | @prrofile_purple | 98'
@@ -320,8 +317,7 @@ proxy-groups:
       - '❔XX | 🟢 | vless | @rxv2ray | 7'
       - '❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3'
       - '❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4'
-      - '❔XX | 🟢 | vless | @Outline_Vpn | 12'
-      - '❔XX | 🟢 | vless | @Outline_Vpn | 17'
+      - '❔XX | 🟢 | vless | @Outline_Vpn | 13'
       - '❔XX | 🟢 | vless | @prrofile_purple | 93'
       - '❔XX | 🟢 | vless | @prrofile_purple | 95'
       - '❔XX | 🔴 | vless | @prrofile_purple | 98'
