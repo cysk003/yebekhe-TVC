@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
+                "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
@@ -122,8 +122,6 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 5",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 138",
                 "🚩CF | 🟢 | vmess | @customv2ray | 8",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
@@ -144,7 +142,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
+                "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
@@ -160,8 +158,6 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 5",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 138",
                 "🚩CF | 🟢 | vmess | @customv2ray | 8",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
@@ -198,7 +194,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
+            "tag": "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
             "type": "vmess",
             "server": "146.59.147.250",
             "server_port": 29776,
@@ -483,74 +479,6 @@
                 "path": "\/linkvws",
                 "headers": {
                     "Host": "yichueng.org"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 5",
-            "type": "vmess",
-            "server": "15.235.85.147",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "pelang.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "pelang.org"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
-            "type": "vmess",
-            "server": "57.128.216.125",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "kampong.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "kampong.org"
                 }
             }
         },
