@@ -106,14 +106,14 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 18"
+                "❔XX | 🟢 | ss | @OutlineVpnOfficial | 17"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 18"
+                "❔XX | 🟢 | ss | @OutlineVpnOfficial | 17"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -136,12 +136,12 @@
             "type": "dns"
         },
         {
-            "tag": "🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 18",
+            "tag": "❔XX | 🟢 | ss | @OutlineVpnOfficial | 17",
             "type": "shadowsocks",
-            "server": "38.54.14.156",
-            "server_port": 11201,
+            "server": "46.250.241.55",
+            "server_port": 45720,
             "method": "chacha20-ietf-poly1305",
-            "password": "a94f0b6916f67bdc",
+            "password": "c90d63dc7a6203af",
             "plugin": "",
             "plugin_opts": ""
         }
