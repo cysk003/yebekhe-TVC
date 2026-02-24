@@ -123,8 +123,6 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 5",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 8",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 124",
                 "🚩CF | 🟢 | vmess | @customv2ray | 8",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
@@ -135,11 +133,11 @@
                 "🚩CF | 🟢 | vmess | @Hope_Net | 0",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 1",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 2",
-                "❔XX | 🟢 | vmess | @Hope_Net | 3",
+                "🇨🇦CA | 🟢 | vmess | @Hope_Net | 3",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 4",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 0",
-                "❔XX | 🟢 | vmess | @v2Line | 1",
+                "🇭🇰HK | 🟢 | vmess | @v2Line | 0",
+                "🇹🇼TW | 🟢 | vmess | @v2Line | 1",
                 "❔XX | 🟢 | vmess | @v2Line | 2",
                 "❔XX | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
@@ -169,8 +167,6 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 5",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 8",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 124",
                 "🚩CF | 🟢 | vmess | @customv2ray | 8",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
@@ -181,11 +177,11 @@
                 "🚩CF | 🟢 | vmess | @Hope_Net | 0",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 1",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 2",
-                "❔XX | 🟢 | vmess | @Hope_Net | 3",
+                "🇨🇦CA | 🟢 | vmess | @Hope_Net | 3",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 4",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 0",
-                "❔XX | 🟢 | vmess | @v2Line | 1",
+                "🇭🇰HK | 🟢 | vmess | @v2Line | 0",
+                "🇹🇼TW | 🟢 | vmess | @v2Line | 1",
                 "❔XX | 🟢 | vmess | @v2Line | 2",
                 "❔XX | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
@@ -571,57 +567,6 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
-            "type": "vmess",
-            "server": "87.120.219.124",
-            "server_port": 2086,
-            "uuid": "e6a866ca-1756-44ed-9866-a9949f2bad38",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 8",
-            "type": "vmess",
-            "server": "141.95.126.134",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "jamekk.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "jamekk.org"
-                }
-            }
-        },
-        {
             "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 124",
             "type": "vmess",
             "server": "panel713.colsvpn.top",
@@ -905,7 +850,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 3",
+            "tag": "🇨🇦CA | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
             "server": "23.227.38.13",
             "server_port": 2052,
@@ -977,7 +922,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 0",
+            "tag": "🇭🇰HK | 🟢 | vmess | @v2Line | 0",
             "type": "vmess",
             "server": "149.88.95.217",
             "server_port": 35760,
@@ -994,7 +939,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 1",
+            "tag": "🇹🇼TW | 🟢 | vmess | @v2Line | 1",
             "type": "vmess",
             "server": "165.154.195.38",
             "server_port": 35034,
