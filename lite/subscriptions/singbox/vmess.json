@@ -108,13 +108,12 @@
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇵🇱PL | 🟢 | vmess | @oneclickvpnkeys | 6",
-                "🇬🇧GB | 🟢 | vmess | @oneclickvpnkeys | 7",
+                "🇵🇱PL | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 131",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 5",
-                "🇨🇦CA | 🟢 | vmess | @v2Line | 6"
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 4",
+                "🇺🇸US | 🟢 | vmess | @v2Line | 5"
             ]
         },
         {
@@ -123,13 +122,12 @@
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇵🇱PL | 🟢 | vmess | @oneclickvpnkeys | 6",
-                "🇬🇧GB | 🟢 | vmess | @oneclickvpnkeys | 7",
+                "🇵🇱PL | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 131",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @v2Line | 5",
-                "🇨🇦CA | 🟢 | vmess | @v2Line | 6"
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 4",
+                "🇺🇸US | 🟢 | vmess | @v2Line | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -186,7 +184,7 @@
             }
         },
         {
-            "tag": "🇵🇱PL | 🟢 | vmess | @oneclickvpnkeys | 6",
+            "tag": "🇵🇱PL | 🟢 | vmess | @oneclickvpnkeys | 7",
             "type": "vmess",
             "server": "57.128.216.125",
             "server_port": 443,
@@ -216,40 +214,6 @@
                 "path": "\/linkvws",
                 "headers": {
                     "Host": "kampong.org"
-                }
-            }
-        },
-        {
-            "tag": "🇬🇧GB | 🟢 | vmess | @oneclickvpnkeys | 7",
-            "type": "vmess",
-            "server": "57.128.189.222",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "lammaland.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "lammaland.org"
                 }
             }
         },
@@ -329,26 +293,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 5",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 4",
             "type": "vmess",
-            "server": "172.233.229.91",
-            "server_port": 14102,
-            "uuid": "27ba87fc-583f-4763-9060-83cf0b9264db",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🟢 | vmess | @v2Line | 6",
-            "type": "vmess",
-            "server": "15.235.85.147",
+            "server": "57.129.28.63",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
@@ -363,7 +310,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "pelang.org",
+                "server_name": "",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -375,8 +322,25 @@
                 "type": "ws",
                 "path": "\/linkvws",
                 "headers": {
-                    "Host": "pelang.org"
+                    "Host": ""
                 }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 5",
+            "type": "vmess",
+            "server": "172.233.229.91",
+            "server_port": 14102,
+            "uuid": "27ba87fc-583f-4763-9060-83cf0b9264db",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         }
     ],
