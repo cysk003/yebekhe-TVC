@@ -16,11 +16,11 @@ DIRECT = direct
 🇫🇷FR | 🟢 | trojan | @DirectVPN | 16 = trojan, 35.181.68.122, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
 🇫🇷FR | 🟢 | trojan | @DirectVPN | 17 = trojan, 35.181.11.162, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
 🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8 = trojan, free-de-2.undef.network, 443, password = pYIoKUPGpWeTYXEx3HjR7s97B, udp-delay = true, skip-cert-verify = true, ws = false
-🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 9 = trojan, ca05.oportal.cc, 443, password = adb13850-7e70-492e-85b2-01184801d587, udp-delay = true, skip-cert-verify = true, ws = false
+🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 9 = trojan, ca05.oportal.cc, 443, password = adb13850-7e70-492e-85b2-01184801d587, udp-delay = true, skip-cert-verify = true, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8,🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 9
-URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8,🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 9
-FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8,🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 9
+MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8,🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 9
+URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8,🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 9
+FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8,🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 9
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
