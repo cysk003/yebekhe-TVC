@@ -15,15 +15,13 @@ DIRECT = direct
 🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17 = trojan, 13.39.244.211, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
 🇫🇷FR | 🟢 | trojan | @DirectVPN | 16 = trojan, 35.181.35.59, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
 🇫🇷FR | 🟢 | trojan | @DirectVPN | 17 = trojan, 13.39.244.211, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | ss | @OutlineVpnOfficial | 16 = ss, 38.54.14.156, 11201, encrypt-method = chacha20-ietf-poly1305, password = a94f0b6916f67bdc
+🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 16 = ss, 38.54.14.156, 11201, encrypt-method = chacha20-ietf-poly1305, password = a94f0b6916f67bdc
 ❔XX | 🟢 | vmess | @yaney_01 | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | @Hope_Net | 0 = vmess, 104.19.47.174, 8443, username = 39135a39-e6ca-43df-a360-d859eea58d86, ws = true, tls = 1, vmess-aead = false, ws-path = /, ws-headers = Host:"hk01.linkitnow.net", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | @Hope_Net | 1 = vmess, 104.22.30.97, 80, username = 2ac4e269-1576-4f41-8c0d-6242e3c5fd8c, ws = true, tls = , vmess-aead = true, ws-path = /vmess, ws-headers = Host:"1270.0.1.dl3.烏克爾拯救聖誕老人電影.yркельпасаетcанту.фильм.urkel.烏克爾救援.wonkacapitano.buzz.", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | @v2Line | 5 = vmess, 104.19.173.68, 8080, username = e8b1500b-e9e8-5492-8312-f4eadf7d0767, ws = true, tls = , vmess-aead = true, ws-path = /NASNET/cdn, ws-headers = Host:"nasnet-571299667.rahavard365.co", skip-cert-verify = true, tfo = false
+🇺🇸US | 🟢 | vmess | @v2Line | 5 = vmess, 104.19.173.68, 8080, username = e8b1500b-e9e8-5492-8312-f4eadf7d0767, ws = true, tls = , vmess-aead = true, ws-path = /NASNET/cdn, ws-headers = Host:"nasnet-571299667.rahavard365.co", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4,❔XX | 🟢 | vmess | @Hope_Net | 0,❔XX | 🟢 | vmess | @Hope_Net | 1,❔XX | 🟢 | vmess | @v2Line | 5
-URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4,❔XX | 🟢 | vmess | @Hope_Net | 0,❔XX | 🟢 | vmess | @Hope_Net | 1,❔XX | 🟢 | vmess | @v2Line | 5
-FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4,❔XX | 🟢 | vmess | @Hope_Net | 0,❔XX | 🟢 | vmess | @Hope_Net | 1,❔XX | 🟢 | vmess | @v2Line | 5
+MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4,🇺🇸US | 🟢 | vmess | @v2Line | 5
+URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4,🇺🇸US | 🟢 | vmess | @v2Line | 5
+FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17,🇫🇷FR | 🟢 | trojan | @DirectVPN | 16,🇫🇷FR | 🟢 | trojan | @DirectVPN | 17,🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 16,❔XX | 🟢 | vmess | @yaney_01 | 4,🇺🇸US | 🟢 | vmess | @v2Line | 5
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
