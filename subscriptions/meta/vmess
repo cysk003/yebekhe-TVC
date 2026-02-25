@@ -141,7 +141,7 @@ proxies:
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 0","type":"vmess","server":"45.12.132.183","port":"80","cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"45.12.132.183"}}}
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 1","type":"vmess","server":"149.88.95.217","port":"35760","cipher":"auto","uuid":"17e96792-d8c3-4741-9c34-e5d1c11d754f","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 2","type":"vmess","server":"165.154.195.38","port":"35034","cipher":"auto","uuid":"959a8caf-4cea-43d0-a548-3628e7ddfafc","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | @nofiltering2 | 7","type":"vmess","server":"193.151.128.37","port":"3131","cipher":"auto","uuid":"23f58ce5-5e07-4d4e-9551-85f84db5c492","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7","type":"vmess","server":"193.151.128.37","port":"3131","cipher":"auto","uuid":"23f58ce5-5e07-4d4e-9551-85f84db5c492","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -169,7 +169,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @v2Line | 0'
       - '❔XX | 🟢 | vmess | @v2Line | 1'
       - '❔XX | 🟢 | vmess | @v2Line | 2'
-      - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
+      - '🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -197,7 +197,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @v2Line | 0'
       - '❔XX | 🟢 | vmess | @v2Line | 1'
       - '❔XX | 🟢 | vmess | @v2Line | 2'
-      - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
+      - '🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -224,7 +224,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @v2Line | 0'
       - '❔XX | 🟢 | vmess | @v2Line | 1'
       - '❔XX | 🟢 | vmess | @v2Line | 2'
-      - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
+      - '🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
