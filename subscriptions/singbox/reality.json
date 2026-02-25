@@ -159,7 +159,7 @@
                 "🇹🇷TR | 🟢 | vless | @FreakConfig | 12",
                 "🇳🇱NL | 🟢 | vless | @FreakConfig | 13",
                 "🇫🇮FI | 🟢 | vless | @FreakConfig | 15",
-                "🇩🇪DE | 🔴 | vless | @flyv2ray | 2",
+                "🇳🇱NL | 🟢 | vless | @flyv2ray | 1",
                 "❔XX | 🟢 | vless | @mehrosaboran | 10",
                 "❔XX | 🔴 | vless | @kiava | 26",
                 "❔XX | 🔴 | vless | @kiava | 30",
@@ -236,7 +236,7 @@
                 "🇹🇷TR | 🟢 | vless | @FreakConfig | 12",
                 "🇳🇱NL | 🟢 | vless | @FreakConfig | 13",
                 "🇫🇮FI | 🟢 | vless | @FreakConfig | 15",
-                "🇩🇪DE | 🔴 | vless | @flyv2ray | 2",
+                "🇳🇱NL | 🟢 | vless | @flyv2ray | 1",
                 "❔XX | 🟢 | vless | @mehrosaboran | 10",
                 "❔XX | 🔴 | vless | @kiava | 26",
                 "❔XX | 🔴 | vless | @kiava | 30",
@@ -1855,11 +1855,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @flyv2ray | 2",
+            "tag": "🇳🇱NL | 🟢 | vless | @flyv2ray | 1",
             "type": "vless",
-            "server": "89.117.152.121",
-            "server_port": 2053,
-            "uuid": "263d4075-966a-4240-cef1-239e742cfabb",
+            "server": "185.162.11.223",
+            "server_port": 443,
+            "uuid": "a7b1b295-89c0-4794-bc3b-13af6cf63312",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1869,7 +1869,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "yahoo.com",
+                "server_name": "sun6-21.userapi.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1878,8 +1878,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "T-p5Nm42rNu7QxUadtXjWCmhUZSzDdXjiEHbgkP6PG0",
-                    "short_id": ""
+                    "public_key": "htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE",
+                    "short_id": "edbc04c389"
                 }
             }
         },
