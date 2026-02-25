@@ -109,6 +109,7 @@
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
+                "❔XX | 🟢 | vless | @v2ray1_ng | 2",
                 "❔XX | 🟢 | vless | @lrnbymaa | 16",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -127,6 +128,7 @@
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
+                "❔XX | 🟢 | vless | @v2ray1_ng | 2",
                 "❔XX | 🟢 | vless | @lrnbymaa | 16",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -241,6 +243,35 @@
                     "enabled": true,
                     "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
                     "short_id": "01"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @v2ray1_ng | 2",
+            "type": "vless",
+            "server": "5.182.38.91",
+            "server_port": 17267,
+            "uuid": "1c7fcc38-e6be-43c5-875f-b8de2516b9f2",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk",
+                    "short_id": "4ae260"
                 }
             }
         },
