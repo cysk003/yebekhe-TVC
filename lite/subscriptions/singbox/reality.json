@@ -112,7 +112,8 @@
                 "🇺🇸US | 🟢 | vless | @lrnbymaa | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇫🇮FI | 🟢 | vless | @FreakConfig | 18",
+                "❔XX | 🟢 | vless | @FreakConfig | 18",
+                "❔XX | 🟢 | vless | @flyv2ray | 3",
                 "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
@@ -128,7 +129,8 @@
                 "🇺🇸US | 🟢 | vless | @lrnbymaa | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇫🇮FI | 🟢 | vless | @FreakConfig | 18",
+                "❔XX | 🟢 | vless | @FreakConfig | 18",
+                "❔XX | 🟢 | vless | @flyv2ray | 3",
                 "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
@@ -335,7 +337,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | @FreakConfig | 18",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 18",
             "type": "vless",
             "server": "game.pineappled.org",
             "server_port": 443,
@@ -360,6 +362,35 @@
                     "enabled": true,
                     "public_key": "qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU",
                     "short_id": "9eb31eb7572c0882"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @flyv2ray | 3",
+            "type": "vless",
+            "server": "185.162.11.223",
+            "server_port": 443,
+            "uuid": "a7b1b295-89c0-4794-bc3b-13af6cf63312",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sun6-21.userapi.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE",
+                    "short_id": "edbc04c389"
                 }
             }
         },
