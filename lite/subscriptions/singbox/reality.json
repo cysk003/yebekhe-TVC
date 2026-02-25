@@ -112,7 +112,7 @@
                 "❔XX | 🟢 | vless | @lrnbymaa | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🔴 | vless | @FreakConfig | 18",
+                "❔XX | 🟢 | vless | @FreakConfig | 17",
                 "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
@@ -128,7 +128,7 @@
                 "❔XX | 🟢 | vless | @lrnbymaa | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🔴 | vless | @FreakConfig | 18",
+                "❔XX | 🟢 | vless | @FreakConfig | 17",
                 "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
@@ -335,11 +335,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 18",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 17",
             "type": "vless",
-            "server": "195.26.224.112",
-            "server_port": 8443,
-            "uuid": "db444bee-8212-5ff5-be40-47e1a7509eb8",
+            "server": "game.pineappled.org",
+            "server_port": 443,
+            "uuid": "18f72be7-0651-4037-928b-8a309d685796",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -349,7 +349,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "vk.com",
+                "server_name": "google.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -358,8 +358,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ",
-                    "short_id": "938f14cf6757a249"
+                    "public_key": "qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU",
+                    "short_id": "9eb31eb7572c0882"
                 }
             }
         },
