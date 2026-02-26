@@ -116,9 +116,12 @@
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 15",
-                "❔XX | 🟢 | vless | @prrofile_purple | 101",
                 "❔XX | 🟢 | vless | @prrofile_purple | 130",
                 "❔XX | 🟢 | vless | @prrofile_purple | 132",
+                "❔XX | 🔴 | vless | @prrofile_purple | 135",
+                "❔XX | 🟢 | vless | @prrofile_purple | 136",
+                "❔XX | 🔴 | vless | @prrofile_purple | 139",
+                "❔XX | 🔴 | vless | @prrofile_purple | 140",
                 "❔XX | 🔴 | vless | @ShadowSocks_s | 0",
                 "❔XX | 🟢 | vless | @customv2ray | 5",
                 "❔XX | 🟢 | vless | @customv2ray | 9",
@@ -157,11 +160,12 @@
                 "❔XX | 🔴 | vless | @FreakConfig | 4",
                 "❔XX | 🟢 | vless | @FreakConfig | 17",
                 "❔XX | 🟢 | vless | @FreakConfig | 18",
-                "❔XX | 🟢 | vless | @flyv2ray | 3",
-                "❔XX | 🟢 | vless | @mehrosaboran | 1",
+                "🇹🇷TR | 🟢 | vless | @flyv2ray | 1",
+                "🇳🇱NL | 🟢 | vless | @flyv2ray | 6",
+                "🇫🇷FR | 🟢 | vless | @mehrosaboran | 1",
                 "❔XX | 🔴 | vless | @kiava | 26",
-                "🇩🇪DE | 🔴 | vless | @kiava | 30",
-                "🇩🇪DE | 🟢 | vless | @kiava | 43",
+                "❔XX | 🔴 | vless | @kiava | 30",
+                "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -191,9 +195,12 @@
                 "❔XX | 🟢 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 15",
-                "❔XX | 🟢 | vless | @prrofile_purple | 101",
                 "❔XX | 🟢 | vless | @prrofile_purple | 130",
                 "❔XX | 🟢 | vless | @prrofile_purple | 132",
+                "❔XX | 🔴 | vless | @prrofile_purple | 135",
+                "❔XX | 🟢 | vless | @prrofile_purple | 136",
+                "❔XX | 🔴 | vless | @prrofile_purple | 139",
+                "❔XX | 🔴 | vless | @prrofile_purple | 140",
                 "❔XX | 🔴 | vless | @ShadowSocks_s | 0",
                 "❔XX | 🟢 | vless | @customv2ray | 5",
                 "❔XX | 🟢 | vless | @customv2ray | 9",
@@ -232,11 +239,12 @@
                 "❔XX | 🔴 | vless | @FreakConfig | 4",
                 "❔XX | 🟢 | vless | @FreakConfig | 17",
                 "❔XX | 🟢 | vless | @FreakConfig | 18",
-                "❔XX | 🟢 | vless | @flyv2ray | 3",
-                "❔XX | 🟢 | vless | @mehrosaboran | 1",
+                "🇹🇷TR | 🟢 | vless | @flyv2ray | 1",
+                "🇳🇱NL | 🟢 | vless | @flyv2ray | 6",
+                "🇫🇷FR | 🟢 | vless | @mehrosaboran | 1",
                 "❔XX | 🔴 | vless | @kiava | 26",
-                "🇩🇪DE | 🔴 | vless | @kiava | 30",
-                "🇩🇪DE | 🟢 | vless | @kiava | 43",
+                "❔XX | 🔴 | vless | @kiava | 30",
+                "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -576,35 +584,6 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 101",
-            "type": "vless",
-            "server": "my.kiomars.shop",
-            "server_port": 6664,
-            "uuid": "32e97345-6a66-4810-9821-82f07a0e2d6c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "play.google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM",
-                    "short_id": "c3b6ed4da7a983c7"
-                }
-            }
-        },
-        {
             "tag": "❔XX | 🟢 | vless | @prrofile_purple | 130",
             "type": "vless",
             "server": "45.131.108.191",
@@ -659,6 +638,122 @@
                     "enabled": true,
                     "public_key": "RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM",
                     "short_id": "c3b6ed4da7a983c7"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 135",
+            "type": "vless",
+            "server": "185.26.33.209",
+            "server_port": 8011,
+            "uuid": "284794c7-4dd7-4434-a269-d5517b2768c6",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
+                    "short_id": "5ca62fd4cea30bdf"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 136",
+            "type": "vless",
+            "server": "144.31.92.173",
+            "server_port": 443,
+            "uuid": "45d95284-05ce-4e8b-ad84-a6bcdfebcb59",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "144.31.92.173",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "0A9nE6Scvg5oYRN8aRsLR-YqrvDNNX5s2UXa4yvyRkA",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 139",
+            "type": "vless",
+            "server": "185.26.33.216",
+            "server_port": 8011,
+            "uuid": "284794c7-4dd7-4434-a269-d5517b2768c6",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
+                    "short_id": "5ca62fd4cea30bdf"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 140",
+            "type": "vless",
+            "server": "193.151.137.184",
+            "server_port": 8011,
+            "uuid": "284794c7-4dd7-4434-a269-d5517b2768c6",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM",
+                    "short_id": "5ca62fd4cea30bdf"
                 }
             }
         },
@@ -1800,7 +1895,36 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @flyv2ray | 3",
+            "tag": "🇹🇷TR | 🟢 | vless | @flyv2ray | 1",
+            "type": "vless",
+            "server": "103.231.75.185",
+            "server_port": 443,
+            "uuid": "c4e055e5-c9dd-44ae-8daf-2f0f344dcbdb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U",
+                    "short_id": "0bce"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱NL | 🟢 | vless | @flyv2ray | 6",
             "type": "vless",
             "server": "185.162.11.223",
             "server_port": 443,
@@ -1829,7 +1953,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @mehrosaboran | 1",
+            "tag": "🇫🇷FR | 🟢 | vless | @mehrosaboran | 1",
             "type": "vless",
             "server": "maxb08.ava-shop.ir",
             "server_port": 2096,
@@ -1887,7 +2011,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 30",
+            "tag": "❔XX | 🔴 | vless | @kiava | 30",
             "type": "vless",
             "server": "prime.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -1923,7 +2047,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @kiava | 43",
+            "tag": "❔XX | 🟢 | vless | @kiava | 43",
             "type": "vless",
             "server": "94.141.123.12",
             "server_port": 558,
