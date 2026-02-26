@@ -118,13 +118,13 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
-  - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 0","type":"ss","server":"66.94.121.161","port":20207,"password":"9653c37eda1c0cca","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 1","type":"ss","server":"157.185.173.60","port":46727,"password":"29acd960ab8e3408","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 0","type":"ss","server":"66.94.121.161","port":20207,"password":"9653c37eda1c0cca","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇧🇷BR | 🟢 | ss | @OutlineVpnOfficial | 1","type":"ss","server":"157.185.173.60","port":46727,"password":"29acd960ab8e3408","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 2","type":"ss","server":"213.156.137.142","port":43659,"password":"a8201bbd740420bb","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 4","type":"ss","server":"154.205.152.64","port":11201,"password":"315eb3e160cf2432","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 5","type":"ss","server":"163.171.206.24","port":44233,"password":"9d97433688e7efd5","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 7","type":"ss","server":"154.53.34.134","port":16541,"password":"783f6143434cd5c8","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 8","type":"ss","server":"91.106.109.17","port":41022,"password":"0bb447cee7228eb0","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 7","type":"ss","server":"154.53.34.134","port":16541,"password":"783f6143434cd5c8","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇴JO | 🟢 | ss | @OutlineVpnOfficial | 8","type":"ss","server":"91.106.109.17","port":41022,"password":"0bb447cee7228eb0","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 9","type":"ss","server":"163.171.181.49","port":42934,"password":"877c3b069c335ffc","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 11","type":"ss","server":"93.174.164.89","port":11201,"password":"0bc801a7cac5f134","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 14","type":"ss","server":"112.197.26.106","port":45312,"password":"ca5a5efae00a832b","cipher":"chacha20-ietf-poly1305"}
@@ -134,13 +134,13 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 0'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 1'
+      - '🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 0'
+      - '🇧🇷BR | 🟢 | ss | @OutlineVpnOfficial | 1'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 2'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 4'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 5'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 7'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 8'
+      - '🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 7'
+      - '🇯🇴JO | 🟢 | ss | @OutlineVpnOfficial | 8'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 9'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 11'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 14'
@@ -150,13 +150,13 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 0'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 1'
+      - '🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 0'
+      - '🇧🇷BR | 🟢 | ss | @OutlineVpnOfficial | 1'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 2'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 4'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 5'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 7'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 8'
+      - '🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 7'
+      - '🇯🇴JO | 🟢 | ss | @OutlineVpnOfficial | 8'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 9'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 11'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 14'
@@ -165,13 +165,13 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 0'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 1'
+      - '🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 0'
+      - '🇧🇷BR | 🟢 | ss | @OutlineVpnOfficial | 1'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 2'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 4'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 5'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 7'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 8'
+      - '🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 7'
+      - '🇯🇴JO | 🟢 | ss | @OutlineVpnOfficial | 8'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 9'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 11'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 14'
