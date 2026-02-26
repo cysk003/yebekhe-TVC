@@ -110,10 +110,9 @@
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
                 "🇫🇮FI | 🔴 | vless | @ShadowSocks_s | 0",
-                "❔XX | 🟢 | vless | @lrnbymaa | 17",
+                "❔XX | 🟢 | vless | @lrnbymaa | 18",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @FreakConfig | 17",
                 "❔XX | 🟢 | vless | @FreakConfig | 18",
                 "❔XX | 🟢 | vless | @flyv2ray | 6",
                 "❔XX | 🟢 | vless | @kiava | 43",
@@ -129,10 +128,9 @@
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
                 "🇫🇮FI | 🔴 | vless | @ShadowSocks_s | 0",
-                "❔XX | 🟢 | vless | @lrnbymaa | 17",
+                "❔XX | 🟢 | vless | @lrnbymaa | 18",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @FreakConfig | 17",
                 "❔XX | 🟢 | vless | @FreakConfig | 18",
                 "❔XX | 🟢 | vless | @flyv2ray | 6",
                 "❔XX | 🟢 | vless | @kiava | 43",
@@ -283,7 +281,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 17",
+            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 18",
             "type": "vless",
             "server": "142.248.80.157",
             "server_port": 443,
@@ -370,7 +368,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @FreakConfig | 17",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 18",
             "type": "vless",
             "server": "103.231.75.185",
             "server_port": 443,
@@ -395,35 +393,6 @@
                     "enabled": true,
                     "public_key": "ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U",
                     "short_id": "0bce"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @FreakConfig | 18",
-            "type": "vless",
-            "server": "51.158.206.98",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "fuck.rkn",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
                 }
             }
         },
