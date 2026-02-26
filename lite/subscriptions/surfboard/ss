@@ -11,10 +11,11 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
+❔XX | 🟢 | ss | @OutlineVpnOfficial | 18 = ss, 46.250.241.55, 45720, encrypt-method = chacha20-ietf-poly1305, password = c90d63dc7a6203af
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK
-URL-TEST = url-test
-FALLBACK = fallback
+MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | ss | @OutlineVpnOfficial | 18
+URL-TEST = url-test,❔XX | 🟢 | ss | @OutlineVpnOfficial | 18
+FALLBACK = fallback,❔XX | 🟢 | ss | @OutlineVpnOfficial | 18
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
