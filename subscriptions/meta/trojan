@@ -152,9 +152,10 @@ proxies:
   - {"name":"❔XX | 🟢 | trojan | @DirectVPN | 13","type":"trojan","server":"63.181.122.119","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @DirectVPN | 14","type":"trojan","server":"3.76.141.128","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @DirectVPN | 15","type":"trojan","server":"51.44.96.183","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 0","type":"trojan","server":"mfyousheng.nl.eu.org","port":443,"udp":false,"password":"Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"mfyousheng.nl.eu.org"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 1","type":"trojan","server":"141.193.213.199","port":443,"udp":false,"password":"557a788e-4d35-448b-8eba-4b844be87b14","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ukmp1pz6n5doe90u.tkgogocsgo.top"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"hl-freedom-2.undef.network","port":443,"udp":false,"password":"Tn2Bf0iRwJkJQgDk6gX6x81RB","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"hl-freedom-2.undef.network"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 0","type":"trojan","server":"sdfgtyu.0h0.ccwu.cc","port":443,"udp":false,"password":"9e308743-bc58-4109-b8a8-c2c686959c65","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 1","type":"trojan","server":"mfyousheng.nl.eu.org","port":443,"udp":false,"password":"Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"mfyousheng.nl.eu.org"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 2","type":"trojan","server":"141.193.213.199","port":443,"udp":false,"password":"557a788e-4d35-448b-8eba-4b844be87b14","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ukmp1pz6n5doe90u.tkgogocsgo.top"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 6","type":"trojan","server":"hl-freedom-2.undef.network","port":443,"udp":false,"password":"Tn2Bf0iRwJkJQgDk6gX6x81RB","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"hl-freedom-2.undef.network"}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1","type":"trojan","server":"104.18.32.47","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
 proxy-groups:
   - name: MANUAL
@@ -196,7 +197,8 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @DirectVPN | 15'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 0'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 6'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
   - name: URL-TEST
     type: url-test
@@ -238,7 +240,8 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @DirectVPN | 15'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 0'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 6'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
   - name: FALLBACK
     type: fallback
@@ -279,7 +282,8 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @DirectVPN | 15'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 0'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 6'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
