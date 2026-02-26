@@ -126,7 +126,7 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7","type":"trojan","server":"mfyousheng.nl.eu.org","port":443,"udp":false,"password":"Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"mfyousheng.nl.eu.org"}
   - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 8","type":"trojan","server":"141.193.213.199","port":443,"udp":false,"password":"557a788e-4d35-448b-8eba-4b844be87b14","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ukmp1pz6n5doe90u.tkgogocsgo.top"}
-  - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 18","type":"ss","server":"46.250.241.55","port":45720,"password":"c90d63dc7a6203af","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 17","type":"ss","server":"112.197.26.106","port":45312,"password":"ca5a5efae00a832b","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 0","type":"vmess","server":"216.128.136.23","port":"8881","cipher":"auto","uuid":"db5afae4-ac23-41a6-8378-f307a9a47436","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
@@ -143,7 +143,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 8'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 18'
+      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 17'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🟢 | vmess | @Hope_Net | 0'
   - name: URL-TEST
@@ -160,7 +160,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 8'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 18'
+      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 17'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🟢 | vmess | @Hope_Net | 0'
   - name: FALLBACK
@@ -176,7 +176,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 8'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 18'
+      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 17'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🟢 | vmess | @Hope_Net | 0'
 rules:
