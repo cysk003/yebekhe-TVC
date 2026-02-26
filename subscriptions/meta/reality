@@ -128,7 +128,6 @@ proxies:
   - {"name":"❔XX | 🔴 | vless | @DarkTeam_VPN | 1","type":"vless","server":"jp.connect-opengate.cv","port":8443,"udp":true,"uuid":"05f0c31f-d127-4a4e-a43c-b040ba8e42d0","tls":true,"network":"tcp","client-fingerprint":"qq","servername":"hello.opengate.tech","flow":"xtls-rprx-vision","reality-opts":{"public-key":"oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE","short-id":"30531914bddc70c8"}}
   - {"name":"❔XX | 🔴 | vless | @DarkTeam_VPN | 2","type":"vless","server":"sg.connect-opengate.cv","port":8443,"udp":true,"uuid":"05f0c31f-d127-4a4e-a43c-b040ba8e42d0","tls":true,"network":"tcp","client-fingerprint":"qq","servername":"hello.opengate.tech","flow":"xtls-rprx-vision","reality-opts":{"public-key":"oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE","short-id":"30531914bddc70c8"}}
   - {"name":"❔XX | 🔴 | vless | @DarkTeam_VPN | 3","type":"vless","server":"am.connect-opengate.cv","port":8443,"udp":true,"uuid":"05f0c31f-d127-4a4e-a43c-b040ba8e42d0","tls":true,"network":"tcp","client-fingerprint":"qq","servername":"hello.opengate.tech","flow":"xtls-rprx-vision","reality-opts":{"public-key":"oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE","short-id":"30531914bddc70c8"}}
-  - {"name":"❔XX | 🟢 | vless | @proxy_kafee | 0","type":"vless","server":"45.15.128.75","port":8443,"udp":true,"uuid":"fad2b7e0-d80c-4b7b-a84f-d86e0e49f627","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"max.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk","short-id":"e473bbc75224b9df"}}
   - {"name":"❔XX | 🟢 | vless | @Outline_Vpn | 16","type":"vless","server":"57.129.49.1","port":23576,"udp":true,"uuid":"48ff2b70-e180-582f-8866-d9a2edeed5f5","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"fuck.rkn","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s","short-id":"01"}}
   - {"name":"❔XX | 🟢 | vless | @prrofile_purple | 101","type":"vless","server":"my.kiomars.shop","port":6664,"udp":true,"uuid":"a09d2931-c961-4f4e-9288-eab639c5fc03","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"play.google.com","reality-opts":{"public-key":"RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM","short-id":"c3b6ed4da7a983c7"}}
   - {"name":"❔XX | 🟢 | vless | @prrofile_purple | 113","type":"vless","server":"my.kiomars.shop","port":6664,"udp":true,"uuid":"32e97345-6a66-4810-9821-82f07a0e2d6c","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"play.google.com","reality-opts":{"public-key":"RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM","short-id":"c3b6ed4da7a983c7"}}
@@ -198,7 +197,6 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @DarkTeam_VPN | 1'
       - '❔XX | 🔴 | vless | @DarkTeam_VPN | 2'
       - '❔XX | 🔴 | vless | @DarkTeam_VPN | 3'
-      - '❔XX | 🟢 | vless | @proxy_kafee | 0'
       - '❔XX | 🟢 | vless | @Outline_Vpn | 16'
       - '❔XX | 🟢 | vless | @prrofile_purple | 101'
       - '❔XX | 🟢 | vless | @prrofile_purple | 113'
@@ -268,7 +266,6 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @DarkTeam_VPN | 1'
       - '❔XX | 🔴 | vless | @DarkTeam_VPN | 2'
       - '❔XX | 🔴 | vless | @DarkTeam_VPN | 3'
-      - '❔XX | 🟢 | vless | @proxy_kafee | 0'
       - '❔XX | 🟢 | vless | @Outline_Vpn | 16'
       - '❔XX | 🟢 | vless | @prrofile_purple | 101'
       - '❔XX | 🟢 | vless | @prrofile_purple | 113'
@@ -337,7 +334,6 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @DarkTeam_VPN | 1'
       - '❔XX | 🔴 | vless | @DarkTeam_VPN | 2'
       - '❔XX | 🔴 | vless | @DarkTeam_VPN | 3'
-      - '❔XX | 🟢 | vless | @proxy_kafee | 0'
       - '❔XX | 🟢 | vless | @Outline_Vpn | 16'
       - '❔XX | 🟢 | vless | @prrofile_purple | 101'
       - '❔XX | 🟢 | vless | @prrofile_purple | 113'
