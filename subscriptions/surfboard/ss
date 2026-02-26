@@ -16,15 +16,15 @@ DIRECT = direct
 ❔XX | 🟢 | ss | @OutlineVpnOfficial | 2 = ss, 213.156.137.142, 43659, encrypt-method = chacha20-ietf-poly1305, password = a8201bbd740420bb
 ❔XX | 🟢 | ss | @OutlineVpnOfficial | 4 = ss, 154.205.152.64, 11201, encrypt-method = chacha20-ietf-poly1305, password = 315eb3e160cf2432
 ❔XX | 🟢 | ss | @OutlineVpnOfficial | 5 = ss, 163.171.206.24, 44233, encrypt-method = chacha20-ietf-poly1305, password = 9d97433688e7efd5
-❔XX | 🟢 | ss | @OutlineVpnOfficial | 7 = ss, 154.53.34.134, 16541, encrypt-method = chacha20-ietf-poly1305, password = 783f6143434cd5c8
-❔XX | 🟢 | ss | @OutlineVpnOfficial | 8 = ss, 91.106.109.17, 41022, encrypt-method = chacha20-ietf-poly1305, password = 0bb447cee7228eb0
-❔XX | 🟢 | ss | @OutlineVpnOfficial | 9 = ss, 163.171.181.49, 42934, encrypt-method = chacha20-ietf-poly1305, password = 877c3b069c335ffc
-❔XX | 🟢 | ss | @OutlineVpnOfficial | 11 = ss, 93.174.164.89, 11201, encrypt-method = chacha20-ietf-poly1305, password = 0bc801a7cac5f134
-❔XX | 🟢 | ss | @OutlineVpnOfficial | 14 = ss, 112.197.26.106, 45312, encrypt-method = chacha20-ietf-poly1305, password = ca5a5efae00a832b
+❔XX | 🟢 | ss | @OutlineVpnOfficial | 7 = ss, 91.106.109.17, 41022, encrypt-method = chacha20-ietf-poly1305, password = 0bb447cee7228eb0
+❔XX | 🟢 | ss | @OutlineVpnOfficial | 8 = ss, 163.171.181.49, 42934, encrypt-method = chacha20-ietf-poly1305, password = 877c3b069c335ffc
+❔XX | 🟢 | ss | @OutlineVpnOfficial | 10 = ss, 93.174.164.89, 11201, encrypt-method = chacha20-ietf-poly1305, password = 0bc801a7cac5f134
+❔XX | 🟢 | ss | @OutlineVpnOfficial | 13 = ss, 112.197.26.106, 45312, encrypt-method = chacha20-ietf-poly1305, password = ca5a5efae00a832b
+❔XX | 🟢 | ss | @OutlineVpnOfficial | 18 = ss, 46.250.241.55, 45720, encrypt-method = chacha20-ietf-poly1305, password = c90d63dc7a6203af
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | ss | @OutlineVpnOfficial | 0,❔XX | 🟢 | ss | @OutlineVpnOfficial | 1,❔XX | 🟢 | ss | @OutlineVpnOfficial | 2,❔XX | 🟢 | ss | @OutlineVpnOfficial | 4,❔XX | 🟢 | ss | @OutlineVpnOfficial | 5,❔XX | 🟢 | ss | @OutlineVpnOfficial | 7,❔XX | 🟢 | ss | @OutlineVpnOfficial | 8,❔XX | 🟢 | ss | @OutlineVpnOfficial | 9,❔XX | 🟢 | ss | @OutlineVpnOfficial | 11,❔XX | 🟢 | ss | @OutlineVpnOfficial | 14
-URL-TEST = url-test,❔XX | 🟢 | ss | @OutlineVpnOfficial | 0,❔XX | 🟢 | ss | @OutlineVpnOfficial | 1,❔XX | 🟢 | ss | @OutlineVpnOfficial | 2,❔XX | 🟢 | ss | @OutlineVpnOfficial | 4,❔XX | 🟢 | ss | @OutlineVpnOfficial | 5,❔XX | 🟢 | ss | @OutlineVpnOfficial | 7,❔XX | 🟢 | ss | @OutlineVpnOfficial | 8,❔XX | 🟢 | ss | @OutlineVpnOfficial | 9,❔XX | 🟢 | ss | @OutlineVpnOfficial | 11,❔XX | 🟢 | ss | @OutlineVpnOfficial | 14
-FALLBACK = fallback,❔XX | 🟢 | ss | @OutlineVpnOfficial | 0,❔XX | 🟢 | ss | @OutlineVpnOfficial | 1,❔XX | 🟢 | ss | @OutlineVpnOfficial | 2,❔XX | 🟢 | ss | @OutlineVpnOfficial | 4,❔XX | 🟢 | ss | @OutlineVpnOfficial | 5,❔XX | 🟢 | ss | @OutlineVpnOfficial | 7,❔XX | 🟢 | ss | @OutlineVpnOfficial | 8,❔XX | 🟢 | ss | @OutlineVpnOfficial | 9,❔XX | 🟢 | ss | @OutlineVpnOfficial | 11,❔XX | 🟢 | ss | @OutlineVpnOfficial | 14
+MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | ss | @OutlineVpnOfficial | 0,❔XX | 🟢 | ss | @OutlineVpnOfficial | 1,❔XX | 🟢 | ss | @OutlineVpnOfficial | 2,❔XX | 🟢 | ss | @OutlineVpnOfficial | 4,❔XX | 🟢 | ss | @OutlineVpnOfficial | 5,❔XX | 🟢 | ss | @OutlineVpnOfficial | 7,❔XX | 🟢 | ss | @OutlineVpnOfficial | 8,❔XX | 🟢 | ss | @OutlineVpnOfficial | 10,❔XX | 🟢 | ss | @OutlineVpnOfficial | 13,❔XX | 🟢 | ss | @OutlineVpnOfficial | 18
+URL-TEST = url-test,❔XX | 🟢 | ss | @OutlineVpnOfficial | 0,❔XX | 🟢 | ss | @OutlineVpnOfficial | 1,❔XX | 🟢 | ss | @OutlineVpnOfficial | 2,❔XX | 🟢 | ss | @OutlineVpnOfficial | 4,❔XX | 🟢 | ss | @OutlineVpnOfficial | 5,❔XX | 🟢 | ss | @OutlineVpnOfficial | 7,❔XX | 🟢 | ss | @OutlineVpnOfficial | 8,❔XX | 🟢 | ss | @OutlineVpnOfficial | 10,❔XX | 🟢 | ss | @OutlineVpnOfficial | 13,❔XX | 🟢 | ss | @OutlineVpnOfficial | 18
+FALLBACK = fallback,❔XX | 🟢 | ss | @OutlineVpnOfficial | 0,❔XX | 🟢 | ss | @OutlineVpnOfficial | 1,❔XX | 🟢 | ss | @OutlineVpnOfficial | 2,❔XX | 🟢 | ss | @OutlineVpnOfficial | 4,❔XX | 🟢 | ss | @OutlineVpnOfficial | 5,❔XX | 🟢 | ss | @OutlineVpnOfficial | 7,❔XX | 🟢 | ss | @OutlineVpnOfficial | 8,❔XX | 🟢 | ss | @OutlineVpnOfficial | 10,❔XX | 🟢 | ss | @OutlineVpnOfficial | 13,❔XX | 🟢 | ss | @OutlineVpnOfficial | 18
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
