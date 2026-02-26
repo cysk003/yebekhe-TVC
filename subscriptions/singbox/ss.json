@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | ss | @OutlineVpnOfficial | 0",
+                "🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 0",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 1",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 2",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 4",
@@ -122,7 +122,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | ss | @OutlineVpnOfficial | 0",
+                "🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 0",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 1",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 2",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 4",
@@ -154,7 +154,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | ss | @OutlineVpnOfficial | 0",
+            "tag": "🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 0",
             "type": "shadowsocks",
             "server": "66.94.121.161",
             "server_port": 20207,
