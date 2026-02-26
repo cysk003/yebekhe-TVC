@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇸🇪SE | 🟢 | vmess | @oneclickvpnkeys | 7",
+                "🇮🇳IN | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @v2Line | 3",
@@ -121,7 +121,7 @@
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇸🇪SE | 🟢 | vmess | @oneclickvpnkeys | 7",
+                "🇮🇳IN | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @v2Line | 3",
@@ -182,11 +182,11 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | vmess | @oneclickvpnkeys | 7",
+            "tag": "🇮🇳IN | 🟢 | vmess | @oneclickvpnkeys | 7",
             "type": "vmess",
-            "server": "dd.openaccessnode.com",
-            "server_port": 502,
-            "uuid": "75193bef-8d8f-e823-41e0-2dd083dc1399",
+            "server": "id2.wpairplane.com",
+            "server_port": 9000,
+            "uuid": "77aad73d-03e7-441b-9bc5-98d13535ba3e",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
