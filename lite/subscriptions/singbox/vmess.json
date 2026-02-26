@@ -108,11 +108,11 @@
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 7",
-                "🇮🇳IN | 🟢 | vmess | @oneclickvpnkeys | 8",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+                "❔XX | 🟢 | vmess | @Hope_Net | 0",
                 "❔XX | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4"
             ]
@@ -123,11 +123,11 @@
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 7",
-                "🇮🇳IN | 🟢 | vmess | @oneclickvpnkeys | 8",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+                "❔XX | 🟢 | vmess | @Hope_Net | 0",
                 "❔XX | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4"
             ],
@@ -186,6 +186,23 @@
             }
         },
         {
+            "tag": "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 6",
+            "type": "vmess",
+            "server": "92.246.87.170",
+            "server_port": 18355,
+            "uuid": "caf921c7-ac63-40bc-faa1-cda097fd7e42",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 7",
             "type": "vmess",
             "server": "57.129.25.23",
@@ -217,23 +234,6 @@
                 "headers": {
                     "Host": "yichueng.org"
                 }
-            }
-        },
-        {
-            "tag": "🇮🇳IN | 🟢 | vmess | @oneclickvpnkeys | 8",
-            "type": "vmess",
-            "server": "id2.wpairplane.com",
-            "server_port": 9000,
-            "uuid": "77aad73d-03e7-441b-9bc5-98d13535ba3e",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -295,7 +295,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 0",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 0",
             "type": "vmess",
             "server": "216.128.136.23",
             "server_port": 8881,
