@@ -108,13 +108,14 @@
                 "URL-TEST",
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
+                "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
                 "🇫🇮FI | 🔴 | vless | @ShadowSocks_s | 0",
                 "❔XX | 🟢 | vless | @lrnbymaa | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 17",
                 "❔XX | 🟢 | vless | @FreakConfig | 18",
-                "❔XX | 🟢 | vless | @flyv2ray | 3",
+                "❔XX | 🟢 | vless | @flyv2ray | 6",
                 "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
@@ -126,13 +127,14 @@
             "outbounds": [
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
+                "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
                 "🇫🇮FI | 🔴 | vless | @ShadowSocks_s | 0",
                 "❔XX | 🟢 | vless | @lrnbymaa | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 17",
                 "❔XX | 🟢 | vless | @FreakConfig | 18",
-                "❔XX | 🟢 | vless | @flyv2ray | 3",
+                "❔XX | 🟢 | vless | @flyv2ray | 6",
                 "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
@@ -212,6 +214,35 @@
                     "enabled": true,
                     "public_key": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
                     "short_id": "f32140952ba18e18"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "nl-amst-node.genadata.online",
+            "server_port": 2040,
+            "uuid": "14818654-7689-453a-9a1f-4c72f89782d5",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tradingview.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg",
+                    "short_id": "50ed6f6007515d63"
                 }
             }
         },
@@ -397,7 +428,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @flyv2ray | 3",
+            "tag": "❔XX | 🟢 | vless | @flyv2ray | 6",
             "type": "vless",
             "server": "185.162.11.223",
             "server_port": 443,
