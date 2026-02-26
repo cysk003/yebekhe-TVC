@@ -109,10 +109,10 @@
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇫🇮FI | 🔴 | vless | @ShadowSocks_s | 0",
-                "❔XX | 🟢 | vless | @lrnbymaa | 17",
+                "🇺🇸US | 🟢 | vless | @lrnbymaa | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @FreakConfig | 18",
+                "❔XX | 🟢 | vless | @FreakConfig | 17",
                 "❔XX | 🟢 | vless | @flyv2ray | 3",
                 "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
@@ -126,10 +126,10 @@
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇫🇮FI | 🔴 | vless | @ShadowSocks_s | 0",
-                "❔XX | 🟢 | vless | @lrnbymaa | 17",
+                "🇺🇸US | 🟢 | vless | @lrnbymaa | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @FreakConfig | 18",
+                "❔XX | 🟢 | vless | @FreakConfig | 17",
                 "❔XX | 🟢 | vless | @flyv2ray | 3",
                 "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
@@ -250,7 +250,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 17",
+            "tag": "🇺🇸US | 🟢 | vless | @lrnbymaa | 17",
             "type": "vless",
             "server": "142.248.80.157",
             "server_port": 443,
@@ -337,11 +337,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @FreakConfig | 18",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 17",
             "type": "vless",
-            "server": "game.pineappled.org",
-            "server_port": 443,
-            "uuid": "18f72be7-0651-4037-928b-8a309d685796",
+            "server": "51.158.206.98",
+            "server_port": 23576,
+            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -351,7 +351,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "google.com",
+                "server_name": "fuck.rkn",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -360,8 +360,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU",
-                    "short_id": "9eb31eb7572c0882"
+                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
+                    "short_id": "01"
                 }
             }
         },
