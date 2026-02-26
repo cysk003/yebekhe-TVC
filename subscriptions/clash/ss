@@ -118,7 +118,7 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
-  - {"name":"🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 0","type":"ss","server":"66.94.121.161","port":20207,"password":"9653c37eda1c0cca","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 0","type":"ss","server":"66.94.121.161","port":20207,"password":"9653c37eda1c0cca","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 1","type":"ss","server":"157.185.173.60","port":46727,"password":"29acd960ab8e3408","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 2","type":"ss","server":"213.156.137.142","port":43659,"password":"a8201bbd740420bb","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 4","type":"ss","server":"154.205.152.64","port":11201,"password":"315eb3e160cf2432","cipher":"chacha20-ietf-poly1305"}
@@ -134,7 +134,7 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
-      - '🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 0'
+      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 0'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 1'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 2'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 4'
@@ -150,7 +150,7 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - '🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 0'
+      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 0'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 1'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 2'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 4'
@@ -165,7 +165,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - '🇺🇸US | 🟢 | ss | @OutlineVpnOfficial | 0'
+      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 0'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 1'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 2'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 4'
