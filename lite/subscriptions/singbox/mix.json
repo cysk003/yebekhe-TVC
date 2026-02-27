@@ -141,15 +141,16 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
-                "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 2",
+                "❔XX | 🔴 | vless | @v2ray1_ng | 2",
                 "❔XX | 🔴 | vless | @vless_vmess | 18",
                 "❔XX | 🔴 | vless | @vless_vmess | 19",
-                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🔴 | vless | @lrnbymaa | 11",
                 "❔XX | 🟢 | vless | @lrnbymaa | 12",
+                "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🔴 | vless | @free1_vpn | 0",
@@ -157,8 +158,8 @@
                 "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 6",
                 "❔XX | 🔴 | vless | @Capoit | 0",
                 "❔XX | 🔴 | vless | @Capoit | 1",
                 "❔XX | 🟢 | vless | @FreakConfig | 18",
@@ -217,15 +218,16 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
-                "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 2",
+                "❔XX | 🔴 | vless | @v2ray1_ng | 2",
                 "❔XX | 🔴 | vless | @vless_vmess | 18",
                 "❔XX | 🔴 | vless | @vless_vmess | 19",
-                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🔴 | vless | @lrnbymaa | 11",
                 "❔XX | 🟢 | vless | @lrnbymaa | 12",
+                "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🔴 | vless | @free1_vpn | 0",
@@ -233,8 +235,8 @@
                 "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 6",
                 "❔XX | 🔴 | vless | @Capoit | 0",
                 "❔XX | 🔴 | vless | @Capoit | 1",
                 "❔XX | 🟢 | vless | @FreakConfig | 18",
@@ -1098,7 +1100,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 2",
+            "tag": "❔XX | 🔴 | vless | @v2ray1_ng | 2",
             "type": "vless",
             "server": "91.107.240.224",
             "server_port": 443,
@@ -1154,7 +1156,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -1285,6 +1287,16 @@
                     "short_id": "f5"
                 }
             }
+        },
+        {
+            "tag": "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
+            "type": "shadowsocks",
+            "server": "93.174.164.89",
+            "server_port": 11201,
+            "method": "chacha20-ietf-poly1305",
+            "password": "0bc801a7cac5f134",
+            "plugin": "",
+            "plugin_opts": ""
         },
         {
             "tag": "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -1479,11 +1491,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 5",
+            "tag": "❔XX | 🟢 | vmess | @v2Line | 4",
             "type": "vmess",
-            "server": "57.129.28.214",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "server": "45.12.132.183",
+            "server_port": 80,
+            "uuid": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1494,28 +1506,18 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "kampong.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/linkvws",
+                "path": "\/vmess\/",
                 "headers": {
-                    "Host": "kampong.org"
+                    "Host": ""
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 6",
+            "tag": "❔XX | 🟢 | vmess | @v2Line | 5",
             "type": "vmess",
-            "server": "57.129.28.63",
+            "server": "57.129.24.124",
             "server_port": 443,
             "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
@@ -1530,7 +1532,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "",
+                "server_name": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1542,7 +1544,7 @@
                 "type": "ws",
                 "path": "\/linkvws",
                 "headers": {
-                    "Host": ""
+                    "Host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc"
                 }
             }
         },
