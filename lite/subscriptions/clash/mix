@@ -124,8 +124,8 @@ proxies:
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 19","type":"trojan","server":"52.57.120.114","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0","type":"vmess","server":"146.59.147.250","port":"29776","cipher":"auto","uuid":"82447abf-dcb9-408a-9ca6-79e0a7698d08","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 3","type":"vmess","server":"payload.xyz-my.eu.org","port":"443","cipher":"auto","uuid":"1491462a-979a-4ac0-b5dd-7409a91e62fb","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"payload.xyz-my.eu.org"}}}
-  - {"name":"🇸🇬SG | 🔴 | trojan | @oneclickvpnkeys | 4","type":"trojan","server":"ubu.okaoclax.me","port":443,"udp":false,"password":"13c169be-8592-4eaa-94cb-69c859e7d987","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ubu.okaoclax.me"}
+  - {"name":"🇭🇰HK | 🔴 | trojan | @oneclickvpnkeys | 3","type":"trojan","server":"hk27.oportal.cc","port":443,"udp":false,"password":"adb13850-7e70-492e-85b2-01184801d587","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 4","type":"vmess","server":"payload.xyz-my.eu.org","port":"443","cipher":"auto","uuid":"1491462a-979a-4ac0-b5dd-7409a91e62fb","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"payload.xyz-my.eu.org"}}}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 17","type":"ss","server":"112.197.26.106","port":45312,"password":"ca5a5efae00a832b","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
 proxy-groups:
@@ -140,8 +140,8 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 19'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
-      - '🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 3'
-      - '🇸🇬SG | 🔴 | trojan | @oneclickvpnkeys | 4'
+      - '🇭🇰HK | 🔴 | trojan | @oneclickvpnkeys | 3'
+      - '🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 4'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 17'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
   - name: URL-TEST
@@ -156,8 +156,8 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 19'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
-      - '🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 3'
-      - '🇸🇬SG | 🔴 | trojan | @oneclickvpnkeys | 4'
+      - '🇭🇰HK | 🔴 | trojan | @oneclickvpnkeys | 3'
+      - '🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 4'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 17'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
   - name: FALLBACK
@@ -171,8 +171,8 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 19'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
-      - '🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 3'
-      - '🇸🇬SG | 🔴 | trojan | @oneclickvpnkeys | 4'
+      - '🇭🇰HK | 🔴 | trojan | @oneclickvpnkeys | 3'
+      - '🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 4'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 17'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
 rules:
