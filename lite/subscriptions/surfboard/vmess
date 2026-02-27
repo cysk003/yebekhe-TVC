@@ -11,12 +11,12 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5 = vmess, bnhhy.1ll.ccwu.cc, 80, username = 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, ws = true, tls = , vmess-aead = true, ws-path = /iSRWSKUJKNuXvVzsYHmsMrnO, ws-headers = Host:"bnhhy.1ll.ccwu.cc", skip-cert-verify = true, tfo = false
+🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 3 = vmess, payload.xyz-my.eu.org, 443, username = 1491462a-979a-4ac0-b5dd-7409a91e62fb, ws = true, tls = 1, vmess-aead = true, ws-path = /vmess, ws-headers = Host:"payload.xyz-my.eu.org", skip-cert-verify = true, tfo = false
 ❔XX | 🟢 | vmess | @yaney_01 | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5,❔XX | 🟢 | vmess | @yaney_01 | 4
-URL-TEST = url-test,🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5,❔XX | 🟢 | vmess | @yaney_01 | 4
-FALLBACK = fallback,🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5,❔XX | 🟢 | vmess | @yaney_01 | 4
+MANUAL = select,URL-TEST,FALLBACK,🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 3,❔XX | 🟢 | vmess | @yaney_01 | 4
+URL-TEST = url-test,🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 3,❔XX | 🟢 | vmess | @yaney_01 | 4
+FALLBACK = fallback,🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 3,❔XX | 🟢 | vmess | @yaney_01 | 4
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
