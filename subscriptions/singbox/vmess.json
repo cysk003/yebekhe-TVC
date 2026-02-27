@@ -106,23 +106,22 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
+                "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 3",
+                "❔XX | 🟢 | vmess | @mftizi | 3",
                 "❔XX | 🟢 | vmess | @mftizi | 4",
                 "❔XX | 🟢 | vmess | @mftizi | 5",
                 "❔XX | 🟢 | vmess | @mftizi | 6",
                 "❔XX | 🟢 | vmess | @mftizi | 10",
                 "❔XX | 🟢 | vmess | @mftizi | 11",
                 "❔XX | 🟢 | vmess | @mftizi | 14",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
+                "❔XX | 🟢 | vmess | @mftizi | 15",
                 "❔XX | 🟢 | vmess | @mftizi | 16",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "🚩CF | 🟢 | vmess | @prrofile_purple | 133",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🚩CF | 🟢 | vmess | @customv2ray | 8",
-                "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
+                "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -140,23 +139,22 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
+                "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 3",
+                "❔XX | 🟢 | vmess | @mftizi | 3",
                 "❔XX | 🟢 | vmess | @mftizi | 4",
                 "❔XX | 🟢 | vmess | @mftizi | 5",
                 "❔XX | 🟢 | vmess | @mftizi | 6",
                 "❔XX | 🟢 | vmess | @mftizi | 10",
                 "❔XX | 🟢 | vmess | @mftizi | 11",
                 "❔XX | 🟢 | vmess | @mftizi | 14",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
+                "❔XX | 🟢 | vmess | @mftizi | 15",
                 "❔XX | 🟢 | vmess | @mftizi | 16",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "🚩CF | 🟢 | vmess | @prrofile_purple | 133",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🚩CF | 🟢 | vmess | @customv2ray | 8",
-                "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
+                "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -190,7 +188,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
+            "tag": "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
             "type": "vmess",
             "server": "146.59.147.250",
             "server_port": 29776,
@@ -258,7 +256,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 3",
+            "tag": "❔XX | 🟢 | vmess | @mftizi | 3",
             "type": "vmess",
             "server": "120.232.153.123",
             "server_port": 45402,
@@ -377,7 +375,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
+            "tag": "❔XX | 🟢 | vmess | @mftizi | 15",
             "type": "vmess",
             "server": "183.236.48.163",
             "server_port": 58831,
@@ -411,7 +409,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
             "type": "vmess",
             "server": "payload.xyz-my.eu.org",
             "server_port": 443,
@@ -445,40 +443,6 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @prrofile_purple | 133",
-            "type": "vmess",
-            "server": "104.17.77.77",
-            "server_port": 8443,
-            "uuid": "60441548-b68e-43b2-8191-e3b884be4b3c",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "v2ray1.dozapp.xyz",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/lMnsZUN4\/",
-                "headers": {
-                    "Host": "v2ray1.dozapp.xyz"
-                }
-            }
-        },
-        {
             "tag": "🚩CF | 🟢 | vmess | @customv2ray | 8",
             "type": "vmess",
             "server": "104.24.169.183",
@@ -503,7 +467,7 @@
             }
         },
         {
-            "tag": "🇹🇼TW | 🟢 | vmess | @yaney_01 | 1",
+            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 1",
             "type": "vmess",
             "server": "45.199.138.217",
             "server_port": 41000,
