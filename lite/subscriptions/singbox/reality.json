@@ -113,6 +113,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 18",
+                "❔XX | 🟢 | vless | @FreakConfig | 19",
                 "❔XX | 🟢 | vless | @flyv2ray | 6",
                 "❔XX | 🔴 | vless | @flyv2ray | 7",
                 "❔XX | 🟢 | vless | @kiava | 43",
@@ -131,6 +132,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 18",
+                "❔XX | 🟢 | vless | @FreakConfig | 19",
                 "❔XX | 🟢 | vless | @flyv2ray | 6",
                 "❔XX | 🔴 | vless | @flyv2ray | 7",
                 "❔XX | 🟢 | vless | @kiava | 43",
@@ -333,6 +335,35 @@
         },
         {
             "tag": "❔XX | 🟢 | vless | @FreakConfig | 18",
+            "type": "vless",
+            "server": "185.227.149.123",
+            "server_port": 443,
+            "uuid": "7c3f08c8-7b3b-4028-91d8-378a18c2b62a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mycatcollection.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "qq"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": "6ba85179e30d4fc2"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 19",
             "type": "vless",
             "server": "wolfb24.servers1mart.ir",
             "server_port": 2096,

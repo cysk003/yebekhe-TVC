@@ -126,7 +126,7 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇭🇰HK | 🔴 | trojan | @oneclickvpnkeys | 3","type":"trojan","server":"hk27.oportal.cc","port":443,"udp":false,"password":"adb13850-7e70-492e-85b2-01184801d587","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 4","type":"vmess","server":"payload.xyz-my.eu.org","port":"443","cipher":"auto","uuid":"1491462a-979a-4ac0-b5dd-7409a91e62fb","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"payload.xyz-my.eu.org"}}}
-  - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 17","type":"ss","server":"112.197.26.106","port":45312,"password":"ca5a5efae00a832b","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 17","type":"ss","server":"112.197.26.106","port":45312,"password":"ca5a5efae00a832b","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
 proxy-groups:
   - name: MANUAL
@@ -142,7 +142,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇭🇰HK | 🔴 | trojan | @oneclickvpnkeys | 3'
       - '🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 4'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 17'
+      - '🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 17'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
   - name: URL-TEST
     type: url-test
@@ -158,7 +158,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇭🇰HK | 🔴 | trojan | @oneclickvpnkeys | 3'
       - '🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 4'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 17'
+      - '🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 17'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
   - name: FALLBACK
     type: fallback
@@ -173,7 +173,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇭🇰HK | 🔴 | trojan | @oneclickvpnkeys | 3'
       - '🇸🇬SG | 🟢 | vmess | @oneclickvpnkeys | 4'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 17'
+      - '🇻🇳VN | 🟢 | ss | @OutlineVpnOfficial | 17'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
