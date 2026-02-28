@@ -112,10 +112,9 @@
                 "🇳🇱NL | 🟢 | vless | @vmessorg | 15",
                 "🇳🇱NL | 🟢 | vless | @vmessorg | 16",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @FreakConfig | 18",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🟢 | vless | @iP_CF | 0",
-                "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ]
@@ -130,10 +129,9 @@
                 "🇳🇱NL | 🟢 | vless | @vmessorg | 15",
                 "🇳🇱NL | 🟢 | vless | @vmessorg | 16",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @FreakConfig | 18",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🟢 | vless | @iP_CF | 0",
-                "❔XX | 🟢 | vless | @kiava | 43",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ],
@@ -332,7 +330,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -361,11 +359,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @FreakConfig | 18",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 16",
             "type": "vless",
-            "server": "185.227.149.123",
-            "server_port": 443,
-            "uuid": "7c3f08c8-7b3b-4028-91d8-378a18c2b62a",
+            "server": "germ-node.genadata.online",
+            "server_port": 2040,
+            "uuid": "14818654-7689-453a-9a1f-4c72f89782d5",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -375,17 +373,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "mycatcollection.com",
+                "server_name": "tradingview.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "qq"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-                    "short_id": "6ba85179e30d4fc2"
+                    "public_key": "1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg",
+                    "short_id": "50ed6f6007515d63"
                 }
             }
         },
@@ -415,35 +413,6 @@
                     "enabled": true,
                     "public_key": "JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4",
                     "short_id": "99de062f46387d3e"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @kiava | 43",
-            "type": "vless",
-            "server": "94.141.123.12",
-            "server_port": 558,
-            "uuid": "be695a55-8ac5-40a1-92c2-cc864651360a",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk",
-                    "short_id": "4b8f669536c45c2b"
                 }
             }
         },
