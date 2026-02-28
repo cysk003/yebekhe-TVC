@@ -121,7 +121,7 @@
                 "❔XX | 🟢 | vmess | @mftizi | 16",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 1",
-                "🚩CF | 🟢 | vmess | @customv2ray | 8",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 93",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -155,7 +155,7 @@
                 "❔XX | 🟢 | vmess | @mftizi | 16",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 1",
-                "🚩CF | 🟢 | vmess | @customv2ray | 8",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 93",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -459,11 +459,11 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @customv2ray | 8",
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 93",
             "type": "vmess",
-            "server": "104.24.169.183",
-            "server_port": 8080,
-            "uuid": "nasnet",
+            "server": "57.129.24.125",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -474,11 +474,21 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/NASNET\/cdn#\/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1?ed=2560",
+                "path": "\/linkvws",
                 "headers": {
-                    "Host": ""
+                    "Host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc"
                 }
             }
         },
