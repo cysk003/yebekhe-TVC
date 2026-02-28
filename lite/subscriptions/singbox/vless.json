@@ -136,13 +136,15 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @free1_vpn | 0",
                 "❔XX | 🟢 | vless | @free1_vpn | 1",
-                "❔XX | 🔴 | vless | @free1_vpn | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capoit | 1",
+                "❔XX | 🔴 | vless | @Capoit | 2",
                 "❔XX | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🟢 | vless | @FreakConfig | 18",
                 "❔XX | 🟢 | vless | @iP_CF | 0",
@@ -193,13 +195,15 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @free1_vpn | 0",
                 "❔XX | 🟢 | vless | @free1_vpn | 1",
-                "❔XX | 🔴 | vless | @free1_vpn | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capoit | 1",
+                "❔XX | 🔴 | vless | @Capoit | 2",
                 "❔XX | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🟢 | vless | @FreakConfig | 18",
                 "❔XX | 🟢 | vless | @iP_CF | 0",
@@ -953,7 +957,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @MehradLearn | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
             "type": "vless",
             "server": "104.17.74.206",
             "server_port": 2053,
@@ -984,6 +988,20 @@
             }
         },
         {
+            "tag": "❔XX | 🔴 | vless | @free1_vpn | 0",
+            "type": "vless",
+            "server": "152.42.147.18",
+            "server_port": 35689,
+            "uuid": "bf1b45af-c13a-438f-8d32-3b5a31b6735b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "❔XX | 🟢 | vless | @free1_vpn | 1",
             "type": "vless",
             "server": "51.158.206.29",
@@ -1010,20 +1028,6 @@
                     "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
                     "short_id": "01"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @free1_vpn | 2",
-            "type": "vless",
-            "server": "185.208.79.133",
-            "server_port": 38463,
-            "uuid": "9706248e-259e-4738-9cde-a3f7e11be4b8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -1144,6 +1148,34 @@
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
                 }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @Capoit | 1",
+            "type": "vless",
+            "server": "info.ramansaed.ir",
+            "server_port": 2086,
+            "uuid": "35792c2b-5665-4216-a9f2-995da8a4131b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @Capoit | 2",
+            "type": "vless",
+            "server": "ny.lagbatirannn.online",
+            "server_port": 8085,
+            "uuid": "c6b02d5f-d685-4125-a813-a9f4d64a2fcb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
