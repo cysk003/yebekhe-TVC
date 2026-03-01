@@ -154,8 +154,8 @@ proxies:
   - {"name":"❔XX | 🟢 | trojan | @DirectVPN | 15","type":"trojan","server":"13.37.158.58","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @DirectVPN | 16","type":"trojan","server":"51.44.27.45","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @DirectVPN | 17","type":"trojan","server":"18.153.205.232","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"8ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 0","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 1","type":"trojan","server":"172.64.152.23","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.gossipglove.com"}
+  - {"name":"8ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 1","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 2","type":"trojan","server":"172.64.152.23","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.gossipglove.com"}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1","type":"trojan","server":"104.18.32.47","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
 proxy-groups:
   - name: MANUAL
@@ -199,8 +199,8 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @DirectVPN | 15'
       - '❔XX | 🟢 | trojan | @DirectVPN | 16'
       - '❔XX | 🟢 | trojan | @DirectVPN | 17'
-      - '8ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 0'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 1'
+      - '8ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 1'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 2'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
   - name: URL-TEST
     type: url-test
@@ -244,8 +244,8 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @DirectVPN | 15'
       - '❔XX | 🟢 | trojan | @DirectVPN | 16'
       - '❔XX | 🟢 | trojan | @DirectVPN | 17'
-      - '8ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 0'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 1'
+      - '8ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 1'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 2'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
   - name: FALLBACK
     type: fallback
@@ -288,8 +288,8 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @DirectVPN | 15'
       - '❔XX | 🟢 | trojan | @DirectVPN | 16'
       - '❔XX | 🟢 | trojan | @DirectVPN | 17'
-      - '8ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 0'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 1'
+      - '8ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 1'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 2'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
