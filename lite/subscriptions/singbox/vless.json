@@ -133,14 +133,15 @@
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "❔XX | 🔴 | vless | @v2ray1_ng | 1",
-                "❔XX | 🔴 | vless | @vless_vmess | 18",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
+                "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 1",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
+                "❔XX | 🔴 | vless | @vless_vmess | 19",
                 "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @lrnbymaa | 0",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 3",
+                "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @Capoit | 7",
@@ -191,14 +192,15 @@
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "❔XX | 🔴 | vless | @v2ray1_ng | 1",
-                "❔XX | 🔴 | vless | @vless_vmess | 18",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
+                "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 1",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
+                "❔XX | 🔴 | vless | @vless_vmess | 19",
                 "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @lrnbymaa | 0",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 3",
+                "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @Capoit | 7",
@@ -865,7 +867,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2ray1_ng | 1",
+            "tag": "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 1",
             "type": "vless",
             "server": "91.234.147.80",
             "server_port": 4001,
@@ -879,7 +881,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @vless_vmess | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
             "type": "vless",
             "server": "172.67.141.140",
             "server_port": 8880,
@@ -900,7 +902,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
+            "tag": "❔XX | 🔴 | vless | @vless_vmess | 19",
             "type": "vless",
             "server": "104.16.85.3",
             "server_port": 8880,
@@ -997,6 +999,20 @@
             }
         },
         {
+            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 0",
+            "type": "vless",
+            "server": "v2arm.topacp.store",
+            "server_port": 2053,
+            "uuid": "1445513e-3933-475a-a917-85406cab3ccf",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "❔XX | 🔴 | vless | @fnet00 | 2",
             "type": "vless",
             "server": "104.16.139.160",
@@ -1028,7 +1044,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 3",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 3",
             "type": "vless",
             "server": "104.18.32.47",
             "server_port": 443,
