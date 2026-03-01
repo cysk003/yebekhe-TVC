@@ -131,13 +131,14 @@
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 76",
                 "🇸🇨SC | 🔴 | vless | @prrofile_purple | 77",
+                "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
-                "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
+                "❔XX | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 43",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 44",
                 "❔XX | 🔴 | vless | @v2ray1_ng | 1",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
+                "❔XX | 🔴 | vless | @vless_vmess | 18",
+                "❔XX | 🔴 | vless | @vless_vmess | 19",
                 "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
@@ -192,13 +193,14 @@
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 76",
                 "🇸🇨SC | 🔴 | vless | @prrofile_purple | 77",
+                "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
-                "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
+                "❔XX | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 43",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 44",
                 "❔XX | 🔴 | vless | @v2ray1_ng | 1",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
+                "❔XX | 🔴 | vless | @vless_vmess | 18",
+                "❔XX | 🔴 | vless | @vless_vmess | 19",
                 "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
@@ -824,6 +826,20 @@
             }
         },
         {
+            "tag": "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
+            "type": "vless",
+            "server": "wpmanage.levron.pro",
+            "server_port": 2089,
+            "uuid": "3e4e8d50-bcc7-47d2-8047-321e0de9b633",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
             "type": "vless",
             "server": "min1.rezgod.shop",
@@ -838,7 +854,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
+            "tag": "❔XX | 🟢 | vless | @FalconPolV2rayNG | 1",
             "type": "vless",
             "server": "151.101.10.79",
             "server_port": 443,
@@ -945,7 +961,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
+            "tag": "❔XX | 🔴 | vless | @vless_vmess | 18",
             "type": "vless",
             "server": "172.67.141.140",
             "server_port": 8880,
@@ -966,7 +982,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
+            "tag": "❔XX | 🔴 | vless | @vless_vmess | 19",
             "type": "vless",
             "server": "104.16.85.3",
             "server_port": 8880,
