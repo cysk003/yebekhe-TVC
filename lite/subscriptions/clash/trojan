@@ -122,7 +122,6 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17","type":"trojan","server":"13.37.158.58","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 16","type":"trojan","server":"52.57.206.229","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 17","type":"trojan","server":"13.37.158.58","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"8ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 1","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -133,7 +132,6 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 16'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 17'
-      - '8ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 1'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -144,7 +142,6 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 16'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 17'
-      - '8ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 1'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -154,7 +151,6 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 16'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 17'
-      - '8ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 1'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
