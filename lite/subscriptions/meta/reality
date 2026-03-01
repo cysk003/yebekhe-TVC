@@ -121,7 +121,6 @@ dns:
 
 proxies:
   - {"name":"🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0","type":"vless","server":"80.75.212.10","port":443,"udp":true,"uuid":"eb071647-72a6-46be-8e89-ff3d228d52f6","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"nl.jojack.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4","short-id":"6bb3c7f9f97b45b8"}}
-  - {"name":"🇷🇺RU | 🔴 | vless | @frev2ray | 1","type":"vless","server":"51.250.4.119","port":443,"udp":true,"uuid":"64aafe63-ef36-4da5-8bf9-838d767bfe74","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"api-maps.yandex.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg","short-id":"43df3983229a1c73"}}
   - {"name":"🇷🇺RU | 🟢 | vless | @rxv2ray | 7","type":"vless","server":"89.208.86.65","port":443,"udp":true,"uuid":"3a83ab7a-9b6f-460c-a128-1799f63695e3","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"tradingview.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM","short-id":"f32140952ba18e18"}}
   - {"name":"🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17","type":"vless","server":"57.129.49.1","port":23576,"udp":true,"uuid":"48ff2b70-e180-582f-8866-d9a2edeed5f5","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"fuck.rkn","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s","short-id":"01"}}
   - {"name":"❔XX | 🔴 | vless | @Capital_NET | 45","type":"vless","server":"four.felinetest.site","port":443,"udp":true,"uuid":"fbe02c0b-775f-4431-8615-a9497255c876","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"none.felinetest.site","flow":"xtls-rprx-vision","reality-opts":{"public-key":"fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs","short-id":"6f9deca7"}}
@@ -137,7 +136,6 @@ proxy-groups:
       - URL-TEST
       - FALLBACK
       - '🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0'
-      - '🇷🇺RU | 🔴 | vless | @frev2ray | 1'
       - '🇷🇺RU | 🟢 | vless | @rxv2ray | 7'
       - '🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17'
       - '❔XX | 🔴 | vless | @Capital_NET | 45'
@@ -153,7 +151,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - '🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0'
-      - '🇷🇺RU | 🔴 | vless | @frev2ray | 1'
       - '🇷🇺RU | 🟢 | vless | @rxv2ray | 7'
       - '🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17'
       - '❔XX | 🔴 | vless | @Capital_NET | 45'
@@ -168,7 +165,6 @@ proxy-groups:
     interval: 60
     proxies:
       - '🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0'
-      - '🇷🇺RU | 🔴 | vless | @frev2ray | 1'
       - '🇷🇺RU | 🟢 | vless | @rxv2ray | 7'
       - '🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17'
       - '❔XX | 🔴 | vless | @Capital_NET | 45'
