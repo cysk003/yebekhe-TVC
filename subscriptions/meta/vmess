@@ -140,16 +140,15 @@ proxies:
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 0","type":"vmess","server":"77.83.141.171","port":"443","cipher":"auto","uuid":"35379219-6535-4f2e-a4fe-3e44f61e0eee","alterId":"32","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vc","headers":{"host":""}}}
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 1","type":"vmess","server":"mci.mosi.mosipro.ml","port":"443","cipher":"auto","uuid":"3f197280-7b21-4f39-b763-4bb004e8021f","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/speedtest","headers":{"host":"Dusseldorf.kotick.site"}}}
   - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 2","type":"vmess","server":"104.19.47.15","port":8443,"cipher":"auto","uuid":"39135a39-e6ca-43df-a360-d859eea58d86","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"hk01.linkitnow.net"}}}
-  - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 3","type":"vmess","server":"2.189.59.2","port":"443","cipher":"auto","uuid":"62aa5f80-0328-4004-a375-7f5a59df4022","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/Telegram/XV2ray","headers":{"host":"germany-linkws.pages.dev"}}}
+  - {"name":"🇮🇷IR | 🟢 | vmess | @Hope_Net | 3","type":"vmess","server":"2.189.59.2","port":"443","cipher":"auto","uuid":"62aa5f80-0328-4004-a375-7f5a59df4022","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/Telegram/XV2ray","headers":{"host":"germany-linkws.pages.dev"}}}
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 4","type":"vmess","server":"in-tw-1.iivvppnn.info","port":"38201","cipher":"auto","uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":"1","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/hls/cctv5phd.m3u8","headers":{"host":"www.ivpnpro.net"}}}
   - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 5","type":"vmess","server":"104.19.21.71","port":"2086","cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip14.freegradely.xyz"}}}
   - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 6","type":"vmess","server":"104.26.7.152","port":2052,"cipher":"auto","uuid":"d6b6d982-d52f-465a-b988-85670b23f64a","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"cdn2.freegradely.xyz"}}}
   - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 7","type":"vmess","server":"104.19.45.90","port":"2086","cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip14.freegradely.xyz"}}}
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 8","type":"vmess","server":"pp1.zhengzhongfeizhu.xyz","port":"43960","cipher":"auto","uuid":"177501cc-f0c2-3cc3-b9a7-8c1e8e27655f","alterId":"1","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/j20-sp1","headers":{"host":"pp1.zhengzhongfeizhu.xyz"}}}
-  - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 9","type":"vmess","server":"104.20.17.186","port":"2086","cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip1.1457230.xyz"}}}
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 2","type":"vmess","server":"185.104.189.38","port":"80","cipher":"auto","uuid":"43dcdce1-3cea-4193-bc8d-90b92071d779","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":""}}}
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 4","type":"vmess","server":"45.12.132.183","port":"80","cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"45.12.132.183"}}}
-  - {"name":"🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7","type":"vmess","server":"193.151.128.37","port":"3131","cipher":"auto","uuid":"23f58ce5-5e07-4d4e-9551-85f84db5c492","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | @nofiltering2 | 7","type":"vmess","server":"193.151.128.37","port":"3131","cipher":"auto","uuid":"23f58ce5-5e07-4d4e-9551-85f84db5c492","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -176,16 +175,15 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @Hope_Net | 0'
       - '❔XX | 🟢 | vmess | @Hope_Net | 1'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 2'
-      - '❔XX | 🟢 | vmess | @Hope_Net | 3'
+      - '🇮🇷IR | 🟢 | vmess | @Hope_Net | 3'
       - '❔XX | 🟢 | vmess | @Hope_Net | 4'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 5'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 6'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 7'
       - '❔XX | 🟢 | vmess | @Hope_Net | 8'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 9'
       - '❔XX | 🟢 | vmess | @v2Line | 2'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
-      - '🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7'
+      - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -212,16 +210,15 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @Hope_Net | 0'
       - '❔XX | 🟢 | vmess | @Hope_Net | 1'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 2'
-      - '❔XX | 🟢 | vmess | @Hope_Net | 3'
+      - '🇮🇷IR | 🟢 | vmess | @Hope_Net | 3'
       - '❔XX | 🟢 | vmess | @Hope_Net | 4'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 5'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 6'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 7'
       - '❔XX | 🟢 | vmess | @Hope_Net | 8'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 9'
       - '❔XX | 🟢 | vmess | @v2Line | 2'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
-      - '🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7'
+      - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -247,16 +244,15 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @Hope_Net | 0'
       - '❔XX | 🟢 | vmess | @Hope_Net | 1'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 2'
-      - '❔XX | 🟢 | vmess | @Hope_Net | 3'
+      - '🇮🇷IR | 🟢 | vmess | @Hope_Net | 3'
       - '❔XX | 🟢 | vmess | @Hope_Net | 4'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 5'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 6'
       - '🚩CF | 🟢 | vmess | @Hope_Net | 7'
       - '❔XX | 🟢 | vmess | @Hope_Net | 8'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 9'
       - '❔XX | 🟢 | vmess | @v2Line | 2'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
-      - '🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7'
+      - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
