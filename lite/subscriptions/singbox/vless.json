@@ -122,12 +122,12 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 52",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 53",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 50",
+                "🇮🇷IR | 🟢 | vless | @prrofile_purple | 51",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
                 "❔XX | 🔴 | vless | @ShadowSocks_s | 2",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
-                "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
+                "🇧🇪BE | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "🇮🇷IR | 🔴 | vless | @ServerNett | 0",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -151,7 +151,7 @@
                 "❔XX | 🟢 | vless | @mehrosaboran | 0",
                 "❔XX | 🔴 | vless | @mehrosaboran | 1",
                 "❔XX | 🔴 | vless | @kiava | 36",
-                "🇺🇸US | 🔴 | vless | @kiava | 37",
+                "❔XX | 🔴 | vless | @kiava | 37",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
@@ -180,12 +180,12 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 52",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 53",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 50",
+                "🇮🇷IR | 🟢 | vless | @prrofile_purple | 51",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
                 "❔XX | 🔴 | vless | @ShadowSocks_s | 2",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
-                "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
+                "🇧🇪BE | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "🇮🇷IR | 🔴 | vless | @ServerNett | 0",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -209,7 +209,7 @@
                 "❔XX | 🟢 | vless | @mehrosaboran | 0",
                 "❔XX | 🔴 | vless | @mehrosaboran | 1",
                 "❔XX | 🔴 | vless | @kiava | 36",
-                "🇺🇸US | 🔴 | vless | @kiava | 37",
+                "❔XX | 🔴 | vless | @kiava | 37",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
@@ -628,11 +628,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 52",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 50",
             "type": "vless",
-            "server": "162.159.194.86",
-            "server_port": 2087,
-            "uuid": "ba099f67-fc1f-4339-b36e-bcbbcc38fe8f",
+            "server": "cf2.bntabriz.ir",
+            "server_port": 443,
+            "uuid": "e7623987-2e5f-245c-0975-249864348b56",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -642,29 +642,22 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "amorix.abresani.com",
+                "server_name": "de2.www.hitgram.ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "amorix.abresani.com"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 53",
+            "tag": "🇮🇷IR | 🟢 | vless | @prrofile_purple | 51",
             "type": "vless",
-            "server": "fastly2.hamrahflow.ir",
-            "server_port": 443,
-            "uuid": "5e07e5e7-35ae-4848-9b5b-4abd4e65682f",
-            "flow": "",
+            "server": "my.kiomars.shop",
+            "server_port": 6620,
+            "uuid": "af5100bf-ffe6-43de-bee5-b16cf5a3528e",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -673,19 +666,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "default.ssl.fastly.net",
+                "server_name": "play.google.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "default.ssl.fastly.net"
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM",
+                    "short_id": "c3b6ed4da7a983c7"
                 }
             }
         },
@@ -739,7 +730,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
+            "tag": "🇧🇪BE | 🟢 | vless | @FalconPolV2rayNG | 1",
             "type": "vless",
             "server": "151.101.10.79",
             "server_port": 443,
@@ -1309,7 +1300,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @kiava | 37",
+            "tag": "❔XX | 🔴 | vless | @kiava | 37",
             "type": "vless",
             "server": "ipa-alphaomega-company.alphaomegacompany-powerfull.ir",
             "server_port": 80,
