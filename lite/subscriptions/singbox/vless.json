@@ -121,11 +121,13 @@
                 "🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 8",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 0",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
+                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
+                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @V2rayCollector | 0",
                 "🇮🇷IR | 🔴 | vless | @V2rayCollector | 1",
+                "🇮🇷IR | 🔴 | vless | @azadi_az_inja_migzare | 0",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 76",
@@ -134,7 +136,7 @@
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 43",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
+                "❔XX | 🔴 | vless | @v2ray_swhil | 44",
                 "❔XX | 🔴 | vless | @vless_vmess | 18",
                 "❔XX | 🔴 | vless | @vless_vmess | 19",
                 "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
@@ -183,11 +185,13 @@
                 "🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 8",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 0",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
+                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
+                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇮🇷IR | 🔴 | vless | @V2rayCollector | 0",
                 "🇮🇷IR | 🔴 | vless | @V2rayCollector | 1",
+                "🇮🇷IR | 🔴 | vless | @azadi_az_inja_migzare | 0",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 76",
@@ -196,7 +200,7 @@
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 43",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
+                "❔XX | 🔴 | vless | @v2ray_swhil | 44",
                 "❔XX | 🔴 | vless | @vless_vmess | 18",
                 "❔XX | 🔴 | vless | @vless_vmess | 19",
                 "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
@@ -615,7 +619,21 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
+            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
+            "type": "vless",
+            "server": "turbo.ncop.ir",
+            "server_port": 2086,
+            "uuid": "2d31dafe-0300-40ba-8e18-9e75a32bf7b7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "turbo.ncop.ir",
             "server_port": 2086,
@@ -707,6 +725,20 @@
             "server": "cdnirpish234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website",
             "server_port": 1087,
             "uuid": "06442da2-c71e-4f5d-b2f3-e327b3f515b5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @azadi_az_inja_migzare | 0",
+            "type": "vless",
+            "server": "my.configfast.site",
+            "server_port": 4013,
+            "uuid": "44de73bc-eb6d-429d-9c2f-ec0a6e4a6681",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -894,7 +926,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
+            "tag": "❔XX | 🔴 | vless | @v2ray_swhil | 44",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
