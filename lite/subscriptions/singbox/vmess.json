@@ -106,11 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
+                "🇮🇷IR | 🟢 | vmess | @azadi_az_inja_migzare | 0",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
                 "🇮🇷IR | 🟢 | vmess | @vmessorg | 2",
-                "🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0",
+                "❔XX | 🟢 | vmess | @V2rayng_Fast | 0",
                 "❔XX | 🟢 | vmess | @V2rayng_Fast | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
@@ -124,11 +125,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
+                "🇮🇷IR | 🟢 | vmess | @azadi_az_inja_migzare | 0",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
                 "🇮🇷IR | 🟢 | vmess | @vmessorg | 2",
-                "🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0",
+                "❔XX | 🟢 | vmess | @V2rayng_Fast | 0",
                 "❔XX | 🟢 | vmess | @V2rayng_Fast | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
@@ -156,6 +158,23 @@
         {
             "tag": "dns-out",
             "type": "dns"
+        },
+        {
+            "tag": "🇮🇷IR | 🟢 | vmess | @azadi_az_inja_migzare | 0",
+            "type": "vmess",
+            "server": "d1.farsitwocl.ir",
+            "server_port": 3000,
+            "uuid": "375ec9d9-bb66-4433-a070-fa9acb0f0198",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
         },
         {
             "tag": "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
@@ -226,7 +245,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0",
+            "tag": "❔XX | 🟢 | vmess | @V2rayng_Fast | 0",
             "type": "vmess",
             "server": "iran.anonnexuse.com",
             "server_port": 101,
@@ -320,6 +339,23 @@
         {
             "tag": "❔XX | 🟢 | vmess | @Hope_Net | 11",
             "type": "vmess",
+            "server": "46.29.163.158",
+            "server_port": 11811,
+            "uuid": "0de1ee2b-92d7-4ca8-9f0e-64e89f5e5f6d",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 12",
+            "type": "vmess",
             "server": "104.19.123.11",
             "server_port": 2086,
             "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
@@ -338,40 +374,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "104.19.123.11"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 12",
-            "type": "vmess",
-            "server": "38.33.55.71",
-            "server_port": 37001,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": "auto",
-            "alter_id": 64,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "38.33.55.71",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/path\/191019072927",
-                "headers": {
-                    "Host": "38.33.55.71"
                 }
             }
         },

@@ -118,6 +118,7 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
+  - {"name":"🇮🇷IR | 🟢 | vmess | @azadi_az_inja_migzare | 0","type":"vmess","server":"d1.farsitwocl.ir","port":"3000","cipher":"auto","uuid":"375ec9d9-bb66-4433-a070-fa9acb0f0198","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 16","type":"trojan","server":"52.57.181.116","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17","type":"trojan","server":"13.37.41.238","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 16","type":"trojan","server":"52.57.181.116","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
@@ -129,8 +130,8 @@ proxies:
   - {"name":"❔XX | 🟢 | vmess | @V2rayng_Fast | 1","type":"vmess","server":"x2.mehradservice.com","port":"4452","cipher":"auto","uuid":"92db226e-a0b8-4623-b4fa-796f4dd94167","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 16","type":"ss","server":"93.174.164.89","port":11201,"password":"0bc801a7cac5f134","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 11","type":"vmess","server":"104.19.123.11","port":"2086","cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"ip11.freegradely.xyz"}}}
-  - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 12","type":"vmess","server":"38.33.55.71","port":"37001","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/191019072927","headers":{"host":""}}}
+  - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 11","type":"vmess","server":"46.29.163.158","port":"11811","cipher":"auto","uuid":"0de1ee2b-92d7-4ca8-9f0e-64e89f5e5f6d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 12","type":"vmess","server":"104.19.123.11","port":"2086","cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"ip11.freegradely.xyz"}}}
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 4","type":"vmess","server":"45.12.132.183","port":"80","cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"45.12.132.183"}}}
 proxy-groups:
   - name: MANUAL
@@ -138,6 +139,7 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
+      - '🇮🇷IR | 🟢 | vmess | @azadi_az_inja_migzare | 0'
       - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 16'
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 16'
@@ -158,6 +160,7 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
+      - '🇮🇷IR | 🟢 | vmess | @azadi_az_inja_migzare | 0'
       - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 16'
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 16'
@@ -177,6 +180,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
+      - '🇮🇷IR | 🟢 | vmess | @azadi_az_inja_migzare | 0'
       - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 16'
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 16'
