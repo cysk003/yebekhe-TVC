@@ -143,10 +143,10 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 13",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 11",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 12",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 14",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 15",
                 "❔XX | 🔴 | vless | @rxv2ray | 0",
                 "❔XX | 🔴 | vless | @rxv2ray | 1",
@@ -367,7 +367,6 @@
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🟢 | vless | @iP_CF | 0",
-                "❔XX | 🔴 | vless | @iP_CF | 1",
                 "❔XX | 🟢 | vless | @mehrosaboran | 0",
                 "❔XX | 🔴 | vless | @mehrosaboran | 1",
                 "❔XX | 🔴 | vless | @kiava | 0",
@@ -483,10 +482,10 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 13",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 11",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 12",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 14",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 15",
                 "❔XX | 🔴 | vless | @rxv2ray | 0",
                 "❔XX | 🔴 | vless | @rxv2ray | 1",
@@ -707,7 +706,6 @@
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🟢 | vless | @iP_CF | 0",
-                "❔XX | 🔴 | vless | @iP_CF | 1",
                 "❔XX | 🟢 | vless | @mehrosaboran | 0",
                 "❔XX | 🔴 | vless | @mehrosaboran | 1",
                 "❔XX | 🔴 | vless | @kiava | 0",
@@ -1765,7 +1763,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 11",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1779,7 +1777,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 12",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1793,7 +1791,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1807,7 +1805,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 14",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -7316,30 +7314,6 @@
                     "enabled": true,
                     "public_key": "JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4",
                     "short_id": "99de062f46387d3e"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @iP_CF | 1",
-            "type": "vless",
-            "server": "cff.3pita.com",
-            "server_port": 443,
-            "uuid": "b7ee8185-a285-7f38-4e42-411da1656523",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "de2.www.hitgram.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
