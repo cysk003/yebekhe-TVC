@@ -124,7 +124,8 @@
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 52",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 53",
-                "🇮🇷IR | 🔴 | vless | @vmessorg | 0",
+                "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
+                "❔XX | 🔴 | vless | @ShadowSocks_s | 2",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "🇮🇷IR | 🔴 | vless | @ServerNett | 0",
@@ -135,7 +136,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
+                "❔XX | 🔴 | vless | @lrnbymaa | 11",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 12",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
@@ -146,8 +147,6 @@
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
-                "❔XX | 🟢 | vless | @iP_CF | 0",
-                "❔XX | 🔴 | vless | @iP_CF | 1",
                 "❔XX | 🟢 | vless | @mehrosaboran | 0",
                 "❔XX | 🔴 | vless | @mehrosaboran | 1",
                 "❔XX | 🔴 | vless | @kiava | 36",
@@ -182,7 +181,8 @@
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 52",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 53",
-                "🇮🇷IR | 🔴 | vless | @vmessorg | 0",
+                "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
+                "❔XX | 🔴 | vless | @ShadowSocks_s | 2",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "🇮🇷IR | 🔴 | vless | @ServerNett | 0",
@@ -193,7 +193,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
+                "❔XX | 🔴 | vless | @lrnbymaa | 11",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 12",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
@@ -204,8 +204,6 @@
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
-                "❔XX | 🟢 | vless | @iP_CF | 0",
-                "❔XX | 🔴 | vless | @iP_CF | 1",
                 "❔XX | 🟢 | vless | @mehrosaboran | 0",
                 "❔XX | 🔴 | vless | @mehrosaboran | 1",
                 "❔XX | 🔴 | vless | @kiava | 36",
@@ -690,11 +688,32 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @vmessorg | 0",
+            "tag": "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
             "type": "vless",
-            "server": "81.12.33.175",
-            "server_port": 700,
-            "uuid": "a80cc27a-14a6-4147-bc1b-70fcca27253d",
+            "server": "81.12.33.100",
+            "server_port": 7710,
+            "uuid": "83b8e95b-df6e-4a80-b897-273cd4524caf",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "qwemmqwoedmqwoemdoqwmedpmqwedmpm",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @ShadowSocks_s | 2",
+            "type": "vless",
+            "server": "epzNPHlZlVczqpBI2npY",
+            "server_port": 0,
+            "uuid": "",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -950,7 +969,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
+            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 11",
             "type": "vless",
             "server": "tak8.khabaronlinestar.site",
             "server_port": 8083,
@@ -1186,59 +1205,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "finland.dehnavy.ir"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @iP_CF | 0",
-            "type": "vless",
-            "server": "93.94.51.8",
-            "server_port": 13380,
-            "uuid": "e8fb0f43-3497-4ef3-8a89-35bae56549b7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "yandex.ru",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4",
-                    "short_id": "99de062f46387d3e"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @iP_CF | 1",
-            "type": "vless",
-            "server": "cff.3pita.com",
-            "server_port": 443,
-            "uuid": "b7ee8185-a285-7f38-4e42-411da1656523",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "de2.www.hitgram.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
