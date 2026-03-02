@@ -106,12 +106,10 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0",
                 "🇹🇷TR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
-                "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 16",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
@@ -134,26 +132,24 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 17",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 1",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 1",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 65",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 66",
-                "🇮🇷IR | 🔴 | vless | @vmessorg | 1",
-                "🇮🇷IR | 🟢 | vmess | @vmessorg | 2",
-                "❔XX | 🔴 | vless | @FalconPolV2rayNG | 0",
-                "❔XX | 🟢 | vless | @FalconPolV2rayNG | 1",
-                "❔XX | 🟢 | vmess | @V2rayng_Fast | 0",
-                "❔XX | 🟢 | vmess | @V2rayng_Fast | 1",
-                "❔XX | 🔴 | vless | @v2ray_swhil | 43",
+                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
+                "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
+                "🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0",
+                "🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 1",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 44",
-                "❔XX | 🔴 | vless | @vless_vmess | 18",
-                "❔XX | 🔴 | vless | @vless_vmess | 19",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
+                "❔XX | 🔴 | vless | @lrnbymaa | 11",
                 "❔XX | 🔴 | vless | @lrnbymaa | 12",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -170,6 +166,7 @@
                 "❔XX | 🔴 | vless | @Capoit | 7",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @FreakConfig | 17",
+                "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🟢 | vless | @iP_CF | 0",
                 "❔XX | 🔴 | vless | @iP_CF | 1",
                 "❔XX | 🔴 | vless | @mehrosaboran | 1",
@@ -188,12 +185,10 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0",
                 "🇹🇷TR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
-                "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 16",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
@@ -216,26 +211,24 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 17",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 1",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 1",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 65",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 66",
-                "🇮🇷IR | 🔴 | vless | @vmessorg | 1",
-                "🇮🇷IR | 🟢 | vmess | @vmessorg | 2",
-                "❔XX | 🔴 | vless | @FalconPolV2rayNG | 0",
-                "❔XX | 🟢 | vless | @FalconPolV2rayNG | 1",
-                "❔XX | 🟢 | vmess | @V2rayng_Fast | 0",
-                "❔XX | 🟢 | vmess | @V2rayng_Fast | 1",
-                "❔XX | 🔴 | vless | @v2ray_swhil | 43",
+                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
+                "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
+                "🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0",
+                "🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 1",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 44",
-                "❔XX | 🔴 | vless | @vless_vmess | 18",
-                "❔XX | 🔴 | vless | @vless_vmess | 19",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
+                "❔XX | 🔴 | vless | @lrnbymaa | 11",
                 "❔XX | 🔴 | vless | @lrnbymaa | 12",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -252,6 +245,7 @@
                 "❔XX | 🔴 | vless | @Capoit | 7",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @FreakConfig | 17",
+                "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🟢 | vless | @iP_CF | 0",
                 "❔XX | 🔴 | vless | @iP_CF | 1",
                 "❔XX | 🔴 | vless | @mehrosaboran | 1",
@@ -284,35 +278,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 0",
-            "type": "vless",
-            "server": "80.75.212.10",
-            "server_port": 443,
-            "uuid": "eb071647-72a6-46be-8e89-ff3d228d52f6",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "nl.jojack.ru",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4",
-                    "short_id": "6bb3c7f9f97b45b8"
-                }
-            }
         },
         {
             "tag": "🇹🇷TR | 🔴 | vless | @XsV2ray | 4",
@@ -419,20 +384,6 @@
                 "headers": {
                     "Host": "trojan.burgerip.co.uk"
                 }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
-            "type": "vless",
-            "server": "turin.mobileturin.com",
-            "server_port": 11783,
-            "uuid": "6fc4c171-c2db-479b-e3f1-92bd566a1ee4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -892,7 +843,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 1",
             "type": "vmess",
             "server": null,
             "server_port": 0,
@@ -909,7 +860,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 1",
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
             "type": "trojan",
             "server": "www.calmlunch.com",
             "server_port": 443,
@@ -999,38 +950,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @vmessorg | 1",
-            "type": "vless",
-            "server": "porttt4.webchipro2.ir",
-            "server_port": 3040,
-            "uuid": "b9653688-1470-f844-f106-a12f10fb3517",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🟢 | vmess | @vmessorg | 2",
-            "type": "vmess",
-            "server": "blog.topspeedarash.com",
-            "server_port": 4351,
-            "uuid": "c9688320-4732-4091-b21f-6b6113099fee",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @FalconPolV2rayNG | 0",
+            "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
             "type": "vless",
             "server": "min1.rezgod.shop",
             "server_port": 17263,
@@ -1044,7 +964,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @FalconPolV2rayNG | 1",
+            "tag": "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
             "type": "vless",
             "server": "151.101.10.79",
             "server_port": 443,
@@ -1075,7 +995,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @V2rayng_Fast | 0",
+            "tag": "🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0",
             "type": "vmess",
             "server": "iran.anonnexuse.com",
             "server_port": 101,
@@ -1092,7 +1012,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @V2rayng_Fast | 1",
+            "tag": "🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 1",
             "type": "vmess",
             "server": "x2.mehradservice.com",
             "server_port": 4452,
@@ -1109,7 +1029,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2ray_swhil | 43",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -1171,7 +1091,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @vless_vmess | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
             "type": "vless",
             "server": "172.67.141.140",
             "server_port": 8880,
@@ -1192,7 +1112,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @vless_vmess | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
             "type": "vless",
             "server": "104.16.85.3",
             "server_port": 8880,
@@ -1289,7 +1209,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
+            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 11",
             "type": "vless",
             "server": "tak8.khabaronlinestar.site",
             "server_port": 8083,
@@ -1387,6 +1307,40 @@
         {
             "tag": "❔XX | 🟢 | vmess | @Hope_Net | 11",
             "type": "vmess",
+            "server": "38.33.19.91",
+            "server_port": 37000,
+            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
+            "security": "auto",
+            "alter_id": 64,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "38.33.19.91",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/path\/191019072927",
+                "headers": {
+                    "Host": "38.33.19.91"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 12",
+            "type": "vmess",
             "server": "46.29.163.158",
             "server_port": 11811,
             "uuid": "0de1ee2b-92d7-4ca8-9f0e-64e89f5e5f6d",
@@ -1399,30 +1353,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 12",
-            "type": "vmess",
-            "server": "104.19.123.11",
-            "server_port": 2086,
-            "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "104.19.123.11"
-                }
             }
         },
         {
@@ -1672,6 +1602,27 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @flyv2ray | 0",
+            "type": "vless",
+            "server": "finland.dehnavy.ir",
+            "server_port": 39461,
+            "uuid": "0195d3b8-8bfa-4c6e-9988-56396952a50a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "finland.dehnavy.ir"
+                }
             }
         },
         {
