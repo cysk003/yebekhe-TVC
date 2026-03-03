@@ -122,8 +122,8 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0","type":"vmess","server":"user5507.login.karim2000.ir","port":"10036","cipher":"auto","uuid":"aa8458e9-1983-49e2-a42c-29fb9ea453f7","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
+  - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 9","type":"vmess","server":"::ffff:3981:3258","port":"16513","cipher":"auto","uuid":"5f77f446-6b97-4f39-b9b1-af353e3c4d50","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 10","type":"vmess","server":"[::ffff:3981:337d]","port":"19534","cipher":"auto","uuid":"9500739f-0299-47ec-9d3d-2cfec6d5cde1","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 11","type":"vmess","server":"104.21.94.64","port":"443","cipher":"auto","uuid":"39cec18f-a439-427c-9a4e-aeb6fcdf6f53","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"linja05.hwcar.sbs"}}}
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 4","type":"vmess","server":"45.12.132.183","port":"80","cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"45.12.132.183"}}}
 proxy-groups:
   - name: MANUAL
@@ -135,8 +135,8 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
+      - '❔XX | 🟢 | vmess | @Hope_Net | 9'
       - '❔XX | 🟢 | vmess | @Hope_Net | 10'
-      - '❔XX | 🟢 | vmess | @Hope_Net | 11'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
   - name: URL-TEST
     type: url-test
@@ -148,8 +148,8 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
+      - '❔XX | 🟢 | vmess | @Hope_Net | 9'
       - '❔XX | 🟢 | vmess | @Hope_Net | 10'
-      - '❔XX | 🟢 | vmess | @Hope_Net | 11'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
   - name: FALLBACK
     type: fallback
@@ -160,8 +160,8 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
+      - '❔XX | 🟢 | vmess | @Hope_Net | 9'
       - '❔XX | 🟢 | vmess | @Hope_Net | 10'
-      - '❔XX | 🟢 | vmess | @Hope_Net | 11'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
