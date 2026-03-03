@@ -122,8 +122,9 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 37",
+                "🇮🇷IR | 🟢 | vless | @prrofile_purple | 37",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 38",
+                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -175,8 +176,9 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 37",
+                "🇮🇷IR | 🟢 | vless | @prrofile_purple | 37",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 38",
+                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
@@ -618,7 +620,36 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 37",
+            "tag": "🇮🇷IR | 🟢 | vless | @prrofile_purple | 37",
+            "type": "vless",
+            "server": "62.60.212.216",
+            "server_port": 443,
+            "uuid": "5703f5b9-d708-4443-b661-aae0c338e32c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.figma.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HiEn07HkK8FRuKgmNDATj9TsEh6z6QwozRADLvV8SEE",
+                    "short_id": "a4efab6a73"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 38",
             "type": "vless",
             "server": "testdaily.snapmax.shop",
             "server_port": 3535,
@@ -632,7 +663,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 38",
+            "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
             "type": "vless",
             "server": "min1.rezgod.shop",
             "server_port": 17263,
