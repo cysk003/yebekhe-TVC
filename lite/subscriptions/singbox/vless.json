@@ -118,7 +118,7 @@
                 "🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 8",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 0",
-                "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 0",
+                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
@@ -130,11 +130,11 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
-                "❔XX | 🔴 | vless | @lrnbymaa | 12",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 12",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
@@ -174,7 +174,7 @@
                 "🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 8",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 0",
-                "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 0",
+                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
@@ -186,11 +186,11 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
-                "❔XX | 🔴 | vless | @lrnbymaa | 12",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 12",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
@@ -529,17 +529,24 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 0",
+            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
             "type": "vless",
-            "server": "85.133.221.61",
-            "server_port": 543,
-            "uuid": "16a5322b-0db6-45b7-9506-5aec747d999d",
+            "server": "46.245.65.49",
+            "server_port": 2053,
+            "uuid": "b5a71bc7-cc2c-4c6c-90b6-d08c341994c6",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "46.245.65.49"
+                }
             }
         },
         {
@@ -801,7 +808,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
+            "tag": "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -891,7 +898,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 12",
+            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 12",
             "type": "vless",
             "server": "v2arm.topacp.store",
             "server_port": 2053,

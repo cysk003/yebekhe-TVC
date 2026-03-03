@@ -282,6 +282,23 @@
         {
             "tag": "❔XX | 🟢 | vmess | @Hope_Net | 10",
             "type": "vmess",
+            "server": "[::ffff:3981:337d]",
+            "server_port": 19534,
+            "uuid": "9500739f-0299-47ec-9d3d-2cfec6d5cde1",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 11",
+            "type": "vmess",
             "server": "104.21.94.64",
             "server_port": 443,
             "uuid": "39cec18f-a439-427c-9a4e-aeb6fcdf6f53",
@@ -310,30 +327,6 @@
                 "path": "\/linkws",
                 "headers": {
                     "Host": "linja05.hwcar.sbs"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 11",
-            "type": "vmess",
-            "server": "104.17.148.128",
-            "server_port": 80,
-            "uuid": "2d14e84b-226b-412a-9a3c-ffce70b02bdf",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/vmess",
-                "headers": {
-                    "Host": ""
                 }
             }
         },
