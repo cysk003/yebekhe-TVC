@@ -124,8 +124,8 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0","type":"vmess","server":"user5507.login.karim2000.ir","port":"10036","cipher":"auto","uuid":"aa8458e9-1983-49e2-a42c-29fb9ea453f7","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
+  - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 2","type":"vmess","server":"77.83.141.171","port":"443","cipher":"auto","uuid":"35379219-6535-4f2e-a4fe-3e44f61e0eee","alterId":"32","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vc","headers":{"host":""}}}
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 3","type":"vmess","server":"mci.mosi.mosipro.ml","port":"443","cipher":"auto","uuid":"3f197280-7b21-4f39-b763-4bb004e8021f","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/speedtest","headers":{"host":"Dusseldorf.kotick.site"}}}
-  - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 4","type":"vmess","server":"104.19.47.15","port":8443,"cipher":"auto","uuid":"39135a39-e6ca-43df-a360-d859eea58d86","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"hk01.linkitnow.net"}}}
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 4","type":"vmess","server":"45.12.132.183","port":"80","cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"45.12.132.183"}}}
 proxy-groups:
   - name: MANUAL
@@ -137,8 +137,8 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
+      - '❔XX | 🟢 | vmess | @Hope_Net | 2'
       - '❔XX | 🟢 | vmess | @Hope_Net | 3'
-      - '❔XX | 🟢 | vmess | @Hope_Net | 4'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
   - name: URL-TEST
     type: url-test
@@ -150,8 +150,8 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
+      - '❔XX | 🟢 | vmess | @Hope_Net | 2'
       - '❔XX | 🟢 | vmess | @Hope_Net | 3'
-      - '❔XX | 🟢 | vmess | @Hope_Net | 4'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
   - name: FALLBACK
     type: fallback
@@ -162,8 +162,8 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇮🇷IR | 🟢 | vmess | @V2rayng_Fast | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
+      - '❔XX | 🟢 | vmess | @Hope_Net | 2'
       - '❔XX | 🟢 | vmess | @Hope_Net | 3'
-      - '❔XX | 🟢 | vmess | @Hope_Net | 4'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
