@@ -111,14 +111,12 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 6",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 15",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 6",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 8",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 0",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
@@ -133,7 +131,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "❔XX | 🔴 | vless | @lrnbymaa | 11",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
                 "❔XX | 🔴 | vless | @lrnbymaa | 12",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
@@ -167,14 +165,12 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 6",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 15",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 6",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇮🇷IR | 🔴 | vless | @CUSTOMVPNSERVER | 8",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 0",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
@@ -189,7 +185,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "❔XX | 🔴 | vless | @lrnbymaa | 11",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
                 "❔XX | 🔴 | vless | @lrnbymaa | 12",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
@@ -372,25 +368,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "8a20ecfe-6a72-4e88-aa2c-65a9e43a8512",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 15",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8880,
-            "uuid": "4b75a44d-3c91-461e-b5a0-6060ac8aff68",
+            "uuid": "f13e82ba-618f-4b5e-badf-c87d79217639",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -525,27 +507,6 @@
                 "path": "\/api?ed=2560",
                 "headers": {
                     "Host": "streamchat.ikoochi.ir."
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
-            "type": "vless",
-            "server": "46.245.65.49",
-            "server_port": 2053,
-            "uuid": "b5a71bc7-cc2c-4c6c-90b6-d08c341994c6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "46.245.65.49"
                 }
             }
         },
@@ -884,7 +845,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 11",
+            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
             "type": "vless",
             "server": "tak8.khabaronlinestar.site",
             "server_port": 8083,
