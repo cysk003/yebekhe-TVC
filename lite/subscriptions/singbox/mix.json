@@ -125,8 +125,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 37",
@@ -141,13 +141,13 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "❔XX | 🔴 | vless | @lrnbymaa | 11",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
                 "❔XX | 🔴 | vless | @lrnbymaa | 12",
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
+                "❔XX | 🟢 | vmess | @Hope_Net | 1",
+                "❔XX | 🟢 | vmess | @Hope_Net | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
@@ -193,8 +193,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 37",
@@ -209,13 +209,13 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "❔XX | 🔴 | vless | @lrnbymaa | 11",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
                 "❔XX | 🔴 | vless | @lrnbymaa | 12",
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 6",
+                "❔XX | 🟢 | vmess | @Hope_Net | 1",
+                "❔XX | 🟢 | vmess | @Hope_Net | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
@@ -713,7 +713,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
             "type": "vmess",
             "server": null,
             "server_port": 0,
@@ -730,7 +730,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4",
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
             "type": "trojan",
             "server": "172.64.152.23",
             "server_port": 443,
@@ -1077,7 +1077,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 11",
+            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
             "type": "vless",
             "server": "tak8.khabaronlinestar.site",
             "server_port": 8083,
@@ -1173,11 +1173,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 1",
             "type": "vmess",
-            "server": "2.189.59.2",
-            "server_port": 443,
-            "uuid": "62aa5f80-0328-4004-a375-7f5a59df4022",
+            "server": "104.17.148.128",
+            "server_port": 80,
+            "uuid": "2d14e84b-226b-412a-9a3c-ffce70b02bdf",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1188,9 +1188,33 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "transport": {
+                "type": "ws",
+                "path": "\/vmess",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 2",
+            "type": "vmess",
+            "server": "77.83.141.171",
+            "server_port": 443,
+            "uuid": "35379219-6535-4f2e-a4fe-3e44f61e0eee",
+            "security": "auto",
+            "alter_id": 32,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
             "tls": {
                 "enabled": true,
-                "server_name": "pages.dev",
+                "server_name": "77.83.141.171",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1200,33 +1224,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/Telegram\/XV2ray",
+                "path": "\/vc",
                 "headers": {
-                    "Host": "pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
-            "type": "vmess",
-            "server": "in-tw-1.iivvppnn.info",
-            "server_port": 38201,
-            "uuid": "79386685-16da-327c-9e14-aa6d702d86bc",
-            "security": "auto",
-            "alter_id": 1,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/hls\/cctv5phd.m3u8",
-                "headers": {
-                    "Host": "in-tw-1.iivvppnn.info"
+                    "Host": "77.83.141.171"
                 }
             }
         },
