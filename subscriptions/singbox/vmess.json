@@ -120,15 +120,15 @@
                 "❔XX | 🟢 | vmess | @mftizi | 15",
                 "❔XX | 🟢 | vmess | @mftizi | 16",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 12",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 26",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 13",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 19",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 33",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 0",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 1",
                 "❔XX | 🟢 | vmess | @v2Line | 0",
                 "❔XX | 🟢 | vmess | @v2Line | 1",
                 "❔XX | 🟢 | vmess | @v2Line | 2",
@@ -156,15 +156,15 @@
                 "❔XX | 🟢 | vmess | @mftizi | 15",
                 "❔XX | 🟢 | vmess | @mftizi | 16",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 12",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 26",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 13",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 19",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 33",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 0",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 1",
                 "❔XX | 🟢 | vmess | @v2Line | 0",
                 "❔XX | 🟢 | vmess | @v2Line | 1",
                 "❔XX | 🟢 | vmess | @v2Line | 2",
@@ -432,7 +432,24 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 12",
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 13",
+            "type": "vmess",
+            "server": "sw.srvtogo.com",
+            "server_port": 9975,
+            "uuid": "06efb7db-29dc-433c-92df-564f1ba7f3bd",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 19",
             "type": "vmess",
             "server": "serb.srvtogo.com",
             "server_port": 9900,
@@ -449,7 +466,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 26",
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 33",
             "type": "vmess",
             "server": "78.157.63.77",
             "server_port": 80,
@@ -646,30 +663,6 @@
                 "path": "\/linkws",
                 "headers": {
                     "Host": "linja05.hwcar.sbs"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 1",
-            "type": "vmess",
-            "server": "104.17.148.128",
-            "server_port": 80,
-            "uuid": "2d14e84b-226b-412a-9a3c-ffce70b02bdf",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/vmess",
-                "headers": {
-                    "Host": ""
                 }
             }
         },
