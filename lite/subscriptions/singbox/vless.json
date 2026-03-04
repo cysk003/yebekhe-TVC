@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "🇹🇷TR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
@@ -121,8 +121,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 41",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 42",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 48",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 49",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -133,7 +133,7 @@
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
-                "❔XX | 🔴 | vless | @lrnbymaa | 12",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 12",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
@@ -160,7 +160,7 @@
             "outbounds": [
                 "🇹🇷TR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
@@ -173,8 +173,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @Outline_Vpn | 18",
-                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 41",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 42",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 48",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 49",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -185,7 +185,7 @@
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 11",
-                "❔XX | 🔴 | vless | @lrnbymaa | 12",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 12",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
@@ -271,9 +271,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "51.44.103.139",
+            "server": "52.29.35.131",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -304,7 +304,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "51.45.44.114",
+            "server": "51.44.103.139",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -602,7 +602,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 41",
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 48",
             "type": "vless",
             "server": "3.127.221.58",
             "server_port": 18694,
@@ -616,7 +616,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 42",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 49",
             "type": "vless",
             "server": "De20.Xn--fjQYeXxiDv2znoe9rK1n8aGb1E05q.XN--6qQ79v59WHUl.COM",
             "server_port": 2046,
@@ -869,7 +869,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 12",
+            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 12",
             "type": "vless",
             "server": "v2arm.topacp.store",
             "server_port": 2053,
