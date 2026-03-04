@@ -142,8 +142,8 @@ proxies:
   - {"name":"🇮🇷IR | 🔴 | vless | @MsV2ray | 2","type":"vless","server":"vip.xqfire.ir","port":911,"udp":false,"uuid":"134df9e6-f224-4373-9439-a5ecea0fd9f7","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @vless_vmess | 18","type":"vless","server":"172.67.141.140","port":8880,"udp":false,"uuid":"7e948e09-fa6f-4b8e-8c5d-181fa15fbec5","tls":false,"network":"ws","client-fingerprint":"chrome","servername":"8IzcpZflHzz4bVc0fW15f5O126R-WGPG.hEKOp71365.wOrkerS.DEv","ws-opts":{"path":"/QaaLdIiGgWNoIxOF?ed=2560","headers":{"host":"v2ngsupply2.ip-ddns.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @vless_vmess | 19","type":"vless","server":"104.16.85.3","port":8880,"udp":false,"uuid":"e9979910-79d1-4621-a93c-b2a579c44ba7","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/6TvG8D6HimXKgdp2?ed=2560","headers":{"host":"vngsupply.ip-ddns.com"}}}
-  - {"name":"❔XX | 🔴 | vless | @vmess_vless_v2rayng | 18","type":"vless","server":"pqh29v3.globalfymain.com","port":8880,"udp":false,"uuid":"8dc7722c-2767-4eea-a28b-2f8daacc07e3","tls":false,"network":"grpc","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19","type":"vless","server":"172.66.40.99","port":8080,"udp":false,"uuid":"92ee6cfa-a6c2-48ec-b833-b072975c7177","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18","type":"vless","server":"pqh29v3.globalfymain.com","port":8880,"udp":false,"uuid":"8dc7722c-2767-4eea-a28b-2f8daacc07e3","tls":false,"network":"grpc","client-fingerprint":"chrome"}
+  - {"name":"❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19","type":"vless","server":"172.66.40.99","port":8080,"udp":false,"uuid":"92ee6cfa-a6c2-48ec-b833-b072975c7177","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | vless | @MehradLearn | 0","type":"vless","server":"cdn4.eswap.ir","port":2087,"udp":false,"uuid":"0a229011-1db0-4dd5-916e-e18c668b4e9e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"ge.adamz.site","ws-opts":{"path":"/kos nane/khameneee/","headers":{"host":"ge.adamz.site"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @MehradLearn | 1","type":"vless","server":"104.17.74.206","port":2053,"udp":false,"uuid":"a3f952f1-142f-435f-9e82-e19581874fce","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"afranet1.nitromobile.online","ws-opts":{"path":"/JeiwoBjOYwhwoabA","headers":{"host":"afranet.nitromobile.online"}}}
   - {"name":"❔XX | 🔴 | vless | @lrnbymaa | 11","type":"vless","server":"tak8.khabaronlinestar.site","port":8083,"udp":false,"uuid":"08426869-4fe0-4f44-baf0-1273acd31f08","tls":false,"network":"tcp","client-fingerprint":"chrome"}
@@ -191,8 +191,8 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @MsV2ray | 2'
       - '🇺🇸US | 🔴 | vless | @vless_vmess | 18'
       - '🇺🇸US | 🔴 | vless | @vless_vmess | 19'
-      - '❔XX | 🔴 | vless | @vmess_vless_v2rayng | 18'
-      - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19'
+      - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18'
+      - '❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19'
       - '❔XX | 🔴 | vless | @MehradLearn | 0'
       - '🇺🇸US | 🔴 | vless | @MehradLearn | 1'
       - '❔XX | 🔴 | vless | @lrnbymaa | 11'
@@ -240,8 +240,8 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @MsV2ray | 2'
       - '🇺🇸US | 🔴 | vless | @vless_vmess | 18'
       - '🇺🇸US | 🔴 | vless | @vless_vmess | 19'
-      - '❔XX | 🔴 | vless | @vmess_vless_v2rayng | 18'
-      - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19'
+      - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18'
+      - '❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19'
       - '❔XX | 🔴 | vless | @MehradLearn | 0'
       - '🇺🇸US | 🔴 | vless | @MehradLearn | 1'
       - '❔XX | 🔴 | vless | @lrnbymaa | 11'
@@ -288,8 +288,8 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @MsV2ray | 2'
       - '🇺🇸US | 🔴 | vless | @vless_vmess | 18'
       - '🇺🇸US | 🔴 | vless | @vless_vmess | 19'
-      - '❔XX | 🔴 | vless | @vmess_vless_v2rayng | 18'
-      - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19'
+      - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 18'
+      - '❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19'
       - '❔XX | 🔴 | vless | @MehradLearn | 0'
       - '🇺🇸US | 🔴 | vless | @MehradLearn | 1'
       - '❔XX | 🔴 | vless | @lrnbymaa | 11'
