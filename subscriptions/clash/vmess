@@ -140,7 +140,7 @@ proxies:
   - {"name":"❔XX | 🟢 | vmess | @Hope_Net | 2","type":"vmess","server":"77.83.141.171","port":"443","cipher":"auto","uuid":"35379219-6535-4f2e-a4fe-3e44f61e0eee","alterId":"32","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vc","headers":{"host":""}}}
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 2","type":"vmess","server":"185.104.189.38","port":"80","cipher":"auto","uuid":"43dcdce1-3cea-4193-bc8d-90b92071d779","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":""}}}
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 4","type":"vmess","server":"45.12.132.183","port":"80","cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"45.12.132.183"}}}
-  - {"name":"❔XX | 🟢 | vmess | @nofiltering2 | 7","type":"vmess","server":"193.151.128.37","port":"3131","cipher":"auto","uuid":"23f58ce5-5e07-4d4e-9551-85f84db5c492","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7","type":"vmess","server":"193.151.128.37","port":"3131","cipher":"auto","uuid":"23f58ce5-5e07-4d4e-9551-85f84db5c492","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -169,7 +169,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @Hope_Net | 2'
       - '❔XX | 🟢 | vmess | @v2Line | 2'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
-      - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
+      - '🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -198,7 +198,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @Hope_Net | 2'
       - '❔XX | 🟢 | vmess | @v2Line | 2'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
-      - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
+      - '🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -226,7 +226,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @Hope_Net | 2'
       - '❔XX | 🟢 | vmess | @v2Line | 2'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
-      - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
+      - '🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
