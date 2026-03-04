@@ -123,7 +123,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
                 "❔XX | 🔴 | vless | @Capital_NET | 10",
                 "❔XX | 🔴 | vless | @Capital_NET | 11",
-                "❔XX | 🟢 | vless | @Capital_NET | 18",
+                "🇳🇱NL | 🟢 | vless | @Capital_NET | 18",
                 "🇳🇱NL | 🟢 | vless | @Capital_NET | 20",
                 "🇳🇱NL | 🔴 | vless | @Capital_NET | 21",
                 "🇫🇮FI | 🔴 | vless | @Capital_NET | 22",
@@ -148,6 +148,7 @@
                 "❔XX | 🟢 | vless | @FreakConfig | 4",
                 "❔XX | 🔴 | vless | @FreakConfig | 7",
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
+                "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @kiava | 0",
                 "❔XX | 🔴 | vless | @kiava | 1",
                 "❔XX | 🔴 | vless | @kiava | 2",
@@ -191,7 +192,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
                 "❔XX | 🔴 | vless | @Capital_NET | 10",
                 "❔XX | 🔴 | vless | @Capital_NET | 11",
-                "❔XX | 🟢 | vless | @Capital_NET | 18",
+                "🇳🇱NL | 🟢 | vless | @Capital_NET | 18",
                 "🇳🇱NL | 🟢 | vless | @Capital_NET | 20",
                 "🇳🇱NL | 🔴 | vless | @Capital_NET | 21",
                 "🇫🇮FI | 🔴 | vless | @Capital_NET | 22",
@@ -216,6 +217,7 @@
                 "❔XX | 🟢 | vless | @FreakConfig | 4",
                 "❔XX | 🔴 | vless | @FreakConfig | 7",
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
+                "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @kiava | 0",
                 "❔XX | 🔴 | vless | @kiava | 1",
                 "❔XX | 🔴 | vless | @kiava | 2",
@@ -765,7 +767,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @Capital_NET | 18",
+            "tag": "🇳🇱NL | 🟢 | vless | @Capital_NET | 18",
             "type": "vless",
             "server": "178.62.240.53",
             "server_port": 15177,
@@ -1514,6 +1516,35 @@
                     "enabled": true,
                     "public_key": "K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E",
                     "short_id": "42c0b628ba6a42a9"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 16",
+            "type": "vless",
+            "server": "germ-node.genadata.online",
+            "server_port": 2040,
+            "uuid": "14818654-7689-453a-9a1f-4c72f89782d5",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tradingview.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg",
+                    "short_id": "50ed6f6007515d63"
                 }
             }
         },
