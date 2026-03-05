@@ -112,7 +112,7 @@
                 "❔XX | 🟢 | vmess | @mftizi | 2",
                 "❔XX | 🟢 | vmess | @mftizi | 3",
                 "❔XX | 🟢 | vmess | @mftizi | 4",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 5",
+                "❔XX | 🟢 | vmess | @mftizi | 5",
                 "❔XX | 🟢 | vmess | @mftizi | 6",
                 "❔XX | 🟢 | vmess | @mftizi | 10",
                 "❔XX | 🟢 | vmess | @mftizi | 11",
@@ -123,8 +123,9 @@
                 "❔XX | 🟢 | vmess | @prrofile_purple | 27",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 33",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 47",
+                "❔XX | 🟢 | vmess | @V2rayng_Fast | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
-                "🇲🇾MY | 🟢 | vmess | @yaney_01 | 2",
+                "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
@@ -134,7 +135,7 @@
                 "❔XX | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
+                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
             ]
         },
         {
@@ -147,7 +148,7 @@
                 "❔XX | 🟢 | vmess | @mftizi | 2",
                 "❔XX | 🟢 | vmess | @mftizi | 3",
                 "❔XX | 🟢 | vmess | @mftizi | 4",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 5",
+                "❔XX | 🟢 | vmess | @mftizi | 5",
                 "❔XX | 🟢 | vmess | @mftizi | 6",
                 "❔XX | 🟢 | vmess | @mftizi | 10",
                 "❔XX | 🟢 | vmess | @mftizi | 11",
@@ -158,8 +159,9 @@
                 "❔XX | 🟢 | vmess | @prrofile_purple | 27",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 33",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 47",
+                "❔XX | 🟢 | vmess | @V2rayng_Fast | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
-                "🇲🇾MY | 🟢 | vmess | @yaney_01 | 2",
+                "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
@@ -169,7 +171,7 @@
                 "❔XX | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
+                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -294,7 +296,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 5",
+            "tag": "❔XX | 🟢 | vmess | @mftizi | 5",
             "type": "vmess",
             "server": "183.236.51.23",
             "server_port": 53002,
@@ -481,6 +483,23 @@
             }
         },
         {
+            "tag": "❔XX | 🟢 | vmess | @V2rayng_Fast | 2",
+            "type": "vmess",
+            "server": "gsmvpn.gsmvx.com",
+            "server_port": 5006,
+            "uuid": "859866ba-ca8e-4aa1-a190-000dcb010f28",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "❔XX | 🟢 | vmess | @yaney_01 | 1",
             "type": "vmess",
             "server": "45.199.138.217",
@@ -515,7 +534,7 @@
             }
         },
         {
-            "tag": "🇲🇾MY | 🟢 | vmess | @yaney_01 | 2",
+            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 2",
             "type": "vmess",
             "server": "107.149.119.43",
             "server_port": 37000,
@@ -815,7 +834,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @nofiltering2 | 7",
+            "tag": "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7",
             "type": "vmess",
             "server": "193.151.128.37",
             "server_port": 3131,
