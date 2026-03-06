@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
+                "🇹🇷TR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
@@ -129,13 +129,13 @@
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "🇮🇷IR | 🔴 | vless | @MsV2ray | 2",
+                "🇮🇷IR | 🔴 | vless | @MsV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
+                "❔XX | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -152,7 +152,6 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @GozargahVPN | 0",
-                "❔XX | 🔴 | vless | @GozargahVPN | 1",
                 "❔XX | 🔴 | vless | @V2FETCH | 0"
             ]
         },
@@ -160,7 +159,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
+                "🇹🇷TR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
@@ -183,13 +182,13 @@
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "🇮🇷IR | 🔴 | vless | @MsV2ray | 2",
+                "🇮🇷IR | 🔴 | vless | @MsV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
+                "❔XX | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @fnet00 | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -206,7 +205,6 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @GozargahVPN | 0",
-                "❔XX | 🔴 | vless | @GozargahVPN | 1",
                 "❔XX | 🔴 | vless | @V2FETCH | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -230,7 +228,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
+            "tag": "🇹🇷TR | 🔴 | vless | @XsV2ray | 4",
             "type": "vless",
             "server": "nv73.momdping.com",
             "server_port": 443,
@@ -776,7 +774,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @MsV2ray | 2",
+            "tag": "🇮🇷IR | 🔴 | vless | @MsV2ray | 1",
             "type": "vless",
             "server": "vip.xqfire.ir",
             "server_port": 911,
@@ -811,7 +809,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
+            "tag": "❔XX | 🔴 | vless | @vless_vmess | 19",
             "type": "vless",
             "server": "104.16.85.3",
             "server_port": 8880,
@@ -877,7 +875,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @MehradLearn | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
             "type": "vless",
             "server": "104.17.74.206",
             "server_port": 2053,
@@ -908,7 +906,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 2",
             "type": "vless",
             "server": "104.16.139.160",
             "server_port": 443,
@@ -1287,20 +1285,6 @@
             "server": "vip-81.f-sub.lenalizmy0ve.ir",
             "server_port": 45542,
             "uuid": "ca936f22-fbe1-443d-15cb-9cf2ee9b8334",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @GozargahVPN | 1",
-            "type": "vless",
-            "server": "94.184.17.223",
-            "server_port": 400,
-            "uuid": "ff741be3-2e01-474d-955b-0370e3f29a3e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
