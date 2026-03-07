@@ -109,8 +109,8 @@
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇳🇱NL | 🔴 | vless | @FreakConfig | 10",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ]
@@ -122,8 +122,8 @@
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇳🇱NL | 🔴 | vless | @FreakConfig | 10",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ],
@@ -235,7 +235,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -264,11 +264,11 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @FreakConfig | 10",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 16",
             "type": "vless",
-            "server": "195.26.224.112",
-            "server_port": 8443,
-            "uuid": "db444bee-8212-5ff5-be40-47e1a7509eb8",
+            "server": "germ-node.genadata.online",
+            "server_port": 2040,
+            "uuid": "14818654-7689-453a-9a1f-4c72f89782d5",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -278,7 +278,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "vk.com",
+                "server_name": "tradingview.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -287,8 +287,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ",
-                    "short_id": "938f14cf6757a249"
+                    "public_key": "1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg",
+                    "short_id": "50ed6f6007515d63"
                 }
             }
         },
