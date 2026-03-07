@@ -126,8 +126,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 59",
@@ -145,11 +145,11 @@
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🔴 | vless | @fnet00 | 1",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @Capoit | 5",
                 "❔XX | 🔴 | vless | @Capoit | 6",
@@ -191,8 +191,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 59",
@@ -210,11 +210,11 @@
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🔴 | vless | @fnet00 | 1",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @Capoit | 5",
                 "❔XX | 🔴 | vless | @Capoit | 6",
@@ -721,7 +721,24 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
+            "type": "vmess",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3",
             "type": "trojan",
             "server": "141.101.113.223",
             "server_port": 8443,
@@ -737,23 +754,6 @@
                 "headers": {
                     "Host": "small-morning-2668.drusavm.workers.dev"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
-            "type": "vmess",
-            "server": null,
-            "server_port": 0,
-            "uuid": null,
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -1142,7 +1142,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @fnet00 | 1",
+            "tag": "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
@@ -1233,7 +1233,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -1262,7 +1262,7 @@
             }
         },
         {
-            "tag": "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+            "tag": "❔XX | 🟢 | vmess | @v2Line | 4",
             "type": "vmess",
             "server": "45.12.132.183",
             "server_port": 80,
@@ -1407,9 +1407,9 @@
         {
             "tag": "❔XX | 🔴 | vless | @iP_CF | 1",
             "type": "vless",
-            "server": "94.183.241.82",
-            "server_port": 1000,
-            "uuid": "dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1",
+            "server": "It1.Xn--fjQYeXxiDv2znoe9rK1n8aGb1E05q.XN--6qQ79v59WHUl.COM",
+            "server_port": 2342,
+            "uuid": "81d4c796-bf7e-4043-a20b-d535b65b1d63",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1421,9 +1421,9 @@
         {
             "tag": "❔XX | 🔴 | vless | @iP_CF | 2",
             "type": "vless",
-            "server": "81.12.54.238",
-            "server_port": 4440,
-            "uuid": "b7691745-dd65-42a5-9999-516cda9dee6e",
+            "server": "94.183.241.82",
+            "server_port": 1000,
+            "uuid": "dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {

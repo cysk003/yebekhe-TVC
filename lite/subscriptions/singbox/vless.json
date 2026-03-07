@@ -134,10 +134,10 @@
                 "🇮🇷IR | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "❔XX | 🔴 | vless | @fnet00 | 1",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @Capoit | 5",
                 "❔XX | 🔴 | vless | @Capoit | 6",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
@@ -186,10 +186,10 @@
                 "🇮🇷IR | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "❔XX | 🔴 | vless | @fnet00 | 1",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @Capoit | 5",
                 "❔XX | 🔴 | vless | @Capoit | 6",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
@@ -890,7 +890,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @fnet00 | 1",
+            "tag": "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
@@ -981,7 +981,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -1097,9 +1097,9 @@
         {
             "tag": "❔XX | 🔴 | vless | @iP_CF | 1",
             "type": "vless",
-            "server": "94.183.241.82",
-            "server_port": 1000,
-            "uuid": "dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1",
+            "server": "It1.Xn--fjQYeXxiDv2znoe9rK1n8aGb1E05q.XN--6qQ79v59WHUl.COM",
+            "server_port": 2342,
+            "uuid": "81d4c796-bf7e-4043-a20b-d535b65b1d63",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1111,9 +1111,9 @@
         {
             "tag": "❔XX | 🔴 | vless | @iP_CF | 2",
             "type": "vless",
-            "server": "81.12.54.238",
-            "server_port": 4440,
-            "uuid": "b7691745-dd65-42a5-9999-516cda9dee6e",
+            "server": "94.183.241.82",
+            "server_port": 1000,
+            "uuid": "dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
