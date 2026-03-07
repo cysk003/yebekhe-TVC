@@ -111,6 +111,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
+                "❔XX | 🔴 | vless | @kiava | 47",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ]
@@ -124,6 +125,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
+                "❔XX | 🔴 | vless | @kiava | 47",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ],
@@ -290,6 +292,42 @@
                     "public_key": "1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg",
                     "short_id": "50ed6f6007515d63"
                 }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @kiava | 47",
+            "type": "vless",
+            "server": "prime.dissertationhelpspecialist.com",
+            "server_port": 8443,
+            "uuid": "fc9998cc-6bfd-42db-a1ae-2831cdb543be",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "0iw_tSzMx7XUDfwyPap42dHriRCsirtWmOSlFz9hB30",
+                    "short_id": "6cc942eb26a2"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
