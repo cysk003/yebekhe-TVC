@@ -126,8 +126,8 @@
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 1",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 69",
@@ -146,13 +146,13 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🔴 | vless | @Capoit | 8",
                 "❔XX | 🔴 | vless | @Capoit | 9",
+                "❔XX | 🔴 | vless | @Capoit | 10",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
@@ -191,8 +191,8 @@
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 1",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 69",
@@ -211,13 +211,13 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🔴 | vless | @Capoit | 8",
                 "❔XX | 🔴 | vless | @Capoit | 9",
+                "❔XX | 🔴 | vless | @Capoit | 10",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
@@ -721,7 +721,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 1",
             "type": "vmess",
             "server": null,
             "server_port": 0,
@@ -738,22 +738,15 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4",
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
             "type": "trojan",
-            "server": "www.shopify.com",
-            "server_port": 2053,
-            "password": "22367c45-f6c4-4ca8-8d52-d9787d7bbe91",
+            "server": "8443.golden-cards.me",
+            "server_port": 443,
+            "password": "q2GRUM1-odJBWq_KV6xv2fuNvu8ed-",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "cm22-bgphhh.pages.dev"
-                }
             }
         },
         {
@@ -1173,7 +1166,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 2",
             "type": "vless",
             "server": "104.16.139.160",
             "server_port": 443,
@@ -1320,7 +1313,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capoit | 8",
+            "tag": "❔XX | 🔴 | vless | @Capoit | 9",
             "type": "vless",
             "server": "185.136.135.172",
             "server_port": 41002,
@@ -1334,7 +1327,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capoit | 9",
+            "tag": "❔XX | 🔴 | vless | @Capoit | 10",
             "type": "vless",
             "server": "h43.gettips.ir",
             "server_port": 56304,
