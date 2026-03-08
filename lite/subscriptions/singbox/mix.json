@@ -126,7 +126,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 69",
@@ -143,17 +144,17 @@
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🔴 | vless | @fnet00 | 1",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "🇮🇷IR | 🔴 | vless | @Capoit | 9",
+                "❔XX | 🔴 | vless | @Capoit | 9",
                 "❔XX | 🔴 | vless | @Capoit | 10",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
-                "🇬🇧GB | 🔴 | vless | @FreakConfig | 17",
+                "❔XX | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @iP_CF | 4",
                 "❔XX | 🔴 | vless | @iP_CF | 5",
@@ -190,7 +191,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 69",
@@ -207,17 +209,17 @@
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🔴 | vless | @fnet00 | 1",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "🇮🇷IR | 🔴 | vless | @Capoit | 9",
+                "❔XX | 🔴 | vless | @Capoit | 9",
                 "❔XX | 🔴 | vless | @Capoit | 10",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
-                "🇬🇧GB | 🔴 | vless | @FreakConfig | 17",
+                "❔XX | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @iP_CF | 4",
                 "❔XX | 🔴 | vless | @iP_CF | 5",
@@ -719,7 +721,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
             "type": "vmess",
             "server": null,
             "server_port": 0,
@@ -733,6 +735,25 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4",
+            "type": "trojan",
+            "server": "www.shopify.com",
+            "server_port": 2053,
+            "password": "22367c45-f6c4-4ca8-8d52-d9787d7bbe91",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "cm22-bgphhh.pages.dev"
+                }
             }
         },
         {
@@ -1087,7 +1108,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -1121,7 +1142,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @fnet00 | 1",
+            "tag": "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
@@ -1212,7 +1233,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -1241,7 +1262,7 @@
             }
         },
         {
-            "tag": "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+            "tag": "❔XX | 🟢 | vmess | @v2Line | 4",
             "type": "vmess",
             "server": "45.12.132.183",
             "server_port": 80,
@@ -1299,7 +1320,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @Capoit | 9",
+            "tag": "❔XX | 🔴 | vless | @Capoit | 9",
             "type": "vless",
             "server": "h43.gettips.ir",
             "server_port": 56304,
@@ -1356,7 +1377,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @FreakConfig | 17",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 17",
             "type": "vless",
             "server": "simurgh.adslimit.info",
             "server_port": 2345,
