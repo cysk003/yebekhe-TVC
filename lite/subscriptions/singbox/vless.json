@@ -138,8 +138,8 @@
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🔴 | vless | @Capoit | 8",
                 "❔XX | 🔴 | vless | @Capoit | 9",
+                "❔XX | 🔴 | vless | @Capoit | 10",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
@@ -190,8 +190,8 @@
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🔴 | vless | @Capoit | 8",
                 "❔XX | 🔴 | vless | @Capoit | 9",
+                "❔XX | 🔴 | vless | @Capoit | 10",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @FreakConfig | 17",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
@@ -1010,11 +1010,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capoit | 8",
+            "tag": "❔XX | 🔴 | vless | @Capoit | 9",
             "type": "vless",
-            "server": "fn11.finuxmaster.shop",
-            "server_port": 2095,
-            "uuid": "20e1938c-d198-4584-b62c-3b740c9a11ff",
+            "server": "b1.apstore.sbs",
+            "server_port": 51154,
+            "uuid": "5f1ff19d-2b66-4e7e-aa2f-2e12780c56bd",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1024,11 +1024,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capoit | 9",
+            "tag": "❔XX | 🔴 | vless | @Capoit | 10",
             "type": "vless",
-            "server": "185.136.135.172",
-            "server_port": 41002,
-            "uuid": "f5630288-5254-42b5-b098-d7d5737e831a",
+            "server": "fn11.finuxmaster.shop",
+            "server_port": 2095,
+            "uuid": "20e1938c-d198-4584-b62c-3b740c9a11ff",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
