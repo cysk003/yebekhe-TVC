@@ -132,6 +132,7 @@
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 69",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 70",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0",
+                "🇮🇷IR | 🔴 | vless | @vmessorg | 1",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -145,14 +146,14 @@
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+                "❔XX | 🔴 | vless | @fnet00 | 1",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vless | @Capoit | 10",
-                "❔XX | 🔴 | vless | @Capoit | 11",
+                "❔XX | 🔴 | vless | @Capoit | 9",
+                "❔XX | 🔴 | vless | @Capoit | 10",
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
@@ -197,6 +198,7 @@
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 69",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 70",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0",
+                "🇮🇷IR | 🔴 | vless | @vmessorg | 1",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -210,14 +212,14 @@
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+                "❔XX | 🔴 | vless | @fnet00 | 1",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vless | @Capoit | 10",
-                "❔XX | 🔴 | vless | @Capoit | 11",
+                "❔XX | 🔴 | vless | @Capoit | 9",
+                "❔XX | 🔴 | vless | @Capoit | 10",
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
@@ -847,6 +849,20 @@
             }
         },
         {
+            "tag": "🇮🇷IR | 🔴 | vless | @vmessorg | 1",
+            "type": "vless",
+            "server": "turkey.dehnavy.ir",
+            "server_port": 36135,
+            "uuid": "9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4",
             "type": "vless",
             "server": "de-2-tun-single.starping1.fun",
@@ -1137,7 +1153,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 1",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
@@ -1168,7 +1184,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 2",
             "type": "vless",
             "server": "104.16.139.160",
             "server_port": 443,
@@ -1228,7 +1244,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -1257,7 +1273,7 @@
             }
         },
         {
-            "tag": "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+            "tag": "❔XX | 🟢 | vmess | @v2Line | 4",
             "type": "vmess",
             "server": "45.12.132.183",
             "server_port": 80,
@@ -1315,40 +1331,25 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @Capoit | 10",
+            "tag": "❔XX | 🔴 | vless | @Capoit | 9",
             "type": "vless",
-            "server": "85.133.240.160",
-            "server_port": 35812,
-            "uuid": "5ee4a55f-5f6b-4a97-8670-8631238e4c6f",
-            "flow": "xtls-rprx-vision",
+            "server": "37.32.42.90",
+            "server_port": 48794,
+            "uuid": "17740a24-5c75-4914-b7a0-97e9abe4aafa",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.microsoft.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs",
-                    "short_id": "82cada35130f1ef2"
-                }
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capoit | 11",
+            "tag": "❔XX | 🔴 | vless | @Capoit | 10",
             "type": "vless",
-            "server": "2.144.7.223",
-            "server_port": 1981,
-            "uuid": "408563da-f597-4e07-8cfd-92bffd821543",
+            "server": "vipde2.persianpinggame.com",
+            "server_port": 9091,
+            "uuid": "4f5def46-1a54-11f1-9053-92000723b4ab",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
