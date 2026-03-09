@@ -126,7 +126,8 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 75",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
-                "🇮🇷IR | 🔴 | vless | @vmessorg | 3",
+                "🇮🇷IR | 🔴 | vless | @vmessorg | 7",
+                "🇮🇷IR | 🔴 | vless | @vmessorg | 8",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -137,7 +138,7 @@
                 "🇮🇷IR | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
+                "❔XX | 🔴 | vless | @fnet00 | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -181,7 +182,8 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 75",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
-                "🇮🇷IR | 🔴 | vless | @vmessorg | 3",
+                "🇮🇷IR | 🔴 | vless | @vmessorg | 7",
+                "🇮🇷IR | 🔴 | vless | @vmessorg | 8",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -192,7 +194,7 @@
                 "🇮🇷IR | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
+                "❔XX | 🔴 | vless | @fnet00 | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -702,7 +704,21 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @vmessorg | 3",
+            "tag": "🇮🇷IR | 🔴 | vless | @vmessorg | 7",
+            "type": "vless",
+            "server": "farzandeiran.iransalar.top",
+            "server_port": 21531,
+            "uuid": "5cc82fdd-847a-4b11-9f91-3d8f35ff9e09",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @vmessorg | 8",
             "type": "vless",
             "server": "turkey.dehnavy.ir",
             "server_port": 36135,
@@ -938,7 +954,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 1",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
