@@ -129,8 +129,8 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 75",
-                "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 76",
+                "🇸🇨SC | 🔴 | vless | @prrofile_purple | 74",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 75",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 3",
@@ -143,12 +143,12 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "🇮🇷IR | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
@@ -196,8 +196,8 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 75",
-                "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 76",
+                "🇸🇨SC | 🔴 | vless | @prrofile_purple | 74",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 75",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 3",
@@ -210,12 +210,12 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "🇮🇷IR | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
@@ -802,11 +802,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 75",
+            "tag": "🇸🇨SC | 🔴 | vless | @prrofile_purple | 74",
             "type": "vless",
-            "server": "nt5.vhuma.com",
-            "server_port": 8443,
-            "uuid": "60c4d266-1244-4354-837f-d42b9f51077b",
+            "server": "ip.xqnetwork.ir",
+            "server_port": 2095,
+            "uuid": "96196fc5-67a7-400f-9b1a-e8f2e530e411",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -816,16 +816,13 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 76",
-            "type": "vmess",
-            "server": "78.157.63.77",
-            "server_port": 80,
-            "uuid": "1be004f3-31f7-4f9d-9941-0f49ff4107b9",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 75",
+            "type": "vless",
+            "server": "chatgpt.com",
+            "server_port": 2086,
+            "uuid": "96196fc5-67a7-400f-9b1a-e8f2e530e411",
+            "flow": "",
+            "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -1073,7 +1070,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @MehradLearn | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
             "type": "vless",
             "server": "104.17.74.206",
             "server_port": 2053,
@@ -1203,7 +1200,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 2",
             "type": "vless",
             "server": "104.16.139.160",
             "server_port": 443,
@@ -1352,9 +1349,9 @@
         {
             "tag": "❔XX | 🔴 | vless | @Capoit | 8",
             "type": "vless",
-            "server": "g1-de2-user.a1mshop.ir",
-            "server_port": 14300,
-            "uuid": "14110bc1-454f-4536-9ac5-74754e77b4d5",
+            "server": "sdl15.shahramv1.site",
+            "server_port": 80,
+            "uuid": "3899ada4-de68-4ed9-9fae-8745410e4149",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1366,22 +1363,15 @@
         {
             "tag": "❔XX | 🔴 | vless | @Capoit | 9",
             "type": "vless",
-            "server": "dl-film.digitalvortex.ir",
-            "server_port": 3038,
-            "uuid": "c71575ee-4e0c-47f7-884b-2ead7fa2feaa",
+            "server": "g1-de2-user.a1mshop.ir",
+            "server_port": 14300,
+            "uuid": "14110bc1-454f-4536-9ac5-74754e77b4d5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "dl-film.digitalvortex.ir"
-                }
             }
         },
         {
