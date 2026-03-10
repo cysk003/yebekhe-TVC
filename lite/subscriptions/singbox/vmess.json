@@ -109,9 +109,10 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
+                "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 69",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 4",
+                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5"
             ]
         },
@@ -122,9 +123,10 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
+                "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 69",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 4",
+                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -199,6 +201,23 @@
             }
         },
         {
+            "tag": "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 69",
+            "type": "vmess",
+            "server": "sw.srvtogo.com",
+            "server_port": 9975,
+            "uuid": "06efb7db-29dc-433c-92df-564f1ba7f3bd",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "❔XX | 🟢 | vmess | @yaney_01 | 4",
             "type": "vmess",
             "server": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
@@ -257,7 +276,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 4",
+            "tag": "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
             "type": "vmess",
             "server": "45.12.132.183",
             "server_port": 80,
