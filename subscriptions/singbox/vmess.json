@@ -120,9 +120,8 @@
                 "❔XX | 🟢 | vmess | @mftizi | 15",
                 "❔XX | 🟢 | vmess | @mftizi | 16",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 49",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 63",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 69",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 52",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 66",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -134,7 +133,7 @@
                 "❔XX | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
+                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
             ]
         },
         {
@@ -155,9 +154,8 @@
                 "❔XX | 🟢 | vmess | @mftizi | 15",
                 "❔XX | 🟢 | vmess | @mftizi | 16",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 2",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 49",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 63",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 69",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 52",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 66",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -169,7 +167,7 @@
                 "❔XX | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
+                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -430,7 +428,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 49",
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 52",
             "type": "vmess",
             "server": "user5507.login.karim2000.ir",
             "server_port": 10036,
@@ -447,28 +445,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 63",
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 66",
             "type": "vmess",
             "server": "sw.srvtogo.com",
             "server_port": 9975,
             "uuid": "06efb7db-29dc-433c-92df-564f1ba7f3bd",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 69",
-            "type": "vmess",
-            "server": "serb.srvtogo.com",
-            "server_port": 9900,
-            "uuid": "bb53f237-9c87-4510-a347-d9409fb8f444",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -815,7 +796,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @nofiltering2 | 7",
+            "tag": "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7",
             "type": "vmess",
             "server": "193.151.128.37",
             "server_port": 3131,
