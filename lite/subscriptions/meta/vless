@@ -136,8 +136,8 @@ proxies:
   - {"name":"🇮🇷IR | 🔴 | vless | @prrofile_purple | 70","type":"vless","server":"s2.mesterkit.com","port":52917,"udp":false,"uuid":"7f8da1f9-2d1c-43d8-ae16-2222e0c5da6b","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0","type":"vless","server":"emg3.saipasamandemg3.sbs","port":2003,"udp":false,"uuid":"f75305e2-de53-4add-acc8-f9308394f5a4","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1","type":"vless","server":"finland.dehnavy.ir","port":39461,"udp":false,"uuid":"0195d3b8-8bfa-4c6e-9988-56396952a50a","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/"}}
-  - {"name":"🇰🇿KZ | 🟢 | vless | @vmessorg | 8","type":"vless","server":"kzcdn1.suio.me","port":443,"udp":false,"uuid":"6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"kzcdn1.suio.me"}
-  - {"name":"🇺🇸US | 🔴 | vless | @vmessorg | 9","type":"vless","server":"140.248.155.104","port":443,"udp":false,"uuid":"17f100d3-4b31-47f9-b8df-94d1a723d43e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"default.ssl.fastly.net","ws-opts":{"path":"/","headers":{"host":"efixshop.global.ssl.fastly.net"}}}
+  - {"name":"❔XX | 🔴 | vless | @vmessorg | 5","type":"vless","server":"g2-tun-njl.a1mshop2.xyz","port":22560,"udp":false,"uuid":"4a250ab6-d97f-4a6c-93d2-d9b2d6807b6d","tls":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇮🇷IR | 🔴 | vless | @vmessorg | 6","type":"vless","server":"emergency-5580.flaptop.sbs","port":5580,"udp":true,"uuid":"b45a9ac2-b6c9-475a-8c7a-0caba712f624","tls":true,"network":"xhttp","client-fingerprint":"firefox","servername":"gharar.ir","reality-opts":{"public-key":"pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc","short-id":"9defe6"}}
   - {"name":"🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4","type":"vless","server":"de-2-tun-single.starping1.fun","port":8083,"udp":false,"uuid":"ee73ff6e-af32-43df-854e-754253bd1bd8","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5","type":"vless","server":"185.136.135.164","port":8086,"udp":false,"uuid":"541de3b2-5b5f-4e27-b671-f32b28b811af","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @v2ray_swhil | 43","type":"vless","server":"www.speedtest.net","port":8443,"udp":false,"uuid":"a4682305-d2dc-4d1b-b753-30565a511ded","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com","ws-opts":{"path":"/Telegram,VPNCUSTOMIZE?ed=2480","headers":{"host":"Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com"}}}
@@ -185,8 +185,8 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 70'
       - '🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0'
       - '🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1'
-      - '🇰🇿KZ | 🟢 | vless | @vmessorg | 8'
-      - '🇺🇸US | 🔴 | vless | @vmessorg | 9'
+      - '❔XX | 🔴 | vless | @vmessorg | 5'
+      - '🇮🇷IR | 🔴 | vless | @vmessorg | 6'
       - '🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4'
       - '🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5'
       - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 43'
@@ -234,8 +234,8 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 70'
       - '🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0'
       - '🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1'
-      - '🇰🇿KZ | 🟢 | vless | @vmessorg | 8'
-      - '🇺🇸US | 🔴 | vless | @vmessorg | 9'
+      - '❔XX | 🔴 | vless | @vmessorg | 5'
+      - '🇮🇷IR | 🔴 | vless | @vmessorg | 6'
       - '🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4'
       - '🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5'
       - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 43'
@@ -282,8 +282,8 @@ proxy-groups:
       - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 70'
       - '🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0'
       - '🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1'
-      - '🇰🇿KZ | 🟢 | vless | @vmessorg | 8'
-      - '🇺🇸US | 🔴 | vless | @vmessorg | 9'
+      - '❔XX | 🔴 | vless | @vmessorg | 5'
+      - '🇮🇷IR | 🔴 | vless | @vmessorg | 6'
       - '🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4'
       - '🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5'
       - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 43'

@@ -125,8 +125,8 @@
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 70",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
-                "🇰🇿KZ | 🟢 | vless | @vmessorg | 8",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 9",
+                "❔XX | 🔴 | vless | @vmessorg | 5",
+                "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -180,8 +180,8 @@
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 70",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0",
                 "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 1",
-                "🇰🇿KZ | 🟢 | vless | @vmessorg | 8",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 9",
+                "❔XX | 🔴 | vless | @vmessorg | 5",
+                "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -688,36 +688,26 @@
             }
         },
         {
-            "tag": "🇰🇿KZ | 🟢 | vless | @vmessorg | 8",
+            "tag": "❔XX | 🔴 | vless | @vmessorg | 5",
             "type": "vless",
-            "server": "kzcdn1.suio.me",
-            "server_port": 443,
-            "uuid": "6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a",
+            "server": "g2-tun-njl.a1mshop2.xyz",
+            "server_port": 22560,
+            "uuid": "4a250ab6-d97f-4a6c-93d2-d9b2d6807b6d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "kzcdn1.suio.me",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 9",
+            "tag": "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
             "type": "vless",
-            "server": "140.248.155.104",
-            "server_port": 443,
-            "uuid": "17f100d3-4b31-47f9-b8df-94d1a723d43e",
-            "flow": "",
+            "server": "emergency-5580.flaptop.sbs",
+            "server_port": 5580,
+            "uuid": "b45a9ac2-b6c9-475a-8c7a-0caba712f624",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -726,19 +716,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "default.ssl.fastly.net",
+                "server_name": "gharar.ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "default.ssl.fastly.net"
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc",
+                    "short_id": "9defe6"
                 }
             }
         },
