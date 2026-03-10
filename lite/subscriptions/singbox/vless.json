@@ -108,8 +108,8 @@
                 "URL-TEST",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 6",
@@ -133,11 +133,11 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
-                "🇮🇷IR | 🔴 | vless | @VmessProtocol | 0",
+                "❔XX | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @Capoit | 7",
@@ -145,8 +145,8 @@
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
+                "❔XX | 🔴 | vless | @iP_CF | 1",
                 "❔XX | 🔴 | vless | @iP_CF | 2",
-                "❔XX | 🟢 | vless | @iP_CF | 3",
                 "❔XX | 🔴 | vless | @kiava | 46",
                 "❔XX | 🔴 | vless | @kiava | 47",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
@@ -162,8 +162,8 @@
             "outbounds": [
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 6",
@@ -187,11 +187,11 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
-                "🇮🇷IR | 🔴 | vless | @VmessProtocol | 0",
+                "❔XX | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @Capoit | 7",
@@ -199,8 +199,8 @@
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
+                "❔XX | 🔴 | vless | @iP_CF | 1",
                 "❔XX | 🔴 | vless | @iP_CF | 2",
-                "❔XX | 🟢 | vless | @iP_CF | 3",
                 "❔XX | 🔴 | vless | @kiava | 46",
                 "❔XX | 🔴 | vless | @kiava | 47",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
@@ -275,9 +275,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "15.188.164.131",
+            "server": "3.124.229.240",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -306,9 +306,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "35.181.164.194",
+            "server": "15.188.164.131",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -846,7 +846,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @VmessProtocol | 0",
+            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 0",
             "type": "vless",
             "server": "ja1.diiginet.ir",
             "server_port": 2000,
@@ -953,7 +953,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 2",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 2",
             "type": "vless",
             "server": "104.16.139.160",
             "server_port": 443,
@@ -1142,6 +1142,20 @@
             }
         },
         {
+            "tag": "❔XX | 🔴 | vless | @iP_CF | 1",
+            "type": "vless",
+            "server": "37.32.42.90",
+            "server_port": 48794,
+            "uuid": "17740a24-5c75-4914-b7a0-97e9abe4aafa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "❔XX | 🔴 | vless | @iP_CF | 2",
             "type": "vless",
             "server": "rk4no3.cdnhoo.top",
@@ -1159,35 +1173,6 @@
                 "path": "\/get",
                 "headers": {
                     "Host": "rk4no3.cdnhoo.top"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @iP_CF | 3",
-            "type": "vless",
-            "server": "85.133.227.39",
-            "server_port": 35812,
-            "uuid": "ca492b57-4e98-49d5-aed2-61b67a2ec559",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.microsoft.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs",
-                    "short_id": "82cada35130f1ef2"
                 }
             }
         },
