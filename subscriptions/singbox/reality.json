@@ -113,8 +113,10 @@
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4",
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
-                "❔XX | 🟢 | vless | @prrofile_purple | 40",
-                "❔XX | 🟢 | vless | @prrofile_purple | 42",
+                "❔XX | 🟢 | vless | @prrofile_purple | 43",
+                "❔XX | 🟢 | vless | @prrofile_purple | 45",
+                "❔XX | 🔴 | vless | @vmessorg | 1",
+                "❔XX | 🔴 | vless | @vmessorg | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -146,13 +148,13 @@
                 "❔XX | 🔴 | vless | @FreakConfig | 7",
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
-                "❔XX | 🔴 | vless | @kiava | 17",
-                "❔XX | 🔴 | vless | @kiava | 18",
-                "❔XX | 🔴 | vless | @kiava | 19",
+                "🇩🇪DE | 🔴 | vless | @kiava | 17",
+                "🇩🇪DE | 🔴 | vless | @kiava | 18",
+                "🇩🇪DE | 🔴 | vless | @kiava | 19",
                 "🇩🇪DE | 🔴 | vless | @kiava | 20",
                 "🇩🇪DE | 🔴 | vless | @kiava | 21",
-                "🇩🇪DE | 🔴 | vless | @kiava | 43",
-                "🇩🇪DE | 🔴 | vless | @kiava | 47",
+                "❔XX | 🔴 | vless | @kiava | 43",
+                "❔XX | 🔴 | vless | @kiava | 47",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -179,8 +181,10 @@
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4",
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
-                "❔XX | 🟢 | vless | @prrofile_purple | 40",
-                "❔XX | 🟢 | vless | @prrofile_purple | 42",
+                "❔XX | 🟢 | vless | @prrofile_purple | 43",
+                "❔XX | 🟢 | vless | @prrofile_purple | 45",
+                "❔XX | 🔴 | vless | @vmessorg | 1",
+                "❔XX | 🔴 | vless | @vmessorg | 3",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -212,13 +216,13 @@
                 "❔XX | 🔴 | vless | @FreakConfig | 7",
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
-                "❔XX | 🔴 | vless | @kiava | 17",
-                "❔XX | 🔴 | vless | @kiava | 18",
-                "❔XX | 🔴 | vless | @kiava | 19",
+                "🇩🇪DE | 🔴 | vless | @kiava | 17",
+                "🇩🇪DE | 🔴 | vless | @kiava | 18",
+                "🇩🇪DE | 🔴 | vless | @kiava | 19",
                 "🇩🇪DE | 🔴 | vless | @kiava | 20",
                 "🇩🇪DE | 🔴 | vless | @kiava | 21",
-                "🇩🇪DE | 🔴 | vless | @kiava | 43",
-                "🇩🇪DE | 🔴 | vless | @kiava | 47",
+                "❔XX | 🔴 | vless | @kiava | 43",
+                "❔XX | 🔴 | vless | @kiava | 47",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -471,7 +475,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 40",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 43",
             "type": "vless",
             "server": "143.20.236.51",
             "server_port": 443,
@@ -500,7 +504,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 42",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 45",
             "type": "vless",
             "server": "62.60.212.199",
             "server_port": 443,
@@ -525,6 +529,71 @@
                     "enabled": true,
                     "public_key": "KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA",
                     "short_id": "8784"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @vmessorg | 1",
+            "type": "vless",
+            "server": "81.90.29.39",
+            "server_port": 2443,
+            "uuid": "44dc6ac1-6126-4627-b889-9792a8188012",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "academy.nvidia.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko",
+                    "short_id": "a1b2c3d4"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "TestChatGRPC",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @vmessorg | 3",
+            "type": "vless",
+            "server": "emergency-5580.flaptop.sbs",
+            "server_port": 5580,
+            "uuid": "b45a9ac2-b6c9-475a-8c7a-0caba712f624",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "gharar.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc",
+                    "short_id": "9defe6"
                 }
             }
         },
@@ -1456,7 +1525,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 17",
+            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 17",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -1492,7 +1561,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 18",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -1528,7 +1597,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 19",
+            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 19",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -1636,7 +1705,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 43",
+            "tag": "❔XX | 🔴 | vless | @kiava | 43",
             "type": "vless",
             "server": "94.141.123.137",
             "server_port": 443,
@@ -1665,7 +1734,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 47",
+            "tag": "❔XX | 🔴 | vless | @kiava | 47",
             "type": "vless",
             "server": "prime.dissertationhelpspecialist.com",
             "server_port": 8443,
