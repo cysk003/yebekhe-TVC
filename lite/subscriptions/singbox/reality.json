@@ -108,12 +108,13 @@
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
+                "🇳🇱NL | 🔴 | vless | @vmessorg | 6",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇩🇪DE | 🟢 | vless | @FreakConfig | 15",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
-                "🇩🇪DE | 🔴 | vless | @kiava | 47",
+                "❔XX | 🟢 | vless | @iP_CF | 3",
+                "❔XX | 🔴 | vless | @kiava | 47",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ]
@@ -124,12 +125,13 @@
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
+                "🇳🇱NL | 🔴 | vless | @vmessorg | 6",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇩🇪DE | 🟢 | vless | @FreakConfig | 15",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
-                "🇩🇪DE | 🔴 | vless | @kiava | 47",
+                "❔XX | 🟢 | vless | @iP_CF | 3",
+                "❔XX | 🔴 | vless | @kiava | 47",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ],
@@ -212,11 +214,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
+            "tag": "🇳🇱NL | 🔴 | vless | @vmessorg | 6",
             "type": "vless",
-            "server": "emergency-5580.flaptop.sbs",
-            "server_port": 5580,
-            "uuid": "b45a9ac2-b6c9-475a-8c7a-0caba712f624",
+            "server": "81.90.29.39",
+            "server_port": 2443,
+            "uuid": "44dc6ac1-6126-4627-b889-9792a8188012",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -226,18 +228,25 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "gharar.ir",
+                "server_name": "academy.nvidia.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc",
-                    "short_id": "9defe6"
+                    "public_key": "ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko",
+                    "short_id": "a1b2c3d4"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "TestChatGRPC",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
@@ -270,7 +279,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -299,7 +308,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @FreakConfig | 15",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 15",
             "type": "vless",
             "server": "wolfb24.servers1mart.ir",
             "server_port": 2096,
@@ -357,7 +366,36 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 47",
+            "tag": "❔XX | 🟢 | vless | @iP_CF | 3",
+            "type": "vless",
+            "server": "85.133.227.39",
+            "server_port": 35812,
+            "uuid": "ca492b57-4e98-49d5-aed2-61b67a2ec559",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.microsoft.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs",
+                    "short_id": "82cada35130f1ef2"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @kiava | 47",
             "type": "vless",
             "server": "prime.dissertationhelpspecialist.com",
             "server_port": 8443,
