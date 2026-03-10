@@ -126,6 +126,7 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 18",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
@@ -136,7 +137,7 @@
                 "❔XX | 🔴 | vless | @vmessorg | 5",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4",
-                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
+                "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
@@ -154,8 +155,8 @@
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
                 "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
-                "🇮🇷IR | 🔴 | vless | @Capoit | 7",
-                "🇮🇷IR | 🔴 | vless | @Capoit | 8",
+                "🇮🇷IR | 🔴 | vless | @Capoit | 9",
+                "🇮🇷IR | 🔴 | vless | @Capoit | 10",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "🇮🇷IR | 🔴 | vless | @flyv2ray | 0",
@@ -194,6 +195,7 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 18",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
@@ -204,7 +206,7 @@
                 "❔XX | 🔴 | vless | @vmessorg | 5",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 6",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 4",
-                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
+                "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
@@ -222,8 +224,8 @@
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
                 "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
-                "🇮🇷IR | 🔴 | vless | @Capoit | 7",
-                "🇮🇷IR | 🔴 | vless | @Capoit | 8",
+                "🇮🇷IR | 🔴 | vless | @Capoit | 9",
+                "🇮🇷IR | 🔴 | vless | @Capoit | 10",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🟢 | vless | @FreakConfig | 16",
                 "🇮🇷IR | 🔴 | vless | @flyv2ray | 0",
@@ -727,6 +729,25 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
+            "type": "trojan",
+            "server": "www.shopify.com",
+            "server_port": 2053,
+            "password": "22367c45-f6c4-4ca8-8d52-d9787d7bbe91",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "cm22-bgphhh.pages.dev"
+                }
+            }
+        },
+        {
             "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
             "type": "vmess",
             "server": null,
@@ -927,7 +948,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
+            "tag": "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 5",
             "type": "vless",
             "server": "185.136.135.164",
             "server_port": 8086,
@@ -1381,11 +1402,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @Capoit | 7",
+            "tag": "🇮🇷IR | 🔴 | vless | @Capoit | 9",
             "type": "vless",
-            "server": "sdl15.shahramv1.site",
-            "server_port": 80,
-            "uuid": "3899ada4-de68-4ed9-9fae-8745410e4149",
+            "server": "turkey.dehnavy.ir",
+            "server_port": 36135,
+            "uuid": "9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1395,11 +1416,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @Capoit | 8",
+            "tag": "🇮🇷IR | 🔴 | vless | @Capoit | 10",
             "type": "vless",
-            "server": "193.151.151.211",
-            "server_port": 42595,
-            "uuid": "c227aacf-30e7-48d1-9e98-99d78b8347e8",
+            "server": "sdl15.shahramv1.site",
+            "server_port": 80,
+            "uuid": "3899ada4-de68-4ed9-9fae-8745410e4149",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
