@@ -106,14 +106,16 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16"
+                "🇿🇦ZA | 🟢 | ss | @azadi_az_inja_migzare | 0",
+                "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16"
+                "🇿🇦ZA | 🟢 | ss | @azadi_az_inja_migzare | 0",
+                "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -136,7 +138,17 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
+            "tag": "🇿🇦ZA | 🟢 | ss | @azadi_az_inja_migzare | 0",
+            "type": "shadowsocks",
+            "server": "102.37.156.224",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "aduB9HGxQHjA2SBMRjkHX6",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
             "type": "shadowsocks",
             "server": "93.174.164.89",
             "server_port": 11201,
