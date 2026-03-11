@@ -118,6 +118,7 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
+  - {"name":"❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0","type":"ss","server":"102.37.156.224","port":443,"password":"aduB9HGxQHjA2SBMRjkHX6","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 0","type":"trojan","server":"13.39.53.66","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 1","type":"trojan","server":"52.28.114.17","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 2","type":"trojan","server":"13.36.100.6","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
@@ -176,6 +177,7 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 6","type":"trojan","server":"78.159.131.12","port":28259,"udp":false,"password":"MeaDiUmPlkWbZJ2BON8tz","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ads.x5.ru"}
   - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 7","type":"trojan","server":"108.162.198.247","port":443,"udp":false,"password":"823cbccd-3a71-4248-ac3c-3c460de1552d","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"snll100.pages.dev"}
   - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 8","type":"trojan","server":"www.multiplydose.com","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 25","type":"vmess","server":"cip.1iii1.de","port":"443","cipher":"auto","uuid":"83df5028-1637-4760-858e-bbacaab4b9b1","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1","type":"trojan","server":"104.18.32.47","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 0","type":"ss","server":"82.38.31.184","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 1","type":"ss","server":"163.171.137.76","port":47394,"password":"eafad96826c79ddd","cipher":"chacha20-ietf-poly1305"}
@@ -193,8 +195,8 @@ proxies:
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 2","type":"vmess","server":"107.149.119.43","port":"37000","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/040318142507","headers":{"host":"107.149.119.43"}}}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 3","type":"vmess","server":"admin.arzonhost.ir","port":"2086","cipher":"auto","uuid":"7d93e992-48cf-42d4-84f8-75768e815a4c","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"admin.arzonhost.ir"}}}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"❔XX | 🟢 | vmess | @v2Line | 2","type":"vmess","server":"185.104.189.38","port":"80","cipher":"auto","uuid":"43dcdce1-3cea-4193-bc8d-90b92071d779","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":""}}}
-  - {"name":"❔XX | 🟢 | vmess | @v2Line | 4","type":"vmess","server":"45.12.132.183","port":"80","cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"45.12.132.183"}}}
+  - {"name":"🇹🇷TR | 🟢 | vmess | @v2Line | 2","type":"vmess","server":"185.104.189.38","port":"80","cipher":"auto","uuid":"43dcdce1-3cea-4193-bc8d-90b92071d779","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":""}}}
+  - {"name":"🇭🇺HU | 🟢 | vmess | @v2Line | 4","type":"vmess","server":"45.12.132.183","port":"80","cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"45.12.132.183"}}}
   - {"name":"❔XX | 🟢 | vmess | @nofiltering2 | 7","type":"vmess","server":"193.151.128.37","port":"3131","cipher":"auto","uuid":"23f58ce5-5e07-4d4e-9551-85f84db5c492","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
   - name: MANUAL
@@ -202,6 +204,7 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
+      - '❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 0'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 1'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 2'
@@ -260,6 +263,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 6'
       - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 8'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 25'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 0'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 1'
@@ -277,8 +281,8 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @yaney_01 | 2'
       - '❔XX | 🟢 | vmess | @yaney_01 | 3'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
-      - '❔XX | 🟢 | vmess | @v2Line | 2'
-      - '❔XX | 🟢 | vmess | @v2Line | 4'
+      - '🇹🇷TR | 🟢 | vmess | @v2Line | 2'
+      - '🇭🇺HU | 🟢 | vmess | @v2Line | 4'
       - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
   - name: URL-TEST
     type: url-test
@@ -286,6 +290,7 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
+      - '❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 0'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 1'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 2'
@@ -344,6 +349,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 6'
       - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 8'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 25'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 0'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 1'
@@ -361,14 +367,15 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @yaney_01 | 2'
       - '❔XX | 🟢 | vmess | @yaney_01 | 3'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
-      - '❔XX | 🟢 | vmess | @v2Line | 2'
-      - '❔XX | 🟢 | vmess | @v2Line | 4'
+      - '🇹🇷TR | 🟢 | vmess | @v2Line | 2'
+      - '🇭🇺HU | 🟢 | vmess | @v2Line | 4'
       - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
+      - '❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 0'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 1'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 2'
@@ -427,6 +434,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 6'
       - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 8'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 25'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 0'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 1'
@@ -444,8 +452,8 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @yaney_01 | 2'
       - '❔XX | 🟢 | vmess | @yaney_01 | 3'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
-      - '❔XX | 🟢 | vmess | @v2Line | 2'
-      - '❔XX | 🟢 | vmess | @v2Line | 4'
+      - '🇹🇷TR | 🟢 | vmess | @v2Line | 2'
+      - '🇭🇺HU | 🟢 | vmess | @v2Line | 4'
       - '❔XX | 🟢 | vmess | @nofiltering2 | 7'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve

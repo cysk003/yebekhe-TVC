@@ -106,6 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
+                "❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 0",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 1",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 2",
@@ -124,6 +125,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
+                "❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 0",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 1",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 2",
@@ -156,6 +158,16 @@
         {
             "tag": "dns-out",
             "type": "dns"
+        },
+        {
+            "tag": "❔XX | 🟢 | ss | @azadi_az_inja_migzare | 0",
+            "type": "shadowsocks",
+            "server": "102.37.156.224",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "aduB9HGxQHjA2SBMRjkHX6",
+            "plugin": "",
+            "plugin_opts": ""
         },
         {
             "tag": "❔XX | 🟢 | ss | @OutlineVpnOfficial | 0",
