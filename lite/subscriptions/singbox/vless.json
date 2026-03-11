@@ -142,12 +142,11 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "🇮🇷IR | 🔴 | vless | @Capoit | 4",
-                "🇮🇷IR | 🔴 | vless | @Capoit | 5",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 14",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 15",
                 "🇮🇷IR | 🔴 | vless | @iP_CF | 1",
                 "❔XX | 🔴 | vless | @iP_CF | 2",
-                "❔XX | 🔴 | vless | @kiava | 46",
+                "🇺🇸US | 🔴 | vless | @kiava | 46",
                 "🇩🇪DE | 🔴 | vless | @kiava | 47",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
@@ -196,12 +195,11 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "🇮🇷IR | 🔴 | vless | @Capoit | 4",
-                "🇮🇷IR | 🔴 | vless | @Capoit | 5",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 14",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 15",
                 "🇮🇷IR | 🔴 | vless | @iP_CF | 1",
                 "❔XX | 🔴 | vless | @iP_CF | 2",
-                "❔XX | 🔴 | vless | @kiava | 46",
+                "🇺🇸US | 🔴 | vless | @kiava | 46",
                 "🇩🇪DE | 🔴 | vless | @kiava | 47",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
@@ -1051,43 +1049,15 @@
         {
             "tag": "🇮🇷IR | 🔴 | vless | @Capoit | 4",
             "type": "vless",
-            "server": "ezterar.popol.cfd",
-            "server_port": 8443,
-            "uuid": "af841f76-1d41-4d1d-9752-f5351bbd5e38",
+            "server": "L-iq-emergency2-7788yo.j0je.ir",
+            "server_port": 5480,
+            "uuid": "d40e96b2-0203-4e62-bffb-cc8f338917dd",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "ezterar.popol.cfd"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @Capoit | 5",
-            "type": "vless",
-            "server": "us.dianalux.ir",
-            "server_port": 8080,
-            "uuid": "47da4ff9-ae0c-47cc-8b6c-f72ca16649d3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "us.dianalux.ir"
-                }
             }
         },
         {
@@ -1184,7 +1154,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 46",
+            "tag": "🇺🇸US | 🔴 | vless | @kiava | 46",
             "type": "vless",
             "server": "cf2.xuiprospeed.ir",
             "server_port": 2053,
