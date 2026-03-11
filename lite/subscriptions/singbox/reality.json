@@ -107,13 +107,12 @@
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
-                "🇮🇷IR | 🟢 | vless | @proxy_kafee | 2",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @FreakConfig | 14",
-                "❔XX | 🟢 | vless | @FreakConfig | 15",
-                "❔XX | 🔴 | vless | @kiava | 47",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇭CH | 🟢 | vless | @FreakConfig | 14",
+                "🇩🇪DE | 🟢 | vless | @FreakConfig | 15",
+                "🇩🇪DE | 🔴 | vless | @kiava | 47",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ]
@@ -123,13 +122,12 @@
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
-                "🇮🇷IR | 🟢 | vless | @proxy_kafee | 2",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🟢 | vless | @FreakConfig | 14",
-                "❔XX | 🟢 | vless | @FreakConfig | 15",
-                "❔XX | 🔴 | vless | @kiava | 47",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇭CH | 🟢 | vless | @FreakConfig | 14",
+                "🇩🇪DE | 🟢 | vless | @FreakConfig | 15",
+                "🇩🇪DE | 🔴 | vless | @kiava | 47",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ],
@@ -179,35 +177,6 @@
                     "enabled": true,
                     "public_key": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
                     "short_id": "f32140952ba18e18"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🟢 | vless | @proxy_kafee | 2",
-            "type": "vless",
-            "server": "85.133.227.118",
-            "server_port": 35812,
-            "uuid": "87a1f775-f129-4aff-a141-660741dfdb61",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.microsoft.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs",
-                    "short_id": "82cada35130f1ef2"
                 }
             }
         },
@@ -270,7 +239,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -299,7 +268,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @FreakConfig | 14",
+            "tag": "🇨🇭CH | 🟢 | vless | @FreakConfig | 14",
             "type": "vless",
             "server": "185.227.149.123",
             "server_port": 443,
@@ -328,7 +297,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @FreakConfig | 15",
+            "tag": "🇩🇪DE | 🟢 | vless | @FreakConfig | 15",
             "type": "vless",
             "server": "wolfb24.servers1mart.ir",
             "server_port": 2096,
@@ -357,7 +326,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 47",
+            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 47",
             "type": "vless",
             "server": "prime.dissertationhelpspecialist.com",
             "server_port": 8443,
