@@ -122,8 +122,8 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18","type":"trojan","server":"35.180.7.142","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 17","type":"trojan","server":"52.29.115.99","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 18","type":"trojan","server":"35.180.7.142","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 1","type":"trojan","server":"www.multiplydose.com","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2","type":"trojan","server":"www.shopify.com","port":2053,"udp":false,"password":"22367c45-f6c4-4ca8-8d52-d9787d7bbe91","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"cm22-bgphhh.pages.dev"}
+  - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2","type":"trojan","server":"www.multiplydose.com","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3","type":"trojan","server":"www.shopify.com","port":2053,"udp":false,"password":"22367c45-f6c4-4ca8-8d52-d9787d7bbe91","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"cm22-bgphhh.pages.dev"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -134,8 +134,8 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
-      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 1'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -146,8 +146,8 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
-      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 1'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -157,8 +157,8 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
-      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 1'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
