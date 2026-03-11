@@ -114,8 +114,10 @@
                 "❔XX | 🟢 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
-                "❔XX | 🟢 | vless | @prrofile_purple | 56",
-                "❔XX | 🟢 | vless | @prrofile_purple | 58",
+                "❔XX | 🟢 | vless | @prrofile_purple | 28",
+                "❔XX | 🟢 | vless | @prrofile_purple | 31",
+                "❔XX | 🟢 | vless | @prrofile_purple | 60",
+                "❔XX | 🟢 | vless | @prrofile_purple | 62",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -140,7 +142,7 @@
                 "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 0",
                 "❔XX | 🟢 | vless | @FreakConfig | 2",
                 "❔XX | 🟢 | vless | @FreakConfig | 4",
@@ -179,8 +181,10 @@
                 "❔XX | 🟢 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
-                "❔XX | 🟢 | vless | @prrofile_purple | 56",
-                "❔XX | 🟢 | vless | @prrofile_purple | 58",
+                "❔XX | 🟢 | vless | @prrofile_purple | 28",
+                "❔XX | 🟢 | vless | @prrofile_purple | 31",
+                "❔XX | 🟢 | vless | @prrofile_purple | 60",
+                "❔XX | 🟢 | vless | @prrofile_purple | 62",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -205,7 +209,7 @@
                 "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 0",
                 "❔XX | 🟢 | vless | @FreakConfig | 2",
                 "❔XX | 🟢 | vless | @FreakConfig | 4",
@@ -498,7 +502,65 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 56",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 28",
+            "type": "vless",
+            "server": "57.129.53.181",
+            "server_port": 23576,
+            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "fuck.rkn",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
+                    "short_id": "01"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 31",
+            "type": "vless",
+            "server": "est.pink-service.ru",
+            "server_port": 443,
+            "uuid": "9c7d89ae-daf3-45c2-84d6-a7447e9123f9",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0",
+                    "short_id": "86b80f1e713a33ad"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 60",
             "type": "vless",
             "server": "143.20.236.51",
             "server_port": 443,
@@ -527,7 +589,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 58",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 62",
             "type": "vless",
             "server": "62.60.212.199",
             "server_port": 443,
@@ -1280,7 +1342,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
