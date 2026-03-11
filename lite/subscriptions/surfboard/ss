@@ -11,12 +11,11 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇿🇦ZA | 🟢 | ss | @azadi_az_inja_migzare | 0 = ss, 102.37.156.224, 443, encrypt-method = chacha20-ietf-poly1305, password = aduB9HGxQHjA2SBMRjkHX6
-❔XX | 🟢 | ss | @OutlineVpnOfficial | 16 = ss, 93.174.164.89, 11201, encrypt-method = chacha20-ietf-poly1305, password = 0bc801a7cac5f134
+🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16 = ss, 93.174.164.89, 11201, encrypt-method = chacha20-ietf-poly1305, password = 0bc801a7cac5f134
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇿🇦ZA | 🟢 | ss | @azadi_az_inja_migzare | 0,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16
-URL-TEST = url-test,🇿🇦ZA | 🟢 | ss | @azadi_az_inja_migzare | 0,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16
-FALLBACK = fallback,🇿🇦ZA | 🟢 | ss | @azadi_az_inja_migzare | 0,❔XX | 🟢 | ss | @OutlineVpnOfficial | 16
+MANUAL = select,URL-TEST,FALLBACK,🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16
+URL-TEST = url-test,🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16
+FALLBACK = fallback,🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
