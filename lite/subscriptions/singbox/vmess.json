@@ -109,8 +109,8 @@
                 "❔XX | 🟢 | vmess | @azadi_az_inja_migzare | 0",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 42",
-                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
+                "🇮🇷IR | 🟢 | vmess | @vmessorg | 0",
+                "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
@@ -125,8 +125,8 @@
                 "❔XX | 🟢 | vmess | @azadi_az_inja_migzare | 0",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 42",
-                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
+                "🇮🇷IR | 🟢 | vmess | @vmessorg | 0",
+                "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
@@ -205,11 +205,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 42",
+            "tag": "🇮🇷IR | 🟢 | vmess | @vmessorg | 0",
             "type": "vmess",
-            "server": "cip.1iii1.de",
-            "server_port": 443,
-            "uuid": "83df5028-1637-4760-858e-bbacaab4b9b1",
+            "server": "217.218.52.1",
+            "server_port": 10410,
+            "uuid": "f93f134f-7adb-48c3-bcd1-2532edb0b478",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -219,20 +219,10 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
+            "tag": "❔XX | 🟢 | vmess | @proxystore11 | 0",
             "type": "vmess",
             "server": "217.218.52.1",
             "server_port": 10410,
