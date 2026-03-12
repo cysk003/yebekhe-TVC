@@ -121,24 +121,26 @@
                 "❔XX | 🟢 | vmess | @mftizi | 15",
                 "❔XX | 🟢 | vmess | @mftizi | 16",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 10",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 21",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 22",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 23",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 24",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 33",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 12",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 15",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 26",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 27",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 28",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 29",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 38",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @v2Line | 0",
-                "🇩🇪DE | 🟢 | vmess | @v2Line | 1",
-                "🇹🇷TR | 🟢 | vmess | @v2Line | 2",
+                "❔XX | 🟢 | vmess | @v2Line | 1",
+                "❔XX | 🟢 | vmess | @v2Line | 2",
                 "❔XX | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🟢 | vmess | @iP_CF | 4",
-                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
+                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
             ]
         },
         {
@@ -160,24 +162,26 @@
                 "❔XX | 🟢 | vmess | @mftizi | 15",
                 "❔XX | 🟢 | vmess | @mftizi | 16",
                 "❔XX | 🟢 | vmess | @prrofile_purple | 10",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 21",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 22",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 23",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 24",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 33",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 12",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 15",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 26",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 27",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 28",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 29",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 38",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @v2Line | 0",
-                "🇩🇪DE | 🟢 | vmess | @v2Line | 1",
-                "🇹🇷TR | 🟢 | vmess | @v2Line | 2",
+                "❔XX | 🟢 | vmess | @v2Line | 1",
+                "❔XX | 🟢 | vmess | @v2Line | 2",
                 "❔XX | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🟢 | vmess | @iP_CF | 4",
-                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
+                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -440,6 +444,40 @@
         {
             "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 10",
             "type": "vmess",
+            "server": "37.32.27.204",
+            "server_port": 80,
+            "uuid": "d233099c-26bc-4ac8-988b-9b93a16c8d49",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 12",
+            "type": "vmess",
+            "server": "217.218.52.1",
+            "server_port": 10410,
+            "uuid": "f93f134f-7adb-48c3-bcd1-2532edb0b478",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 15",
+            "type": "vmess",
             "server": "185.226.116.195",
             "server_port": 443,
             "uuid": "901796fc-8f5d-4d1d-922e-112ec0eea4e2",
@@ -465,7 +503,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 21",
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 26",
             "type": "vmess",
             "server": "15.235.85.156",
             "server_port": 443,
@@ -499,7 +537,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 22",
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 27",
             "type": "vmess",
             "server": "143.204.111.65",
             "server_port": 80,
@@ -523,7 +561,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 23",
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 28",
             "type": "vmess",
             "server": "snapp.ir.bmi.ir.mobato-mobile.com",
             "server_port": 80,
@@ -540,7 +578,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 24",
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 29",
             "type": "vmess",
             "server": "gsmvp.gsmvx.com",
             "server_port": 110,
@@ -557,7 +595,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 33",
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 38",
             "type": "vmess",
             "server": "cip.1iii1.de",
             "server_port": 443,
@@ -768,7 +806,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 1",
+            "tag": "❔XX | 🟢 | vmess | @v2Line | 1",
             "type": "vmess",
             "server": "57.129.2.121",
             "server_port": 443,
@@ -802,7 +840,7 @@
             }
         },
         {
-            "tag": "🇹🇷TR | 🟢 | vmess | @v2Line | 2",
+            "tag": "❔XX | 🟢 | vmess | @v2Line | 2",
             "type": "vmess",
             "server": "185.104.189.38",
             "server_port": 80,
@@ -935,7 +973,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @nofiltering2 | 7",
+            "tag": "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7",
             "type": "vmess",
             "server": "193.151.128.37",
             "server_port": 3131,
