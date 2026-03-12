@@ -123,7 +123,7 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 47",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 47",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 48",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 6",
@@ -136,7 +136,7 @@
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
-                "❔XX | 🔴 | vless | @fnet00 | 2",
+                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @Capoit | 3",
@@ -174,7 +174,7 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 47",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 47",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 48",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 6",
@@ -187,7 +187,7 @@
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
-                "❔XX | 🔴 | vless | @fnet00 | 2",
+                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @Capoit | 3",
@@ -652,11 +652,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 47",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 47",
             "type": "vless",
-            "server": "v2.royalway.shop",
-            "server_port": 2053,
-            "uuid": "c3a8f526-6f41-4884-adb8-f33b4ec30fa6",
+            "server": "185.226.117.160",
+            "server_port": 443,
+            "uuid": "0fff5f1b-370d-4e98-829d-7dca653fbca8",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -668,9 +668,9 @@
         {
             "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 48",
             "type": "vless",
-            "server": "farzandeiran.iransalar.top",
-            "server_port": 21531,
-            "uuid": "5cc82fdd-847a-4b11-9f91-3d8f35ff9e09",
+            "server": "85.133.214.37",
+            "server_port": 443,
+            "uuid": "70ecfd5e-b439-410e-f1f5-68245522e0b8",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -933,7 +933,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @fnet00 | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 2",
             "type": "vless",
             "server": "104.16.139.160",
             "server_port": 443,
