@@ -124,7 +124,7 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18","type":"trojan","server":"13.37.140.33","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 17","type":"trojan","server":"63.176.126.9","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 18","type":"trojan","server":"13.37.140.33","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇨🇷CR | 🔴 | trojan | @oneclickvpnkeys | 10","type":"trojan","server":"190.93.244.43","port":8443,"udp":false,"password":"Nova-Proxy","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"small-morning-2668.drusavm.workers.dev"}
+  - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 10","type":"trojan","server":"cf.877774.xyz","port":2087,"udp":false,"password":"22367c45-f6c4-4ca8-8d52-d9787d7bbe91","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"cm22-bgphhh.pages.dev"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -135,7 +135,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
-      - '🇨🇷CR | 🔴 | trojan | @oneclickvpnkeys | 10'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 10'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -146,7 +146,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
-      - '🇨🇷CR | 🔴 | trojan | @oneclickvpnkeys | 10'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 10'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -156,7 +156,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
-      - '🇨🇷CR | 🔴 | trojan | @oneclickvpnkeys | 10'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 10'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
