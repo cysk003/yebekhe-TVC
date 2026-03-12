@@ -119,7 +119,6 @@
                 "🇮🇷IR | 🔴 | vless | @DigiV2ray | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 17",
@@ -145,13 +144,13 @@
                 "🇮🇷IR | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
+                "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
-                "❔XX | 🔴 | vless | @fnet00 | 2",
+                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @Capoit | 3",
@@ -159,8 +158,8 @@
                 "❔XX | 🟢 | vless | @FreakConfig | 14",
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
-                "❔XX | 🟢 | vmess | @iP_CF | 3",
-                "❔XX | 🔴 | vless | @iP_CF | 4",
+                "❔XX | 🟢 | vmess | @iP_CF | 4",
+                "❔XX | 🔴 | vless | @iP_CF | 5",
                 "❔XX | 🔴 | vless | @kiava | 46",
                 "❔XX | 🔴 | vless | @kiava | 47",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
@@ -187,7 +186,6 @@
                 "🇮🇷IR | 🔴 | vless | @DigiV2ray | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 17",
@@ -213,13 +211,13 @@
                 "🇮🇷IR | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
+                "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
-                "❔XX | 🔴 | vless | @fnet00 | 2",
+                "🇺🇸US | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @Capoit | 3",
@@ -227,8 +225,8 @@
                 "❔XX | 🟢 | vless | @FreakConfig | 14",
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
-                "❔XX | 🟢 | vmess | @iP_CF | 3",
-                "❔XX | 🔴 | vless | @iP_CF | 4",
+                "❔XX | 🟢 | vmess | @iP_CF | 4",
+                "❔XX | 🔴 | vless | @iP_CF | 5",
                 "❔XX | 🔴 | vless | @kiava | 46",
                 "❔XX | 🔴 | vless | @kiava | 47",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
@@ -571,20 +569,6 @@
                 "headers": {
                     "Host": "23.95.113.104"
                 }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
-            "type": "vless",
-            "server": "tunn.vpsino.com",
-            "server_port": 2087,
-            "uuid": "e4e3cf77-6545-57ce-7d7d-31128c5c2b4b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -1129,7 +1113,7 @@
             }
         },
         {
-            "tag": "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
+            "tag": "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
             "type": "shadowsocks",
             "server": "93.174.164.89",
             "server_port": 11201,
@@ -1228,7 +1212,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @fnet00 | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 2",
             "type": "vless",
             "server": "104.16.139.160",
             "server_port": 443,
@@ -1288,7 +1272,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -1482,7 +1466,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @iP_CF | 3",
+            "tag": "❔XX | 🟢 | vmess | @iP_CF | 4",
             "type": "vmess",
             "server": "217.218.52.1",
             "server_port": 10410,
@@ -1499,7 +1483,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @iP_CF | 4",
+            "tag": "❔XX | 🔴 | vless | @iP_CF | 5",
             "type": "vless",
             "server": "94.101.177.169",
             "server_port": 80,
