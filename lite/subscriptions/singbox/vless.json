@@ -124,10 +124,9 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 46",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 47",
-                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
-                "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 41",
+                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
@@ -140,8 +139,8 @@
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capoit | 2",
                 "❔XX | 🔴 | vless | @Capoit | 3",
-                "❔XX | 🔴 | vless | @Capoit | 4",
                 "❔XX | 🔴 | vless | @FreakConfig | 13",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @iP_CF | 6",
@@ -176,10 +175,9 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 46",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 47",
-                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
-                "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 41",
+                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
+                "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
@@ -192,8 +190,8 @@
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capoit | 2",
                 "❔XX | 🔴 | vless | @Capoit | 3",
-                "❔XX | 🔴 | vless | @Capoit | 4",
                 "❔XX | 🔴 | vless | @FreakConfig | 13",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @iP_CF | 6",
@@ -675,40 +673,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @prrofile_purple | 46",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 41",
             "type": "vless",
-            "server": "57.129.53.181",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "fuck.rkn",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 47",
-            "type": "vless",
-            "server": "h43.gettips.ir",
-            "server_port": 56304,
-            "uuid": "537e107f-dde5-41d4-b629-bcefa9f3cabd",
+            "server": "emergency5380.carpet-carpet-carped.ir",
+            "server_port": 5380,
+            "uuid": "f885a375-ddf4-4aed-b5af-3b3d6c844093",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -718,7 +687,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
+            "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
             "type": "vless",
             "server": "de-2-tun-single.starping1.fun",
             "server_port": 8083,
@@ -732,7 +701,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 6",
+            "tag": "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
             "type": "vless",
             "server": "185.136.135.164",
             "server_port": 8086,
@@ -1060,11 +1029,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capoit | 3",
+            "tag": "❔XX | 🔴 | vless | @Capoit | 2",
             "type": "vless",
-            "server": "str.gamepuzzlecenter.com",
-            "server_port": 21760,
-            "uuid": "670d830d-5540-40e8-9cc8-0ef78b091cf5",
+            "server": "217.198.190.3",
+            "server_port": 443,
+            "uuid": "22f196a2-cf9c-470d-b310-0ee76a2d433f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1074,24 +1043,17 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capoit | 4",
+            "tag": "❔XX | 🔴 | vless | @Capoit | 3",
             "type": "vless",
-            "server": "212.87.198.108",
+            "server": "85.133.214.66",
             "server_port": 443,
-            "uuid": "f91c1cc2-05fe-4efd-ba09-86cb6bec19e3",
+            "uuid": "1f39fef1-7887-fe10-78f7-faa773794f24",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "212.87.198.108"
-                }
             }
         },
         {
