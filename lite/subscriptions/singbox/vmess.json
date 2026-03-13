@@ -108,15 +108,13 @@
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇨🇦CA | 🟢 | vmess | @prrofile_purple | 45",
-                "🇿🇦ZA | 🟢 | vmess | @prrofile_purple | 46",
                 "🇮🇷IR | 🟢 | vmess | @vmessorg | 0",
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 4",
-                "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @iP_CF | 5"
+                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
+                "🇮🇷IR | 🟢 | vmess | @iP_CF | 5"
             ]
         },
         {
@@ -125,15 +123,13 @@
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇨🇦CA | 🟢 | vmess | @prrofile_purple | 45",
-                "🇿🇦ZA | 🟢 | vmess | @prrofile_purple | 46",
                 "🇮🇷IR | 🟢 | vmess | @vmessorg | 0",
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 4",
-                "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @iP_CF | 5"
+                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
+                "🇮🇷IR | 🟢 | vmess | @iP_CF | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -180,47 +176,6 @@
             "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
             "alter_id": 64,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🟢 | vmess | @prrofile_purple | 45",
-            "type": "vmess",
-            "server": "143.204.111.65",
-            "server_port": 80,
-            "uuid": "7d969bec-ed21-40ae-8cca-1963e9a61316",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇿🇦ZA | 🟢 | vmess | @prrofile_purple | 46",
-            "type": "vmess",
-            "server": "snapp.ir.bmi.ir.mobato-mobile.com",
-            "server_port": 80,
-            "uuid": "820a9e42-e18d-43e4-859f-d1c2f6b8600a",
-            "security": "auto",
-            "alter_id": 0,
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
@@ -323,7 +278,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 4",
+            "tag": "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
             "type": "vmess",
             "server": "45.12.132.183",
             "server_port": 80,
@@ -347,7 +302,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 5",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
             "type": "vmess",
             "server": "57.129.24.124",
             "server_port": 443,
@@ -381,7 +336,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @iP_CF | 5",
+            "tag": "🇮🇷IR | 🟢 | vmess | @iP_CF | 5",
             "type": "vmess",
             "server": "217.218.52.1",
             "server_port": 10410,
