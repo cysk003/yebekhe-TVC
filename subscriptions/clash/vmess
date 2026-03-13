@@ -131,11 +131,11 @@ proxies:
   - {"name":"❔XX | 🟢 | vmess | @mftizi | 14","type":"vmess","server":"120.232.153.63","port":"40972","cipher":"auto","uuid":"770ee730-2450-4e3c-a6c6-3932bd32afbd","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @mftizi | 15","type":"vmess","server":"183.236.48.163","port":"58831","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @mftizi | 16","type":"vmess","server":"120.232.153.27","port":"58831","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 18","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 22","type":"vmess","server":"37.32.27.204","port":"80","cipher":"auto","uuid":"d233099c-26bc-4ac8-988b-9b93a16c8d49","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 27","type":"vmess","server":"185.226.116.195","port":"443","cipher":"auto","uuid":"901796fc-8f5d-4d1d-922e-112ec0eea4e2","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 39","type":"vmess","server":"143.204.111.65","port":"80","cipher":"auto","uuid":"7d969bec-ed21-40ae-8cca-1963e9a61316","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"d34r735owjqb9a.cloudfront.net"}}}
-  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 40","type":"vmess","server":"snapp.ir.bmi.ir.mobato-mobile.com","port":"80","cipher":"auto","uuid":"820a9e42-e18d-43e4-859f-d1c2f6b8600a","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 21","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 25","type":"vmess","server":"37.32.27.204","port":"80","cipher":"auto","uuid":"d233099c-26bc-4ac8-988b-9b93a16c8d49","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 30","type":"vmess","server":"185.226.116.195","port":"443","cipher":"auto","uuid":"901796fc-8f5d-4d1d-922e-112ec0eea4e2","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 42","type":"vmess","server":"143.204.111.65","port":"80","cipher":"auto","uuid":"7d969bec-ed21-40ae-8cca-1963e9a61316","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"d34r735owjqb9a.cloudfront.net"}}}
+  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 43","type":"vmess","server":"snapp.ir.bmi.ir.mobato-mobile.com","port":"80","cipher":"auto","uuid":"820a9e42-e18d-43e4-859f-d1c2f6b8600a","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @vmessorg | 0","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 1","type":"vmess","server":"45.199.138.217","port":"41000","cipher":"auto","uuid":"f9fa3a9c-f7d5-414f-88e6-6970585d9949","alterId":"64","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/282018252526","headers":{"host":"45.199.138.217"}}}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 2","type":"vmess","server":"107.149.119.43","port":"37000","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/040318142507","headers":{"host":"107.149.119.43"}}}
@@ -164,11 +164,11 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @mftizi | 14'
       - '❔XX | 🟢 | vmess | @mftizi | 15'
       - '❔XX | 🟢 | vmess | @mftizi | 16'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 18'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 22'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 27'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 39'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 40'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 21'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 25'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 30'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 42'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 43'
       - '❔XX | 🟢 | vmess | @vmessorg | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 1'
       - '❔XX | 🟢 | vmess | @yaney_01 | 2'
@@ -197,11 +197,11 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @mftizi | 14'
       - '❔XX | 🟢 | vmess | @mftizi | 15'
       - '❔XX | 🟢 | vmess | @mftizi | 16'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 18'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 22'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 27'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 39'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 40'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 21'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 25'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 30'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 42'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 43'
       - '❔XX | 🟢 | vmess | @vmessorg | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 1'
       - '❔XX | 🟢 | vmess | @yaney_01 | 2'
@@ -229,11 +229,11 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @mftizi | 14'
       - '❔XX | 🟢 | vmess | @mftizi | 15'
       - '❔XX | 🟢 | vmess | @mftizi | 16'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 18'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 22'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 27'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 39'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 40'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 21'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 25'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 30'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 42'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 43'
       - '❔XX | 🟢 | vmess | @vmessorg | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 1'
       - '❔XX | 🟢 | vmess | @yaney_01 | 2'
