@@ -139,8 +139,8 @@
                 "❔XX | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @iP_CF | 5",
-                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
+                "🇮🇷IR | 🟢 | vmess | @iP_CF | 5",
+                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
             ]
         },
         {
@@ -180,8 +180,8 @@
                 "❔XX | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @iP_CF | 5",
-                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
+                "🇮🇷IR | 🟢 | vmess | @iP_CF | 5",
+                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -946,7 +946,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @iP_CF | 5",
+            "tag": "🇮🇷IR | 🟢 | vmess | @iP_CF | 5",
             "type": "vmess",
             "server": "217.218.52.1",
             "server_port": 10410,
@@ -963,7 +963,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7",
+            "tag": "❔XX | 🟢 | vmess | @nofiltering2 | 7",
             "type": "vmess",
             "server": "193.151.128.37",
             "server_port": 3131,
