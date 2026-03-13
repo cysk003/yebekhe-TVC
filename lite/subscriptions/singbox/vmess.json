@@ -108,7 +108,9 @@
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 6",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
+                "🇨🇦CA | 🟢 | vmess | @prrofile_purple | 45",
+                "🇿🇦ZA | 🟢 | vmess | @prrofile_purple | 46",
                 "🇮🇷IR | 🟢 | vmess | @vmessorg | 0",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -124,7 +126,9 @@
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 6",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
+                "🇨🇦CA | 🟢 | vmess | @prrofile_purple | 45",
+                "🇿🇦ZA | 🟢 | vmess | @prrofile_purple | 46",
                 "🇮🇷IR | 🟢 | vmess | @vmessorg | 0",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -188,11 +192,52 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 6",
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 7",
             "type": "vmess",
             "server": null,
             "server_port": 0,
             "uuid": null,
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🟢 | vmess | @prrofile_purple | 45",
+            "type": "vmess",
+            "server": "143.204.111.65",
+            "server_port": 80,
+            "uuid": "7d969bec-ed21-40ae-8cca-1963e9a61316",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🇿🇦ZA | 🟢 | vmess | @prrofile_purple | 46",
+            "type": "vmess",
+            "server": "snapp.ir.bmi.ir.mobato-mobile.com",
+            "server_port": 80,
+            "uuid": "820a9e42-e18d-43e4-859f-d1c2f6b8600a",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
