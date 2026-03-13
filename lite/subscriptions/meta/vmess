@@ -125,7 +125,7 @@ proxies:
   - {"name":"🇨🇦CA | 🟢 | vmess | @prrofile_purple | 45","type":"vmess","server":"143.204.111.65","port":"80","cipher":"auto","uuid":"7d969bec-ed21-40ae-8cca-1963e9a61316","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"d34r735owjqb9a.cloudfront.net"}}}
   - {"name":"🇿🇦ZA | 🟢 | vmess | @prrofile_purple | 46","type":"vmess","server":"snapp.ir.bmi.ir.mobato-mobile.com","port":"80","cipher":"auto","uuid":"820a9e42-e18d-43e4-859f-d1c2f6b8600a","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇮🇷IR | 🟢 | vmess | @vmessorg | 0","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | @proxystore11 | 0","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇷IR | 🟢 | vmess | @proxystore11 | 0","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
   - {"name":"❔XX | 🟢 | vmess | @v2Line | 4","type":"vmess","server":"45.12.132.183","port":"80","cipher":"auto","uuid":"703f722a-4bdf-4e9d-9afd-a681fdf87c74","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/vmess/","headers":{"host":"45.12.132.183"}}}
   - {"name":"❔XX | 🟢 | vmess | @iP_CF | 5","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -140,7 +140,7 @@ proxy-groups:
       - '🇨🇦CA | 🟢 | vmess | @prrofile_purple | 45'
       - '🇿🇦ZA | 🟢 | vmess | @prrofile_purple | 46'
       - '🇮🇷IR | 🟢 | vmess | @vmessorg | 0'
-      - '❔XX | 🟢 | vmess | @proxystore11 | 0'
+      - '🇮🇷IR | 🟢 | vmess | @proxystore11 | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
       - '❔XX | 🟢 | vmess | @iP_CF | 5'
@@ -155,7 +155,7 @@ proxy-groups:
       - '🇨🇦CA | 🟢 | vmess | @prrofile_purple | 45'
       - '🇿🇦ZA | 🟢 | vmess | @prrofile_purple | 46'
       - '🇮🇷IR | 🟢 | vmess | @vmessorg | 0'
-      - '❔XX | 🟢 | vmess | @proxystore11 | 0'
+      - '🇮🇷IR | 🟢 | vmess | @proxystore11 | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
       - '❔XX | 🟢 | vmess | @iP_CF | 5'
@@ -169,7 +169,7 @@ proxy-groups:
       - '🇨🇦CA | 🟢 | vmess | @prrofile_purple | 45'
       - '🇿🇦ZA | 🟢 | vmess | @prrofile_purple | 46'
       - '🇮🇷IR | 🟢 | vmess | @vmessorg | 0'
-      - '❔XX | 🟢 | vmess | @proxystore11 | 0'
+      - '🇮🇷IR | 🟢 | vmess | @proxystore11 | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🟢 | vmess | @v2Line | 4'
       - '❔XX | 🟢 | vmess | @iP_CF | 5'
