@@ -129,7 +129,7 @@ proxies:
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 9","type":"ss","server":"213.156.137.142","port":43659,"password":"a8201bbd740420bb","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 10","type":"ss","server":"154.205.152.64","port":11201,"password":"315eb3e160cf2432","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 11","type":"ss","server":"163.171.206.24","port":44233,"password":"9d97433688e7efd5","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 13","type":"ss","server":"91.106.109.17","port":41022,"password":"0bb447cee7228eb0","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇯🇴JO | 🟢 | ss | @OutlineVpnOfficial | 13","type":"ss","server":"91.106.109.17","port":41022,"password":"0bb447cee7228eb0","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 14","type":"ss","server":"163.171.181.49","port":42934,"password":"877c3b069c335ffc","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 16","type":"ss","server":"93.174.164.89","port":11201,"password":"0bc801a7cac5f134","cipher":"chacha20-ietf-poly1305"}
 proxy-groups:
@@ -147,7 +147,7 @@ proxy-groups:
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 9'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 10'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 11'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 13'
+      - '🇯🇴JO | 🟢 | ss | @OutlineVpnOfficial | 13'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 14'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 16'
   - name: URL-TEST
@@ -165,7 +165,7 @@ proxy-groups:
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 9'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 10'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 11'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 13'
+      - '🇯🇴JO | 🟢 | ss | @OutlineVpnOfficial | 13'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 14'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 16'
   - name: FALLBACK
@@ -182,7 +182,7 @@ proxy-groups:
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 9'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 10'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 11'
-      - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 13'
+      - '🇯🇴JO | 🟢 | ss | @OutlineVpnOfficial | 13'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 14'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 16'
 rule-providers:
