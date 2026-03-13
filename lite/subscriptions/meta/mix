@@ -143,7 +143,8 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3","type":"trojan","server":"188.114.98.0","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
   - {"name":"🇺🇸US | 🔴 | vless | @Outline_Vpn | 16","type":"vless","server":"162.159.36.5","port":2053,"udp":false,"uuid":"e5f8a9f6-f164-479b-b3b5-b90f213c7145","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"ir1.airpanel.top","ws-opts":{"path":"/","headers":{"host":"ir1.airpanel.top"}}}
   - {"name":"🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17","type":"vless","server":"57.129.49.1","port":23576,"udp":true,"uuid":"48ff2b70-e180-582f-8866-d9a2edeed5f5","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"fuck.rkn","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s","short-id":"01"}}
-  - {"name":"🇿🇦ZA | 🔴 | vless | @prrofile_purple | 40","type":"vless","server":"102.37.155.79","port":443,"udp":true,"uuid":"a2a7636b-25d9-4f83-941c-ba88cef9e2e2","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"mirror.arvancloud.ir","reality-opts":{"public-key":"2Y_6l4fk42l4SRZ2XKPQHu27uEWCWZnYOdh_dtQzcAI","short-id":"33a6"}}
+  - {"name":"🇿🇦ZA | 🔴 | vless | @prrofile_purple | 41","type":"vless","server":"102.37.155.79","port":443,"udp":true,"uuid":"a2a7636b-25d9-4f83-941c-ba88cef9e2e2","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"mirror.arvancloud.ir","reality-opts":{"public-key":"2Y_6l4fk42l4SRZ2XKPQHu27uEWCWZnYOdh_dtQzcAI","short-id":"33a6"}}
+  - {"name":"🇮🇷IR | 🔴 | vless | @prrofile_purple | 42","type":"vless","server":"31.216.62.198","port":20391,"udp":false,"uuid":"420349f3-6024-4457-bde6-b3d11183d728","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0","type":"vless","server":"dlc-new1.persianpinggame.com","port":5101,"udp":false,"uuid":"b2d5d0d8-1c29-11f1-9350-92000723b4ab","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 0","type":"vless","server":"wsss.beepn.info","port":2087,"udp":false,"uuid":"9298fb7d-d257-4b52-b9ac-d1fb279e3032","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"Ws2.beepn.info","ws-opts":{"path":"/path","headers":{"host":"Ws2.beepn.info"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 1","type":"vless","server":"188.114.98.0","port":2087,"udp":false,"uuid":"3f58cc47-94f6-40d3-8797-1ce66cb0555e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"nl4.maxriser.ir","ws-opts":{"path":"/?ed=2048","headers":{"host":"nl4.maxriser.ir"}}}
@@ -206,7 +207,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3'
       - '🇺🇸US | 🔴 | vless | @Outline_Vpn | 16'
       - '🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17'
-      - '🇿🇦ZA | 🔴 | vless | @prrofile_purple | 40'
+      - '🇿🇦ZA | 🔴 | vless | @prrofile_purple | 41'
+      - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 42'
       - '🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 0'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 1'
@@ -269,7 +271,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3'
       - '🇺🇸US | 🔴 | vless | @Outline_Vpn | 16'
       - '🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17'
-      - '🇿🇦ZA | 🔴 | vless | @prrofile_purple | 40'
+      - '🇿🇦ZA | 🔴 | vless | @prrofile_purple | 41'
+      - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 42'
       - '🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 0'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 1'
@@ -331,7 +334,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3'
       - '🇺🇸US | 🔴 | vless | @Outline_Vpn | 16'
       - '🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17'
-      - '🇿🇦ZA | 🔴 | vless | @prrofile_purple | 40'
+      - '🇿🇦ZA | 🔴 | vless | @prrofile_purple | 41'
+      - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 42'
       - '🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 0'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 1'

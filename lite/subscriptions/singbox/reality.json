@@ -108,8 +108,7 @@
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇮🇷IR | 🟢 | vless | @prrofile_purple | 39",
-                "🇿🇦ZA | 🔴 | vless | @prrofile_purple | 40",
+                "🇿🇦ZA | 🔴 | vless | @prrofile_purple | 41",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
@@ -122,8 +121,7 @@
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇮🇷IR | 🟢 | vless | @prrofile_purple | 39",
-                "🇿🇦ZA | 🔴 | vless | @prrofile_purple | 40",
+                "🇿🇦ZA | 🔴 | vless | @prrofile_purple | 41",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
@@ -208,36 +206,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vless | @prrofile_purple | 39",
-            "type": "vless",
-            "server": "d1.designister.com",
-            "server_port": 443,
-            "uuid": "3ebd01e3-763d-45c9-bfcc-fa220e81bd5f",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.figma.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA",
-                    "short_id": "8784"
-                }
-            }
-        },
-        {
-            "tag": "🇿🇦ZA | 🔴 | vless | @prrofile_purple | 40",
+            "tag": "🇿🇦ZA | 🔴 | vless | @prrofile_purple | 41",
             "type": "vless",
             "server": "102.37.155.79",
             "server_port": 443,
