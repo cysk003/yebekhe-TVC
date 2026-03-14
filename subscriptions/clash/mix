@@ -171,10 +171,10 @@ proxies:
   - {"name":"❔XX | 🟢 | vmess | @mftizi | 14","type":"vmess","server":"120.232.153.63","port":"40972","cipher":"auto","uuid":"770ee730-2450-4e3c-a6c6-3932bd32afbd","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @mftizi | 15","type":"vmess","server":"183.236.48.163","port":"58831","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @mftizi | 16","type":"vmess","server":"120.232.153.27","port":"58831","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 0","type":"trojan","server":"cool-lioness.rooster465.autos","port":443,"udp":false,"password":"ZY07256934","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 32","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 36","type":"vmess","server":"37.32.27.204","port":"80","cipher":"auto","uuid":"d233099c-26bc-4ac8-988b-9b93a16c8d49","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 41","type":"vmess","server":"185.226.116.195","port":"443","cipher":"auto","uuid":"901796fc-8f5d-4d1d-922e-112ec0eea4e2","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 1","type":"trojan","server":"cool-lioness.rooster465.autos","port":443,"udp":false,"password":"ZY07256934","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 35","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 39","type":"vmess","server":"37.32.27.204","port":"80","cipher":"auto","uuid":"d233099c-26bc-4ac8-988b-9b93a16c8d49","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 44","type":"vmess","server":"185.226.116.195","port":"443","cipher":"auto","uuid":"901796fc-8f5d-4d1d-922e-112ec0eea4e2","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1","type":"trojan","server":"104.18.32.47","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 0","type":"ss","server":"82.38.31.184","port":8080,"password":"k1dBOmOB4oqi7Ump37a1bQ","cipher":"chacha20-ietf-poly1305"}
   - {"name":"❔XX | 🟢 | ss | @OutlineVpnOfficial | 1","type":"ss","server":"163.171.137.76","port":47394,"password":"eafad96826c79ddd","cipher":"chacha20-ietf-poly1305"}
@@ -255,10 +255,10 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @mftizi | 14'
       - '❔XX | 🟢 | vmess | @mftizi | 15'
       - '❔XX | 🟢 | vmess | @mftizi | 16'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 0'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 32'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 36'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 41'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 35'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 39'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 44'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 0'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 1'
@@ -339,10 +339,10 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @mftizi | 14'
       - '❔XX | 🟢 | vmess | @mftizi | 15'
       - '❔XX | 🟢 | vmess | @mftizi | 16'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 0'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 32'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 36'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 41'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 35'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 39'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 44'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 0'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 1'
@@ -422,10 +422,10 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @mftizi | 14'
       - '❔XX | 🟢 | vmess | @mftizi | 15'
       - '❔XX | 🟢 | vmess | @mftizi | 16'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 0'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 32'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 36'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 41'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 35'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 39'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 44'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 0'
       - '❔XX | 🟢 | ss | @OutlineVpnOfficial | 1'
