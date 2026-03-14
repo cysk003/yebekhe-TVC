@@ -107,11 +107,11 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
-                "❔XX | 🟢 | vmess | @mftizi | 0",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
                 "❔XX | 🟢 | vmess | @mftizi | 3",
-                "❔XX | 🟢 | vmess | @mftizi | 4",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 4",
                 "❔XX | 🟢 | vmess | @mftizi | 5",
                 "❔XX | 🟢 | vmess | @mftizi | 6",
                 "❔XX | 🟢 | vmess | @mftizi | 10",
@@ -128,13 +128,13 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 0",
-                "❔XX | 🟢 | vmess | @v2Line | 1",
-                "❔XX | 🟢 | vmess | @v2Line | 2",
-                "❔XX | 🟢 | vmess | @v2Line | 3",
-                "❔XX | 🟢 | vmess | @v2Line | 4",
-                "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @iP_CF | 5",
+                "🇨🇦CA | 🟢 | vmess | @v2Line | 0",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 1",
+                "🇹🇷TR | 🟢 | vmess | @v2Line | 2",
+                "🇬🇧GB | 🟢 | vmess | @v2Line | 3",
+                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
+                "🇮🇷IR | 🟢 | vmess | @iP_CF | 5",
                 "❔XX | 🟢 | vmess | @nofiltering2 | 7"
             ]
         },
@@ -143,11 +143,11 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
-                "❔XX | 🟢 | vmess | @mftizi | 0",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
                 "❔XX | 🟢 | vmess | @mftizi | 3",
-                "❔XX | 🟢 | vmess | @mftizi | 4",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 4",
                 "❔XX | 🟢 | vmess | @mftizi | 5",
                 "❔XX | 🟢 | vmess | @mftizi | 6",
                 "❔XX | 🟢 | vmess | @mftizi | 10",
@@ -164,13 +164,13 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @v2Line | 0",
-                "❔XX | 🟢 | vmess | @v2Line | 1",
-                "❔XX | 🟢 | vmess | @v2Line | 2",
-                "❔XX | 🟢 | vmess | @v2Line | 3",
-                "❔XX | 🟢 | vmess | @v2Line | 4",
-                "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @iP_CF | 5",
+                "🇨🇦CA | 🟢 | vmess | @v2Line | 0",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 1",
+                "🇹🇷TR | 🟢 | vmess | @v2Line | 2",
+                "🇬🇧GB | 🟢 | vmess | @v2Line | 3",
+                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
+                "🇮🇷IR | 🟢 | vmess | @iP_CF | 5",
                 "❔XX | 🟢 | vmess | @nofiltering2 | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -211,7 +211,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 0",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
             "type": "vmess",
             "server": "183.236.51.38",
             "server_port": 49302,
@@ -279,7 +279,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 4",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 4",
             "type": "vmess",
             "server": "183.236.51.23",
             "server_port": 48109,
@@ -643,7 +643,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 0",
+            "tag": "🇨🇦CA | 🟢 | vmess | @v2Line | 0",
             "type": "vmess",
             "server": "15.235.85.156",
             "server_port": 443,
@@ -677,7 +677,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 1",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 1",
             "type": "vmess",
             "server": "57.129.2.121",
             "server_port": 443,
@@ -711,7 +711,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 2",
+            "tag": "🇹🇷TR | 🟢 | vmess | @v2Line | 2",
             "type": "vmess",
             "server": "185.104.189.38",
             "server_port": 80,
@@ -735,7 +735,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 3",
+            "tag": "🇬🇧GB | 🟢 | vmess | @v2Line | 3",
             "type": "vmess",
             "server": "57.128.189.240",
             "server_port": 443,
@@ -769,7 +769,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 4",
+            "tag": "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
             "type": "vmess",
             "server": "45.12.132.183",
             "server_port": 80,
@@ -793,7 +793,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 5",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
             "type": "vmess",
             "server": "57.129.24.124",
             "server_port": 443,
@@ -827,7 +827,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @iP_CF | 5",
+            "tag": "🇮🇷IR | 🟢 | vmess | @iP_CF | 5",
             "type": "vmess",
             "server": "217.218.52.1",
             "server_port": 10410,
