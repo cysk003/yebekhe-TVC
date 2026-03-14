@@ -133,10 +133,10 @@
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
-                "❔XX | 🔴 | vless | @v2ray_swhil | 44",
-                "❔XX | 🔴 | vless | @vless_vmess | 18",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
@@ -188,10 +188,10 @@
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
-                "❔XX | 🔴 | vless | @v2ray_swhil | 44",
-                "❔XX | 🔴 | vless | @vless_vmess | 18",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
@@ -744,15 +744,32 @@
         {
             "tag": "🇮🇷IR | 🔴 | vless | @ShadowSocks_s | 0",
             "type": "vless",
-            "server": "dlc-new1.persianpinggame.com",
-            "server_port": 5101,
-            "uuid": "b2d5d0d8-1c29-11f1-9350-92000723b4ab",
+            "server": "185.143.233.120",
+            "server_port": 443,
+            "uuid": "d264493a-9a60-4a3b-a2c7-9cd5f3009b61",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "alef.ir.oadeflantrogm.realirshop.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=443",
+                "headers": {
+                    "Host": "alef.ir.oadeflantrogm.realirshop.com"
+                }
             }
         },
         {
@@ -898,7 +915,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2ray_swhil | 44",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -929,7 +946,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @vless_vmess | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
             "type": "vless",
             "server": "172.67.141.140",
             "server_port": 8880,
@@ -971,7 +988,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
