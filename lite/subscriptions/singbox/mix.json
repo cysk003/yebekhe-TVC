@@ -134,8 +134,6 @@
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 43",
                 "🇳🇱NL | 🔴 | vless | @prrofile_purple | 44",
                 "🇮🇷IR | 🟢 | vless | @ShadowSocks_s | 0",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
@@ -143,17 +141,17 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @MehradLearn | 1",
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
-                "❔XX | 🟢 | vmess | @proxystore11 | 0",
+                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @Capoit | 0",
@@ -203,8 +201,6 @@
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 43",
                 "🇳🇱NL | 🔴 | vless | @prrofile_purple | 44",
                 "🇮🇷IR | 🟢 | vless | @ShadowSocks_s | 0",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
@@ -212,17 +208,17 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @MehradLearn | 1",
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
-                "❔XX | 🟢 | vmess | @proxystore11 | 0",
+                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @Capoit | 0",
@@ -910,68 +906,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
-            "type": "vless",
-            "server": "wsss.beepn.info",
-            "server_port": 2087,
-            "uuid": "9298fb7d-d257-4b52-b9ac-d1fb279e3032",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Ws2.beepn.info",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/path",
-                "headers": {
-                    "Host": "Ws2.beepn.info"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
-            "type": "vless",
-            "server": "188.114.98.0",
-            "server_port": 2087,
-            "uuid": "3f58cc47-94f6-40d3-8797-1ce66cb0555e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "nl4.maxriser.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "nl4.maxriser.ir"
-                }
-            }
-        },
-        {
             "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
             "type": "vless",
             "server": "de-2-tun-single.starping1.fun",
@@ -1125,7 +1059,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
+            "tag": "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -1170,7 +1104,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+            "tag": "❔XX | 🔴 | vless | @MehradLearn | 1",
             "type": "vless",
             "server": "104.17.74.206",
             "server_port": 2053,
@@ -1211,7 +1145,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @proxystore11 | 0",
+            "tag": "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
             "type": "vmess",
             "server": "217.218.52.1",
             "server_port": 10410,
@@ -1377,7 +1311,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
