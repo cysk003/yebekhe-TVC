@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
+                "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
@@ -128,20 +128,20 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @v2Line | 0",
-                "❔XX | 🟢 | vmess | @v2Line | 1",
-                "❔XX | 🟢 | vmess | @v2Line | 2",
-                "❔XX | 🟢 | vmess | @v2Line | 3",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 1",
+                "🇹🇷TR | 🟢 | vmess | @v2Line | 2",
+                "🇬🇧GB | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @iP_CF | 5",
-                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
+                "🇮🇷IR | 🟢 | vmess | @iP_CF | 5",
+                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
+                "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 0",
                 "❔XX | 🟢 | vmess | @mftizi | 1",
                 "❔XX | 🟢 | vmess | @mftizi | 2",
@@ -163,13 +163,13 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🟢 | vmess | @v2Line | 0",
-                "❔XX | 🟢 | vmess | @v2Line | 1",
-                "❔XX | 🟢 | vmess | @v2Line | 2",
-                "❔XX | 🟢 | vmess | @v2Line | 3",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 1",
+                "🇹🇷TR | 🟢 | vmess | @v2Line | 2",
+                "🇬🇧GB | 🟢 | vmess | @v2Line | 3",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🟢 | vmess | @iP_CF | 5",
-                "❔XX | 🟢 | vmess | @nofiltering2 | 7"
+                "🇮🇷IR | 🟢 | vmess | @iP_CF | 5",
+                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -192,7 +192,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2ray_outlineir | 0",
+            "tag": "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
             "type": "vmess",
             "server": "146.59.147.250",
             "server_port": 29776,
@@ -665,7 +665,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 1",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 1",
             "type": "vmess",
             "server": "57.129.2.121",
             "server_port": 443,
@@ -699,7 +699,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 2",
+            "tag": "🇹🇷TR | 🟢 | vmess | @v2Line | 2",
             "type": "vmess",
             "server": "185.104.189.38",
             "server_port": 80,
@@ -723,7 +723,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 3",
+            "tag": "🇬🇧GB | 🟢 | vmess | @v2Line | 3",
             "type": "vmess",
             "server": "57.128.189.240",
             "server_port": 443,
@@ -815,7 +815,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @iP_CF | 5",
+            "tag": "🇮🇷IR | 🟢 | vmess | @iP_CF | 5",
             "type": "vmess",
             "server": "217.218.52.1",
             "server_port": 10410,
@@ -832,7 +832,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @nofiltering2 | 7",
+            "tag": "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7",
             "type": "vmess",
             "server": "193.151.128.37",
             "server_port": 3131,
