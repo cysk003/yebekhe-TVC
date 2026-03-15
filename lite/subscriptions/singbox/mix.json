@@ -164,6 +164,7 @@
                 "❔XX | 🔴 | vless | @kiava | 45",
                 "❔XX | 🔴 | vless | @kiava | 46",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
+                "❔XX | 🔴 | vless | @proxy_mtm | 0",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @GozargahVPN | 0",
@@ -232,6 +233,7 @@
                 "❔XX | 🔴 | vless | @kiava | 45",
                 "❔XX | 🔴 | vless | @kiava | 46",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
+                "❔XX | 🔴 | vless | @proxy_mtm | 0",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @GozargahVPN | 0",
@@ -1612,6 +1614,20 @@
             "server": "167.82.95.129",
             "server_port": 80,
             "uuid": "TELEGRAM-NUFiLTER-2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @proxy_mtm | 0",
+            "type": "vless",
+            "server": "fi.emshabshabe.ir",
+            "server_port": 8086,
+            "uuid": "87e99a87-fd93-4fee-905b-58caf3073fbe",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
