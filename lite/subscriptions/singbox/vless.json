@@ -125,8 +125,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇳🇴NO | 🟢 | vless | @prrofile_purple | 36",
-                "🇳🇴NO | 🟢 | vless | @prrofile_purple | 37",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 33",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 34",
                 "🇮🇷IR | 🟢 | vless | @ShadowSocks_s | 0",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
@@ -137,7 +137,7 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @MehradLearn | 1",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
@@ -179,8 +179,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇳🇴NO | 🟢 | vless | @prrofile_purple | 36",
-                "🇳🇴NO | 🟢 | vless | @prrofile_purple | 37",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 33",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 34",
                 "🇮🇷IR | 🟢 | vless | @ShadowSocks_s | 0",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
@@ -191,7 +191,7 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @MehradLearn | 1",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
@@ -713,12 +713,12 @@
             }
         },
         {
-            "tag": "🇳🇴NO | 🟢 | vless | @prrofile_purple | 36",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 33",
             "type": "vless",
-            "server": "5.180.47.159",
-            "server_port": 8443,
-            "uuid": "2c564cf2-2291-4c8a-ad02-d8db601c41f9",
-            "flow": "xtls-rprx-vision",
+            "server": "fastly3.hamrahflow.ir",
+            "server_port": 443,
+            "uuid": "be2557f7-a0df-4393-b71b-28013847059f",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -727,47 +727,34 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "google.com",
+                "server_name": "default.ssl.fastly.net",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo",
-                    "short_id": "9edc548e1e284d84"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "default.ssl.fastly.net"
                 }
             }
         },
         {
-            "tag": "🇳🇴NO | 🟢 | vless | @prrofile_purple | 37",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 34",
             "type": "vless",
-            "server": "nr-01.opsvpnvless.ru",
-            "server_port": 443,
-            "uuid": "1218c022-dca8-49e5-b7d4-a04f3023db81",
-            "flow": "xtls-rprx-vision",
+            "server": "f1.msljha8844.site",
+            "server_port": 2099,
+            "uuid": "4e090ec6-1a42-447e-9579-474384e96bc9",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stats.vk-portal.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0",
-                    "short_id": "4e249e62"
-                }
             }
         },
         {
@@ -993,7 +980,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+            "tag": "❔XX | 🔴 | vless | @MehradLearn | 1",
             "type": "vless",
             "server": "104.17.74.206",
             "server_port": 2053,
