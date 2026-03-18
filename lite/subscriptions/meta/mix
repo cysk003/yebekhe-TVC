@@ -122,8 +122,8 @@ dns:
 proxies:
   - {"name":"🇮🇷IR | 🔴 | vless | @XsV2ray | 4","type":"vless","server":"nv73.momdping.com","port":443,"udp":false,"uuid":"959eb33c-43f8-4f45-9de6-3ffd13319a79","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"nv73.momdping.com","ws-opts":{"path":"/"}}
   - {"name":"❔XX | 🔴 | vless | @XsV2ray | 5","type":"vless","server":"video-streaming.comtent-delivery.poshtibani.4b3a.com","port":23410,"udp":false,"uuid":"9718b260-03c9-4313-af0f-d08a0b5c859e","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇩🇪DE | 🔴 | vless | @VlessConfig | 18","type":"vless","server":"54.93.56.163","port":22224,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"trojan.burgerip.co.uk","ws-opts":{"path":"/telegram-channel-vlessconfig"}}
-  - {"name":"🇫🇷FR | 🔴 | vless | @VlessConfig | 19","type":"vless","server":"13.39.7.170","port":22224,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"trojan.burgerip.co.uk","ws-opts":{"path":"/telegram-channel-vlessconfig"}}
+  - {"name":"🇫🇷FR | 🔴 | vless | @VlessConfig | 18","type":"vless","server":"13.38.144.105","port":22224,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"trojan.burgerip.co.uk","ws-opts":{"path":"/telegram-channel-vlessconfig"}}
+  - {"name":"🇩🇪DE | 🔴 | vless | @VlessConfig | 19","type":"vless","server":"54.93.56.163","port":22224,"udp":false,"uuid":"05519058-d2ac-4f28-9e4a-2b2a1386749e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"trojan.burgerip.co.uk","ws-opts":{"path":"/telegram-channel-vlessconfig"}}
   - {"name":"🇺🇸US | 🔴 | vless | @Lockey_vpn | 17","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"f13e82ba-618f-4b5e-badf-c87d79217639","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @rxv2ray | 6","type":"vless","server":"statue.lnmarketplace.net","port":443,"udp":false,"uuid":"7c63f43f-f526-49bb-b5c8-2be26e11ef00","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"statue.lnmarketplace.net"}
   - {"name":"🇷🇺RU | 🟢 | vless | @rxv2ray | 7","type":"vless","server":"89.208.86.65","port":443,"udp":true,"uuid":"3a83ab7a-9b6f-460c-a128-1799f63695e3","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"tradingview.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM","short-id":"f32140952ba18e18"}}
@@ -133,10 +133,10 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 1","type":"vless","server":"162.159.152.4","port":8443,"udp":false,"uuid":"725495fc-61fc-4c68-bf27-54bb4459d37d","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"streamchat.ikoochi.ir.","ws-opts":{"path":"/api?ed=2560","headers":{"host":"streamchat.ikoochi.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @proxy_kafee | 0","type":"vless","server":"F2.HaMrAhCoNf.Ir","port":8443,"udp":false,"uuid":"5fdc186d-f881-4fc4-9346-1f3d8fae9339","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"uktkq.secoxi.site","ws-opts":{"path":"/","headers":{"host":"p2-core-02.secoxi.site"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @proxy_kafee | 1","type":"vless","server":"151.101.193.57","port":80,"udp":false,"uuid":"4964455b-dbdc-40ad-8967-14f2ec6b2d2b","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
-  - {"name":"🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 18","type":"trojan","server":"54.93.56.163","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19","type":"trojan","server":"13.39.7.170","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 18","type":"trojan","server":"54.93.56.163","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 19","type":"trojan","server":"13.39.7.170","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18","type":"trojan","server":"13.38.144.105","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19","type":"trojan","server":"54.93.56.163","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 18","type":"trojan","server":"13.38.144.105","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 19","type":"trojan","server":"54.93.56.163","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0","type":"vmess","server":"146.59.147.250","port":"29776","cipher":"auto","uuid":"82447abf-dcb9-408a-9ca6-79e0a7698d08","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | @mftizi | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸US | 🔴 | vless | @Outline_Vpn | 16","type":"vless","server":"162.159.36.5","port":2053,"udp":false,"uuid":"e5f8a9f6-f164-479b-b3b5-b90f213c7145","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"ir1.airpanel.top","ws-opts":{"path":"/","headers":{"host":"ir1.airpanel.top"}}}
@@ -176,8 +176,8 @@ proxy-groups:
       - FALLBACK
       - '🇮🇷IR | 🔴 | vless | @XsV2ray | 4'
       - '❔XX | 🔴 | vless | @XsV2ray | 5'
-      - '🇩🇪DE | 🔴 | vless | @VlessConfig | 18'
-      - '🇫🇷FR | 🔴 | vless | @VlessConfig | 19'
+      - '🇫🇷FR | 🔴 | vless | @VlessConfig | 18'
+      - '🇩🇪DE | 🔴 | vless | @VlessConfig | 19'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 17'
       - '🇩🇪DE | 🔴 | vless | @rxv2ray | 6'
       - '🇷🇺RU | 🟢 | vless | @rxv2ray | 7'
@@ -187,10 +187,10 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 1'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 0'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 1'
-      - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 18'
-      - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19'
-      - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 18'
-      - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 19'
+      - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18'
+      - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19'
+      - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
+      - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 19'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇺🇸US | 🔴 | vless | @Outline_Vpn | 16'
@@ -230,8 +230,8 @@ proxy-groups:
     proxies:
       - '🇮🇷IR | 🔴 | vless | @XsV2ray | 4'
       - '❔XX | 🔴 | vless | @XsV2ray | 5'
-      - '🇩🇪DE | 🔴 | vless | @VlessConfig | 18'
-      - '🇫🇷FR | 🔴 | vless | @VlessConfig | 19'
+      - '🇫🇷FR | 🔴 | vless | @VlessConfig | 18'
+      - '🇩🇪DE | 🔴 | vless | @VlessConfig | 19'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 17'
       - '🇩🇪DE | 🔴 | vless | @rxv2ray | 6'
       - '🇷🇺RU | 🟢 | vless | @rxv2ray | 7'
@@ -241,10 +241,10 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 1'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 0'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 1'
-      - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 18'
-      - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19'
-      - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 18'
-      - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 19'
+      - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18'
+      - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19'
+      - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
+      - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 19'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇺🇸US | 🔴 | vless | @Outline_Vpn | 16'
@@ -283,8 +283,8 @@ proxy-groups:
     proxies:
       - '🇮🇷IR | 🔴 | vless | @XsV2ray | 4'
       - '❔XX | 🔴 | vless | @XsV2ray | 5'
-      - '🇩🇪DE | 🔴 | vless | @VlessConfig | 18'
-      - '🇫🇷FR | 🔴 | vless | @VlessConfig | 19'
+      - '🇫🇷FR | 🔴 | vless | @VlessConfig | 18'
+      - '🇩🇪DE | 🔴 | vless | @VlessConfig | 19'
       - '🇺🇸US | 🔴 | vless | @Lockey_vpn | 17'
       - '🇩🇪DE | 🔴 | vless | @rxv2ray | 6'
       - '🇷🇺RU | 🟢 | vless | @rxv2ray | 7'
@@ -294,10 +294,10 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DigiV2ray | 1'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 0'
       - '🇺🇸US | 🔴 | vless | @proxy_kafee | 1'
-      - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 18'
-      - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19'
-      - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 18'
-      - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 19'
+      - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18'
+      - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19'
+      - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
+      - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 19'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇳CN | 🟢 | vmess | @mftizi | 17'
       - '🇺🇸US | 🔴 | vless | @Outline_Vpn | 16'
