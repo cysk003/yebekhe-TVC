@@ -13,11 +13,11 @@ enhanced-mode-by-rule = true
 DIRECT = direct
 🇭🇰HK | 🟢 | vmess | @prrofile_purple | 41 = vmess, n1761296877.lie5d.cyou, 443, username = 1ebfdffa-1a37-4336-8494-f85b36cdf087, ws = true, tls = 1, vmess-aead = true, ws-path = /, ws-headers = Host:"n1761296877.lie5d.cyou", skip-cert-verify = true, tfo = false
 ❔XX | 🟢 | vmess | @yaney_01 | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-🇭🇺HU | 🟢 | vmess | @v2Line | 4 = vmess, 45.12.132.183, 80, username = 703f722a-4bdf-4e9d-9afd-a681fdf87c74, ws = true, tls = , vmess-aead = true, ws-path = /vmess/, ws-headers = Host:"45.12.132.183", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | @v2Line | 4 = vmess, 45.12.132.183, 80, username = 703f722a-4bdf-4e9d-9afd-a681fdf87c74, ws = true, tls = , vmess-aead = true, ws-path = /vmess/, ws-headers = Host:"45.12.132.183", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇭🇰HK | 🟢 | vmess | @prrofile_purple | 41,❔XX | 🟢 | vmess | @yaney_01 | 4,🇭🇺HU | 🟢 | vmess | @v2Line | 4
-URL-TEST = url-test,🇭🇰HK | 🟢 | vmess | @prrofile_purple | 41,❔XX | 🟢 | vmess | @yaney_01 | 4,🇭🇺HU | 🟢 | vmess | @v2Line | 4
-FALLBACK = fallback,🇭🇰HK | 🟢 | vmess | @prrofile_purple | 41,❔XX | 🟢 | vmess | @yaney_01 | 4,🇭🇺HU | 🟢 | vmess | @v2Line | 4
+MANUAL = select,URL-TEST,FALLBACK,🇭🇰HK | 🟢 | vmess | @prrofile_purple | 41,❔XX | 🟢 | vmess | @yaney_01 | 4,❔XX | 🟢 | vmess | @v2Line | 4
+URL-TEST = url-test,🇭🇰HK | 🟢 | vmess | @prrofile_purple | 41,❔XX | 🟢 | vmess | @yaney_01 | 4,❔XX | 🟢 | vmess | @v2Line | 4
+FALLBACK = fallback,🇭🇰HK | 🟢 | vmess | @prrofile_purple | 41,❔XX | 🟢 | vmess | @yaney_01 | 4,❔XX | 🟢 | vmess | @v2Line | 4
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
