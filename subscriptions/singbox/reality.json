@@ -114,10 +114,11 @@
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
                 "❔XX | 🟢 | vless | @prrofile_purple | 3",
-                "❔XX | 🟢 | vless | @prrofile_purple | 7",
-                "❔XX | 🟢 | vless | @prrofile_purple | 8",
-                "❔XX | 🟢 | vless | @prrofile_purple | 26",
-                "❔XX | 🟢 | vless | @prrofile_purple | 35",
+                "❔XX | 🟢 | vless | @prrofile_purple | 6",
+                "❔XX | 🟢 | vless | @prrofile_purple | 10",
+                "❔XX | 🟢 | vless | @prrofile_purple | 11",
+                "❔XX | 🟢 | vless | @prrofile_purple | 29",
+                "❔XX | 🟢 | vless | @prrofile_purple | 38",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -179,10 +180,11 @@
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
                 "❔XX | 🟢 | vless | @prrofile_purple | 3",
-                "❔XX | 🟢 | vless | @prrofile_purple | 7",
-                "❔XX | 🟢 | vless | @prrofile_purple | 8",
-                "❔XX | 🟢 | vless | @prrofile_purple | 26",
-                "❔XX | 🟢 | vless | @prrofile_purple | 35",
+                "❔XX | 🟢 | vless | @prrofile_purple | 6",
+                "❔XX | 🟢 | vless | @prrofile_purple | 10",
+                "❔XX | 🟢 | vless | @prrofile_purple | 11",
+                "❔XX | 🟢 | vless | @prrofile_purple | 29",
+                "❔XX | 🟢 | vless | @prrofile_purple | 38",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -471,6 +473,35 @@
         {
             "tag": "❔XX | 🟢 | vless | @prrofile_purple | 3",
             "type": "vless",
+            "server": "51.250.95.176",
+            "server_port": 443,
+            "uuid": "72adc5b8-146a-4bfe-921b-5c9e1df016e0",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "api-maps.yandex.ru",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg",
+                    "short_id": "95ec618532fa065e"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 6",
+            "type": "vless",
             "server": "37.152.179.252",
             "server_port": 443,
             "uuid": "a77c4ad0-8934-4ff8-a67d-e97769150d80",
@@ -498,7 +529,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 7",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 10",
             "type": "vless",
             "server": "45.136.126.16",
             "server_port": 443,
@@ -527,7 +558,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 8",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 11",
             "type": "vless",
             "server": "185.125.103.147",
             "server_port": 443,
@@ -556,7 +587,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 26",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 29",
             "type": "vless",
             "server": "89.208.229.10",
             "server_port": 443,
@@ -585,7 +616,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 35",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 38",
             "type": "vless",
             "server": "87.229.108.103",
             "server_port": 5443,
