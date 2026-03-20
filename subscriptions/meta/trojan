@@ -124,7 +124,7 @@ proxies:
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 1","type":"trojan","server":"3.123.214.232","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 2","type":"trojan","server":"15.236.16.104","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 3","type":"trojan","server":"15.236.3.3","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 4","type":"trojan","server":"18.195.58.45","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 4","type":"trojan","server":"18.195.58.45","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 5","type":"trojan","server":"35.181.123.75","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 6","type":"trojan","server":"3.124.155.41","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 7","type":"trojan","server":"51.45.25.205","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
@@ -172,7 +172,7 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 1'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 2'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 3'
-      - '❔XX | 🟢 | trojan | @PrivateVPNs | 4'
+      - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 4'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 5'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 6'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 7'
@@ -220,7 +220,7 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 1'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 2'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 3'
-      - '❔XX | 🟢 | trojan | @PrivateVPNs | 4'
+      - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 4'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 5'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 6'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 7'
@@ -267,7 +267,7 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 1'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 2'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 3'
-      - '❔XX | 🟢 | trojan | @PrivateVPNs | 4'
+      - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 4'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 5'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 6'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 7'
