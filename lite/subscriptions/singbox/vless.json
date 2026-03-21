@@ -125,8 +125,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 40",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 41",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 42",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -140,7 +140,7 @@
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
+                "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 45",
                 "❔XX | 🔴 | vless | @kiava | 46",
@@ -174,8 +174,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 40",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 41",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 42",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -189,7 +189,7 @@
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
+                "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 45",
                 "❔XX | 🔴 | vless | @kiava | 46",
@@ -703,21 +703,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 41",
-            "type": "vless",
-            "server": "hamrahiran.sorenashoping.xyz",
-            "server_port": 44941,
-            "uuid": "ede52d9c-2ce3-45d8-9f1a-f84ee2857155",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 42",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 40",
             "type": "vless",
             "server": "104.21.17.104",
             "server_port": 8880,
@@ -728,6 +714,27 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 41",
+            "type": "vless",
+            "server": "file4.farsgame.sbs",
+            "server_port": 55004,
+            "uuid": "4cbd1d70-1341-4e23-b2d5-64254318c783",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "file4.farsgame.sbs"
+                }
             }
         },
         {
@@ -1059,7 +1066,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 11",
             "type": "vless",
             "server": "dd.openaccessnode.com",
             "server_port": 50,
