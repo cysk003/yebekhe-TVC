@@ -109,16 +109,17 @@
                 "❔XX | 🟢 | vless | @XsV2ray | 1",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
                 "❔XX | 🟢 | vless | @rxv2ray | 7",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3",
+                "🇳🇱NL | 🟢 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4",
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
-                "❔XX | 🟢 | vless | @prrofile_purple | 4",
-                "❔XX | 🟢 | vless | @prrofile_purple | 7",
+                "❔XX | 🟢 | vless | @prrofile_purple | 3",
+                "❔XX | 🟢 | vless | @prrofile_purple | 8",
                 "❔XX | 🟢 | vless | @prrofile_purple | 11",
-                "❔XX | 🟢 | vless | @prrofile_purple | 12",
-                "❔XX | 🟢 | vless | @prrofile_purple | 30",
-                "❔XX | 🔴 | vless | @Capital_NET | 6",
+                "❔XX | 🟢 | vless | @prrofile_purple | 15",
+                "❔XX | 🟢 | vless | @prrofile_purple | 16",
+                "❔XX | 🟢 | vless | @prrofile_purple | 34",
+                "🇬🇧GB | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
                 "❔XX | 🔴 | vless | @Capital_NET | 10",
@@ -140,7 +141,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 37",
                 "❔XX | 🔴 | vless | @Capital_NET | 39",
                 "❔XX | 🔴 | vless | @Capital_NET | 41",
-                "❔XX | 🔴 | vless | @Capital_NET | 42",
+                "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 0",
@@ -174,16 +175,17 @@
                 "❔XX | 🟢 | vless | @XsV2ray | 1",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
                 "❔XX | 🟢 | vless | @rxv2ray | 7",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3",
+                "🇳🇱NL | 🟢 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4",
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
-                "❔XX | 🟢 | vless | @prrofile_purple | 4",
-                "❔XX | 🟢 | vless | @prrofile_purple | 7",
+                "❔XX | 🟢 | vless | @prrofile_purple | 3",
+                "❔XX | 🟢 | vless | @prrofile_purple | 8",
                 "❔XX | 🟢 | vless | @prrofile_purple | 11",
-                "❔XX | 🟢 | vless | @prrofile_purple | 12",
-                "❔XX | 🟢 | vless | @prrofile_purple | 30",
-                "❔XX | 🔴 | vless | @Capital_NET | 6",
+                "❔XX | 🟢 | vless | @prrofile_purple | 15",
+                "❔XX | 🟢 | vless | @prrofile_purple | 16",
+                "❔XX | 🟢 | vless | @prrofile_purple | 34",
+                "🇬🇧GB | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
                 "❔XX | 🔴 | vless | @Capital_NET | 10",
@@ -205,7 +207,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 37",
                 "❔XX | 🔴 | vless | @Capital_NET | 39",
                 "❔XX | 🔴 | vless | @Capital_NET | 41",
-                "❔XX | 🔴 | vless | @Capital_NET | 42",
+                "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 0",
@@ -346,7 +348,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3",
+            "tag": "🇳🇱NL | 🟢 | vless | @CUSTOMVPNSERVER | 3",
             "type": "vless",
             "server": "51.158.206.93",
             "server_port": 23576,
@@ -469,7 +471,36 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 4",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 3",
+            "type": "vless",
+            "server": "94.101.179.197",
+            "server_port": 443,
+            "uuid": "788d2a40-12fe-4296-b802-d218308e769b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "archive-azd1101.telewebion.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": "6ba85179e30d4fc2"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 8",
             "type": "vless",
             "server": "51.250.95.176",
             "server_port": 443,
@@ -498,7 +529,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 7",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 11",
             "type": "vless",
             "server": "37.152.179.252",
             "server_port": 443,
@@ -527,7 +558,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 11",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 15",
             "type": "vless",
             "server": "45.136.126.16",
             "server_port": 443,
@@ -556,7 +587,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 12",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 16",
             "type": "vless",
             "server": "185.125.103.147",
             "server_port": 443,
@@ -585,7 +616,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 30",
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 34",
             "type": "vless",
             "server": "89.208.229.10",
             "server_port": 443,
@@ -614,7 +645,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 6",
+            "tag": "🇬🇧GB | 🔴 | vless | @Capital_NET | 6",
             "type": "vless",
             "server": "143.110.169.55",
             "server_port": 40987,
@@ -1280,7 +1311,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 42",
+            "tag": "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
             "type": "vless",
             "server": "195.201.130.7",
             "server_port": 57706,
