@@ -108,8 +108,8 @@
                 "URL-TEST",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
@@ -135,14 +135,13 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "🇮🇷IR | 🔴 | vless | @Capoit | 0",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
-                "🇮🇷IR | 🔴 | vless | @flyv2ray | 0",
+                "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @iP_CF | 0",
                 "❔XX | 🔴 | vless | @kiava | 45",
                 "❔XX | 🔴 | vless | @kiava | 46",
@@ -159,8 +158,8 @@
             "outbounds": [
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
@@ -186,14 +185,13 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 1",
                 "❔XX | 🔴 | vless | @fnet00 | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "🇮🇷IR | 🔴 | vless | @Capoit | 0",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
-                "🇮🇷IR | 🔴 | vless | @flyv2ray | 0",
+                "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @iP_CF | 0",
                 "❔XX | 🔴 | vless | @kiava | 45",
                 "❔XX | 🔴 | vless | @kiava | 46",
@@ -269,9 +267,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "3.120.82.109",
+            "server": "15.224.3.38",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -300,9 +298,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "51.45.11.182",
+            "server": "3.120.82.109",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -927,7 +925,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @MehradLearn | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
             "type": "vless",
             "server": "104.17.74.206",
             "server_port": 2053,
@@ -1078,20 +1076,6 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @Capoit | 0",
-            "type": "vless",
-            "server": "trailers.sv1.cdn.yoozmovie.com",
-            "server_port": 16771,
-            "uuid": "682f13ec-421f-4a71-b116-60c45d6dc1ed",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "❔XX | 🔴 | vless | @FreakConfig | 11",
             "type": "vless",
             "server": "dd.openaccessnode.com",
@@ -1106,7 +1090,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @flyv2ray | 0",
+            "tag": "❔XX | 🔴 | vless | @flyv2ray | 0",
             "type": "vless",
             "server": "v4.mesterking8786.cfd",
             "server_port": 55948,
