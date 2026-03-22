@@ -122,6 +122,7 @@ proxies:
   - {"name":"🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19","type":"trojan","server":"3.124.155.41","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 17","type":"trojan","server":"18.195.58.45","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 18","type":"trojan","server":"35.181.123.75","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4","type":"trojan","server":"194.33.45.157","port":443,"udp":false,"password":"3ac6a6ca99f74941b1eaf892818e2ddb","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇱🇻LV | 🔴 | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"94.131.104.67","port":443,"udp":false,"password":"3ac6a6ca99f74941b1eaf892818e2ddb","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
 proxy-groups:
   - name: MANUAL
@@ -133,6 +134,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4'
       - '🇱🇻LV | 🔴 | trojan | @oneclickvpnkeys | 5'
   - name: URL-TEST
     type: url-test
@@ -144,6 +146,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4'
       - '🇱🇻LV | 🔴 | trojan | @oneclickvpnkeys | 5'
   - name: FALLBACK
     type: fallback
@@ -154,6 +157,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 17'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4'
       - '🇱🇻LV | 🔴 | trojan | @oneclickvpnkeys | 5'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
