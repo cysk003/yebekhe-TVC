@@ -129,8 +129,7 @@
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 48",
@@ -145,13 +144,13 @@
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
-                "TVCvwdkufjllq",
+                "TVCcwbhszjkco",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
@@ -192,8 +191,7 @@
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 48",
@@ -208,13 +206,13 @@
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
-                "TVCvwdkufjllq",
+                "TVCcwbhszjkco",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
@@ -793,7 +791,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
             "type": "vmess",
             "server": null,
             "server_port": 0,
@@ -803,18 +801,6 @@
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
-            "type": "trojan",
-            "server": "194.33.45.157",
-            "server_port": 443,
-            "password": "3ac6a6ca99f74941b1eaf892818e2ddb",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -1145,7 +1131,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "TVCvwdkufjllq",
+            "tag": "TVCcwbhszjkco",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -1294,7 +1280,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
