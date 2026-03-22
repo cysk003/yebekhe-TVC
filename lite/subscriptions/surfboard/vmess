@@ -11,13 +11,13 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 6 = vmess, 164.92.245.167, 2096, username = 4c95d617-efd8-4045-98d5-4d00e96667f9, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"", skip-cert-verify = true, tfo = false
+🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6 = vmess, 164.92.245.167, 2096, username = 4c95d617-efd8-4045-98d5-4d00e96667f9, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"", skip-cert-verify = true, tfo = false
 ❔XX | 🟢 | vmess | @yaney_01 | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
 🇭🇺HU | 🟢 | vmess | @v2Line | 4 = vmess, 45.12.132.183, 80, username = 703f722a-4bdf-4e9d-9afd-a681fdf87c74, ws = true, tls = , vmess-aead = true, ws-path = /vmess/, ws-headers = Host:"45.12.132.183", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 6,❔XX | 🟢 | vmess | @yaney_01 | 4,🇭🇺HU | 🟢 | vmess | @v2Line | 4
-URL-TEST = url-test,🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 6,❔XX | 🟢 | vmess | @yaney_01 | 4,🇭🇺HU | 🟢 | vmess | @v2Line | 4
-FALLBACK = fallback,🇩🇪DE | 🟢 | vmess | @oneclickvpnkeys | 6,❔XX | 🟢 | vmess | @yaney_01 | 4,🇭🇺HU | 🟢 | vmess | @v2Line | 4
+MANUAL = select,URL-TEST,FALLBACK,🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6,❔XX | 🟢 | vmess | @yaney_01 | 4,🇭🇺HU | 🟢 | vmess | @v2Line | 4
+URL-TEST = url-test,🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6,❔XX | 🟢 | vmess | @yaney_01 | 4,🇭🇺HU | 🟢 | vmess | @v2Line | 4
+FALLBACK = fallback,🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6,❔XX | 🟢 | vmess | @yaney_01 | 4,🇭🇺HU | 🟢 | vmess | @v2Line | 4
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
