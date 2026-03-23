@@ -136,7 +136,7 @@ proxies:
   - {"name":"❔XX | 🔴 | vless | @Capital_NET | 10","type":"vless","server":"116.202.99.47","port":56372,"udp":true,"uuid":"cf052982-23bb-4404-8817-05302c50fcd3","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"sourceforge.net","reality-opts":{"public-key":"YdveG9_ciK2YgrnXMN6Ncid3h5dK44rI1Rhb29RTDWE","short-id":"e7f19002"}}
   - {"name":"❔XX | 🔴 | vless | @Capital_NET | 11","type":"vless","server":"116.202.99.47","port":49124,"udp":true,"uuid":"0448c6ea-34ce-487a-93be-8e57bd2f2fa8","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"dalan-group.de","reality-opts":{"public-key":"rBdocIQXi2MdXwQYubRsn4fTG1_3XMZiNgtn9u3yzwI","short-id":"0bf98883"}}
   - {"name":"❔XX | 🟢 | vless | @Capital_NET | 18","type":"vless","server":"178.62.240.53","port":15177,"udp":true,"uuid":"373e6d58-210f-4433-b623-e34b47cca8de","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"www.cloudflare.com","reality-opts":{"public-key":"QPIfuN2b5h3qV-dLKEEPzE7WneDIIan5jgPNDR9NDBo","short-id":"457aa090"}}
-  - {"name":"❔XX | 🟢 | vless | @Capital_NET | 20","type":"vless","server":"64.225.81.175","port":31175,"udp":true,"uuid":"98314183-548a-4606-a177-bdb2f67ac272","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"greenpepper.ir","reality-opts":{"public-key":"kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE","short-id":"f2e78b8b"}}
+  - {"name":"🇳🇱NL | 🟢 | vless | @Capital_NET | 20","type":"vless","server":"64.225.81.175","port":31175,"udp":true,"uuid":"98314183-548a-4606-a177-bdb2f67ac272","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"greenpepper.ir","reality-opts":{"public-key":"kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE","short-id":"f2e78b8b"}}
   - {"name":"❔XX | 🔴 | vless | @Capital_NET | 21","type":"vless","server":"159.223.241.60","port":31175,"udp":true,"uuid":"98314183-548a-4606-a177-bdb2f67ac272","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"greenpepper.ir","reality-opts":{"public-key":"kX8rU0xptxqGhyfK7SiPtyvaU24IT1_yvHIXmsMqsTE","short-id":"f2e78b8b"}}
   - {"name":"❔XX | 🔴 | vless | @Capital_NET | 22","type":"vless","server":"37.27.21.47","port":443,"udp":true,"uuid":"a0562dec-26ac-43d4-ba1d-785c334e644f","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"greenpepper.ir","grpc-opts":{"grpc-service-name":"@ipV2Ray"},"reality-opts":{"public-key":"FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI","short-id":"fada4f5f"}}
   - {"name":"❔XX | 🟢 | vless | @Capital_NET | 24","type":"vless","server":"tele.jokerv2ray.store","port":15557,"udp":true,"uuid":"945a6635-9884-46e4-b7e8-78fb7c79359b","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"telegram-id.jokerv2ray.store","reality-opts":{"public-key":"7XKXjQ8Y3TxGnBhqERCzRqVeWI2Mf7BpZ6cJulAI7yA","short-id":"7dd63855"}}
@@ -160,10 +160,10 @@ proxies:
   - {"name":"❔XX | 🟢 | vless | @FreakConfig | 0","type":"vless","server":"3.cdnconn.com","port":23335,"udp":true,"uuid":"e384913f-8863-47b4-8858-a84b68abb4a6","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"icloud.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik","short-id":"67b1e94e4dd1ef90"}}
   - {"name":"❔XX | 🟢 | vless | @FreakConfig | 2","type":"vless","server":"185.227.149.123","port":443,"udp":true,"uuid":"7c3f08c8-7b3b-4028-91d8-378a18c2b62a","tls":true,"network":"tcp","client-fingerprint":"qq","servername":"mycatcollection.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc","short-id":"6ba85179e30d4fc2"}}
   - {"name":"❔XX | 🔴 | vless | @FreakConfig | 7","type":"vless","server":"195.26.224.112","port":8443,"udp":true,"uuid":"db444bee-8212-5ff5-be40-47e1a7509eb8","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"vk.com","reality-opts":{"public-key":"HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ","short-id":"938f14cf6757a249"}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @kiava | 17","type":"vless","server":"partners.dissertationhelpspecialist.com","port":8443,"udp":true,"uuid":"456e4f29-1623-4944-9244-dcafb0922d03","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"tgju.org","grpc-opts":{"grpc-service-name":"netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet"},"reality-opts":{"public-key":"6WQYfZi6JDT5nc_YJwGnq3SOAwiG2g7BLX4euXTMe0c","short-id":"2e16809167"}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @kiava | 18","type":"vless","server":"partners.dissertationhelpspecialist.com","port":8443,"udp":true,"uuid":"31d780d0-82ef-4f28-8651-a2e315b213f7","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"tgju.org","grpc-opts":{"grpc-service-name":"netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet"},"reality-opts":{"public-key":"6WQYfZi6JDT5nc_YJwGnq3SOAwiG2g7BLX4euXTMe0c","short-id":"2e16809167"}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @kiava | 19","type":"vless","server":"partners.dissertationhelpspecialist.com","port":8443,"udp":true,"uuid":"24a4185b-2f90-4d17-99ba-d04663d28c75","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"tgju.org","grpc-opts":{"grpc-service-name":"netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet"},"reality-opts":{"public-key":"6WQYfZi6JDT5nc_YJwGnq3SOAwiG2g7BLX4euXTMe0c","short-id":"2e16809167"}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @kiava | 20","type":"vless","server":"partners.dissertationhelpspecialist.com","port":8443,"udp":true,"uuid":"9ad15b75-02c4-4d88-82e4-e7c1f9c1b74d","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"tgju.org","grpc-opts":{"grpc-service-name":"netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet"},"reality-opts":{"public-key":"6WQYfZi6JDT5nc_YJwGnq3SOAwiG2g7BLX4euXTMe0c","short-id":"2e16809167"}}
+  - {"name":"❔XX | 🔴 | vless | @kiava | 17","type":"vless","server":"partners.dissertationhelpspecialist.com","port":8443,"udp":true,"uuid":"456e4f29-1623-4944-9244-dcafb0922d03","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"tgju.org","grpc-opts":{"grpc-service-name":"netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet"},"reality-opts":{"public-key":"6WQYfZi6JDT5nc_YJwGnq3SOAwiG2g7BLX4euXTMe0c","short-id":"2e16809167"}}
+  - {"name":"❔XX | 🔴 | vless | @kiava | 18","type":"vless","server":"partners.dissertationhelpspecialist.com","port":8443,"udp":true,"uuid":"31d780d0-82ef-4f28-8651-a2e315b213f7","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"tgju.org","grpc-opts":{"grpc-service-name":"netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet"},"reality-opts":{"public-key":"6WQYfZi6JDT5nc_YJwGnq3SOAwiG2g7BLX4euXTMe0c","short-id":"2e16809167"}}
+  - {"name":"❔XX | 🔴 | vless | @kiava | 19","type":"vless","server":"partners.dissertationhelpspecialist.com","port":8443,"udp":true,"uuid":"24a4185b-2f90-4d17-99ba-d04663d28c75","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"tgju.org","grpc-opts":{"grpc-service-name":"netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet"},"reality-opts":{"public-key":"6WQYfZi6JDT5nc_YJwGnq3SOAwiG2g7BLX4euXTMe0c","short-id":"2e16809167"}}
+  - {"name":"❔XX | 🔴 | vless | @kiava | 20","type":"vless","server":"partners.dissertationhelpspecialist.com","port":8443,"udp":true,"uuid":"9ad15b75-02c4-4d88-82e4-e7c1f9c1b74d","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"tgju.org","grpc-opts":{"grpc-service-name":"netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet"},"reality-opts":{"public-key":"6WQYfZi6JDT5nc_YJwGnq3SOAwiG2g7BLX4euXTMe0c","short-id":"2e16809167"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @kiava | 21","type":"vless","server":"prime.dissertationhelpspecialist.com","port":8443,"udp":true,"uuid":"4b1167f6-8675-48c1-945f-75e8917b1d9b","tls":true,"network":"grpc","client-fingerprint":"firefox","servername":"tgju.org","grpc-opts":{"grpc-service-name":"netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet-netmet"},"reality-opts":{"public-key":"0iw_tSzMx7XUDfwyPap42dHriRCsirtWmOSlFz9hB30","short-id":"6cc942eb26a2"}}
   - {"name":"❔XX | 🔴 | vless | @kiava | 43","type":"vless","server":"94.141.123.137","port":443,"udp":true,"uuid":"f3f6f19f-c68a-462c-a534-9b388663fffa","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"de2.mcqueenconnection.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY","short-id":"f5390f7c74c4ea5c"}}
   - {"name":"❔XX | 🔴 | vless | @vpn_go67 | 7","type":"vless","server":"footlo.argha-v2pedia.monster","port":443,"udp":true,"uuid":"2301d419-fc86-44e0-84e5-d5aa81557c38","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"tuyacn.com","grpc-opts":{"grpc-service-name":"Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia"},"reality-opts":{"public-key":"muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk","short-id":"da"}}
@@ -196,7 +196,7 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @Capital_NET | 10'
       - '❔XX | 🔴 | vless | @Capital_NET | 11'
       - '❔XX | 🟢 | vless | @Capital_NET | 18'
-      - '❔XX | 🟢 | vless | @Capital_NET | 20'
+      - '🇳🇱NL | 🟢 | vless | @Capital_NET | 20'
       - '❔XX | 🔴 | vless | @Capital_NET | 21'
       - '❔XX | 🔴 | vless | @Capital_NET | 22'
       - '❔XX | 🟢 | vless | @Capital_NET | 24'
@@ -220,10 +220,10 @@ proxy-groups:
       - '❔XX | 🟢 | vless | @FreakConfig | 0'
       - '❔XX | 🟢 | vless | @FreakConfig | 2'
       - '❔XX | 🔴 | vless | @FreakConfig | 7'
-      - '🇩🇪DE | 🔴 | vless | @kiava | 17'
-      - '🇩🇪DE | 🔴 | vless | @kiava | 18'
-      - '🇩🇪DE | 🔴 | vless | @kiava | 19'
-      - '🇩🇪DE | 🔴 | vless | @kiava | 20'
+      - '❔XX | 🔴 | vless | @kiava | 17'
+      - '❔XX | 🔴 | vless | @kiava | 18'
+      - '❔XX | 🔴 | vless | @kiava | 19'
+      - '❔XX | 🔴 | vless | @kiava | 20'
       - '🇩🇪DE | 🔴 | vless | @kiava | 21'
       - '❔XX | 🔴 | vless | @kiava | 43'
       - '❔XX | 🔴 | vless | @vpn_go67 | 7'
@@ -256,7 +256,7 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @Capital_NET | 10'
       - '❔XX | 🔴 | vless | @Capital_NET | 11'
       - '❔XX | 🟢 | vless | @Capital_NET | 18'
-      - '❔XX | 🟢 | vless | @Capital_NET | 20'
+      - '🇳🇱NL | 🟢 | vless | @Capital_NET | 20'
       - '❔XX | 🔴 | vless | @Capital_NET | 21'
       - '❔XX | 🔴 | vless | @Capital_NET | 22'
       - '❔XX | 🟢 | vless | @Capital_NET | 24'
@@ -280,10 +280,10 @@ proxy-groups:
       - '❔XX | 🟢 | vless | @FreakConfig | 0'
       - '❔XX | 🟢 | vless | @FreakConfig | 2'
       - '❔XX | 🔴 | vless | @FreakConfig | 7'
-      - '🇩🇪DE | 🔴 | vless | @kiava | 17'
-      - '🇩🇪DE | 🔴 | vless | @kiava | 18'
-      - '🇩🇪DE | 🔴 | vless | @kiava | 19'
-      - '🇩🇪DE | 🔴 | vless | @kiava | 20'
+      - '❔XX | 🔴 | vless | @kiava | 17'
+      - '❔XX | 🔴 | vless | @kiava | 18'
+      - '❔XX | 🔴 | vless | @kiava | 19'
+      - '❔XX | 🔴 | vless | @kiava | 20'
       - '🇩🇪DE | 🔴 | vless | @kiava | 21'
       - '❔XX | 🔴 | vless | @kiava | 43'
       - '❔XX | 🔴 | vless | @vpn_go67 | 7'
@@ -315,7 +315,7 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @Capital_NET | 10'
       - '❔XX | 🔴 | vless | @Capital_NET | 11'
       - '❔XX | 🟢 | vless | @Capital_NET | 18'
-      - '❔XX | 🟢 | vless | @Capital_NET | 20'
+      - '🇳🇱NL | 🟢 | vless | @Capital_NET | 20'
       - '❔XX | 🔴 | vless | @Capital_NET | 21'
       - '❔XX | 🔴 | vless | @Capital_NET | 22'
       - '❔XX | 🟢 | vless | @Capital_NET | 24'
@@ -339,10 +339,10 @@ proxy-groups:
       - '❔XX | 🟢 | vless | @FreakConfig | 0'
       - '❔XX | 🟢 | vless | @FreakConfig | 2'
       - '❔XX | 🔴 | vless | @FreakConfig | 7'
-      - '🇩🇪DE | 🔴 | vless | @kiava | 17'
-      - '🇩🇪DE | 🔴 | vless | @kiava | 18'
-      - '🇩🇪DE | 🔴 | vless | @kiava | 19'
-      - '🇩🇪DE | 🔴 | vless | @kiava | 20'
+      - '❔XX | 🔴 | vless | @kiava | 17'
+      - '❔XX | 🔴 | vless | @kiava | 18'
+      - '❔XX | 🔴 | vless | @kiava | 19'
+      - '❔XX | 🔴 | vless | @kiava | 20'
       - '🇩🇪DE | 🔴 | vless | @kiava | 21'
       - '❔XX | 🔴 | vless | @kiava | 43'
       - '❔XX | 🔴 | vless | @vpn_go67 | 7'
