@@ -131,8 +131,8 @@
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 5",
-                "🇫🇷FR | 🔴 | trojan | @oneclickvpnkeys | 6",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 50",
@@ -148,15 +148,15 @@
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
-                "TVCzvniuogoob",
-                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
+                "TVCwuwvjhqsaw",
+                "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
-                "❔XX | 🟢 | vmess | @v2Line | 5",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🟢 | vless | @kiava | 49",
@@ -197,8 +197,8 @@
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 5",
-                "🇫🇷FR | 🔴 | trojan | @oneclickvpnkeys | 6",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 50",
@@ -214,15 +214,15 @@
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
                 "❔XX | 🟢 | ss | @OutlineVpnOfficial | 16",
-                "TVCzvniuogoob",
-                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
+                "TVCwuwvjhqsaw",
+                "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
-                "❔XX | 🟢 | vmess | @v2Line | 5",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🟢 | vless | @kiava | 49",
@@ -827,7 +827,26 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 5",
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
+            "type": "trojan",
+            "server": "104.21.40.34",
+            "server_port": 443,
+            "password": "humanity",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/assignment",
+                "headers": {
+                    "Host": "www.gossipglove.com"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 6",
             "type": "vmess",
             "server": null,
             "server_port": 0,
@@ -841,28 +860,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🔴 | trojan | @oneclickvpnkeys | 6",
-            "type": "trojan",
-            "server": "51.45.15.225",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
             }
         },
         {
@@ -1186,7 +1183,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "TVCzvniuogoob",
+            "tag": "TVCwuwvjhqsaw",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -1200,7 +1197,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
+            "tag": "❔XX | 🟢 | vmess | @proxystore11 | 0",
             "type": "vmess",
             "server": "217.218.52.1",
             "server_port": 10410,
@@ -1388,7 +1385,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 5",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
             "type": "vmess",
             "server": "57.129.24.124",
             "server_port": 443,
