@@ -110,8 +110,6 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
-                "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
-                "🇮🇷IR | 🔴 | vless | @frev2ray | 1",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
@@ -136,10 +134,10 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "TVCgqfptpsqhu",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "TVCvyojujbkjj",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -162,8 +160,6 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
-                "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
-                "🇮🇷IR | 🔴 | vless | @frev2ray | 1",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
@@ -188,10 +184,10 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "TVCgqfptpsqhu",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "TVCvyojujbkjj",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -330,34 +326,6 @@
                 "headers": {
                     "Host": "trojan.burgerip.co.uk"
                 }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @frev2ray | 0",
-            "type": "vless",
-            "server": "cloud3.vpsino.com",
-            "server_port": 6344,
-            "uuid": "78a5d9b4-3741-f22d-4da5-b3d1f79d32ed",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @frev2ray | 1",
-            "type": "vless",
-            "server": "cloud.vpsino.com",
-            "server_port": 48324,
-            "uuid": "78a5d9b4-3741-f22d-4da5-b3d1f79d32ed",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -911,7 +879,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -956,7 +924,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @MehradLearn | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
             "type": "vless",
             "server": "104.17.74.206",
             "server_port": 2053,
@@ -987,7 +955,7 @@
             }
         },
         {
-            "tag": "TVCgqfptpsqhu",
+            "tag": "TVCvyojujbkjj",
             "type": "vless",
             "server": "",
             "server_port": 0,
