@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
@@ -136,9 +136,9 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "TVCzbzpjtmjhz",
-                "❔XX | 🔴 | vless | @fnet00 | 0",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "TVCpwdglgakds",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
@@ -158,7 +158,7 @@
             "outbounds": [
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
@@ -186,9 +186,9 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "TVCzbzpjtmjhz",
-                "❔XX | 🔴 | vless | @fnet00 | 0",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "TVCpwdglgakds",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
@@ -267,9 +267,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "13.38.195.57",
+            "server": "18.159.140.89",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -300,7 +300,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "13.36.80.221",
+            "server": "13.38.195.57",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -924,7 +924,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @MehradLearn | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
             "type": "vless",
             "server": "104.17.74.206",
             "server_port": 2053,
@@ -955,7 +955,7 @@
             }
         },
         {
-            "tag": "TVCzbzpjtmjhz",
+            "tag": "TVCpwdglgakds",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -969,7 +969,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @fnet00 | 0",
+            "tag": "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
