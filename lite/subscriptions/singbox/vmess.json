@@ -107,13 +107,13 @@
             "outbounds": [
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇺🇸US | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 8",
-                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
+                "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
-                "🇩🇪DE | 🟢 | vmess | @v2Line | 5"
+                "❔XX | 🟢 | vmess | @v2Line | 4",
+                "❔XX | 🟢 | vmess | @v2Line | 5"
             ]
         },
         {
@@ -121,13 +121,13 @@
             "type": "urltest",
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇺🇸US | 🟢 | vmess | @mftizi | 17",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 8",
-                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
+                "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
-                "🇩🇪DE | 🟢 | vmess | @v2Line | 5"
+                "❔XX | 🟢 | vmess | @v2Line | 4",
+                "❔XX | 🟢 | vmess | @v2Line | 5"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -167,7 +167,7 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 17",
             "type": "vmess",
             "server": "183.236.51.23",
             "server_port": 53002,
@@ -201,7 +201,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
+            "tag": "❔XX | 🟢 | vmess | @proxystore11 | 0",
             "type": "vmess",
             "server": "217.218.52.1",
             "server_port": 10410,
@@ -276,7 +276,7 @@
             }
         },
         {
-            "tag": "🇭🇺HU | 🟢 | vmess | @v2Line | 4",
+            "tag": "❔XX | 🟢 | vmess | @v2Line | 4",
             "type": "vmess",
             "server": "45.12.132.183",
             "server_port": 80,
@@ -300,7 +300,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
+            "tag": "❔XX | 🟢 | vmess | @v2Line | 5",
             "type": "vmess",
             "server": "57.129.24.124",
             "server_port": 443,
