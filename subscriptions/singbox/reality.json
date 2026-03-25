@@ -107,8 +107,8 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🟢 | vless | @XsV2ray | 1",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 3",
-                "❔XX | 🟢 | vless | @rxv2ray | 7",
+                "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
+                "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4",
                 "❔XX | 🔴 | vless | @v2logy | 6",
@@ -145,14 +145,16 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 0",
                 "❔XX | 🟢 | vless | @FreakConfig | 2",
-                "🇳🇱NL | 🔴 | vless | @FreakConfig | 7",
-                "🇷🇺RU | 🔴 | vless | @kiava | 11",
-                "🇮🇷IR | 🟢 | vless | @kiava | 14",
-                "❔XX | 🔴 | vless | @kiava | 30",
-                "❔XX | 🔴 | vless | @kiava | 31",
-                "❔XX | 🔴 | vless | @kiava | 32",
-                "❔XX | 🔴 | vless | @kiava | 33",
-                "❔XX | 🔴 | vless | @kiava | 34",
+                "❔XX | 🔴 | vless | @FreakConfig | 7",
+                "❔XX | 🟢 | vless | @kiava | 16",
+                "❔XX | 🟢 | vless | @kiava | 18",
+                "❔XX | 🔴 | vless | @kiava | 19",
+                "❔XX | 🟢 | vless | @kiava | 22",
+                "❔XX | 🔴 | vless | @kiava | 38",
+                "❔XX | 🔴 | vless | @kiava | 39",
+                "❔XX | 🔴 | vless | @kiava | 40",
+                "❔XX | 🔴 | vless | @kiava | 41",
+                "❔XX | 🔴 | vless | @kiava | 42",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -173,8 +175,8 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🟢 | vless | @XsV2ray | 1",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 3",
-                "❔XX | 🟢 | vless | @rxv2ray | 7",
+                "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
+                "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4",
                 "❔XX | 🔴 | vless | @v2logy | 6",
@@ -211,14 +213,16 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 0",
                 "❔XX | 🟢 | vless | @FreakConfig | 2",
-                "🇳🇱NL | 🔴 | vless | @FreakConfig | 7",
-                "🇷🇺RU | 🔴 | vless | @kiava | 11",
-                "🇮🇷IR | 🟢 | vless | @kiava | 14",
-                "❔XX | 🔴 | vless | @kiava | 30",
-                "❔XX | 🔴 | vless | @kiava | 31",
-                "❔XX | 🔴 | vless | @kiava | 32",
-                "❔XX | 🔴 | vless | @kiava | 33",
-                "❔XX | 🔴 | vless | @kiava | 34",
+                "❔XX | 🔴 | vless | @FreakConfig | 7",
+                "❔XX | 🟢 | vless | @kiava | 16",
+                "❔XX | 🟢 | vless | @kiava | 18",
+                "❔XX | 🔴 | vless | @kiava | 19",
+                "❔XX | 🟢 | vless | @kiava | 22",
+                "❔XX | 🔴 | vless | @kiava | 38",
+                "❔XX | 🔴 | vless | @kiava | 39",
+                "❔XX | 🔴 | vless | @kiava | 40",
+                "❔XX | 🔴 | vless | @kiava | 41",
+                "❔XX | 🔴 | vless | @kiava | 42",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -283,7 +287,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 3",
+            "tag": "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
             "type": "vless",
             "server": "185.234.65.232",
             "server_port": 4423,
@@ -319,7 +323,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @rxv2ray | 7",
+            "tag": "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
             "type": "vless",
             "server": "89.208.86.65",
             "server_port": 443,
@@ -1427,7 +1431,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @FreakConfig | 7",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 7",
             "type": "vless",
             "server": "195.26.224.112",
             "server_port": 8443,
@@ -1456,7 +1460,65 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🔴 | vless | @kiava | 11",
+            "tag": "❔XX | 🟢 | vless | @kiava | 16",
+            "type": "vless",
+            "server": "pl.nitroo-tech.ru",
+            "server_port": 48885,
+            "uuid": "3f88f137-a506-4386-8936-b0b4d7349478",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sun6-21.userapi.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "V8Sc-r31vGee66vJ2wBt-eW061TNbMuXK1aw0UQXcyI",
+                    "short_id": "6d"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @kiava | 18",
+            "type": "vless",
+            "server": "176.124.214.188",
+            "server_port": 443,
+            "uuid": "0f637e9e-d25b-4588-bde0-dac7f36b3c93",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "rutube.ru",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "n0X8cA7Ndd42e8dYC8OVWm8qniP_dxjy7GeY8LWNEjQ",
+                    "short_id": "6f822eda1c375660"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @kiava | 19",
             "type": "vless",
             "server": "82.202.159.119",
             "server_port": 443,
@@ -1485,7 +1547,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vless | @kiava | 14",
+            "tag": "❔XX | 🟢 | vless | @kiava | 22",
             "type": "vless",
             "server": "mail.tomandjery.eu",
             "server_port": 1001,
@@ -1514,7 +1576,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 30",
+            "tag": "❔XX | 🔴 | vless | @kiava | 38",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -1550,7 +1612,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 31",
+            "tag": "❔XX | 🔴 | vless | @kiava | 39",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -1586,7 +1648,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 32",
+            "tag": "❔XX | 🔴 | vless | @kiava | 40",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -1622,7 +1684,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 33",
+            "tag": "❔XX | 🔴 | vless | @kiava | 41",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -1658,7 +1720,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 34",
+            "tag": "❔XX | 🔴 | vless | @kiava | 42",
             "type": "vless",
             "server": "prime.dissertationhelpspecialist.com",
             "server_port": 8443,
