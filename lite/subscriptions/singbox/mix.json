@@ -132,8 +132,8 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 62",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 63",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 60",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 61",
                 "🇺🇸US | 🔴 | vless | @ShadowSocks_s | 0",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 7",
@@ -143,9 +143,9 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @MehradLearn | 1",
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
-                "❔XX | 🟢 | vmess | @proxystore11 | 0",
+                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
@@ -153,7 +153,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🔴 | vless | @FreakConfig | 11",
+                "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 51",
                 "❔XX | 🔴 | vless | @kiava | 52",
@@ -194,8 +194,8 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 62",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 63",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 60",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 61",
                 "🇺🇸US | 🔴 | vless | @ShadowSocks_s | 0",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 7",
@@ -205,9 +205,9 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @MehradLearn | 1",
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
-                "❔XX | 🟢 | vmess | @proxystore11 | 0",
+                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
@@ -215,7 +215,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🔴 | vless | @FreakConfig | 11",
+                "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 51",
                 "❔XX | 🔴 | vless | @kiava | 52",
@@ -868,25 +868,42 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 62",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 60",
             "type": "vless",
-            "server": "81.12.34.37",
-            "server_port": 8080,
-            "uuid": "e6d862ac-398b-4488-88e0-e5879923934d",
+            "server": "broad-sky-9360.k7uztejf9ief.workers.dev",
+            "server_port": 443,
+            "uuid": "bf710ad2-4a43-4379-aa73-e684f00b6240",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "broad-sky-9360.k7uztejf9ief.workers.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "broad-sky-9360.k7uztejf9ief.workers.dev"
+                }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 63",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 61",
             "type": "vless",
-            "server": "tr4.rhino.bottm.security-gmp.rhinnoo.ir",
-            "server_port": 80,
-            "uuid": "d00a8716-bdfb-440d-9d2c-f6d944a02acd",
+            "server": "81.12.34.37",
+            "server_port": 8080,
+            "uuid": "e6d862ac-398b-4488-88e0-e5879923934d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1087,7 +1104,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+            "tag": "❔XX | 🔴 | vless | @MehradLearn | 1",
             "type": "vless",
             "server": "104.17.74.206",
             "server_port": 2053,
@@ -1128,7 +1145,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @proxystore11 | 0",
+            "tag": "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
             "type": "vmess",
             "server": "217.218.52.1",
             "server_port": 10410,
@@ -1350,7 +1367,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 11",
+            "tag": "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
             "type": "vless",
             "server": "dd.openaccessnode.com",
             "server_port": 50,
