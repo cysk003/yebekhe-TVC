@@ -107,9 +107,9 @@
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
-                "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
+                "❔XX | 🟢 | vless | @Outline_Vpn | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ]
@@ -119,9 +119,9 @@
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
-                "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
+                "❔XX | 🟢 | vless | @Outline_Vpn | 17",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ],
@@ -175,7 +175,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @Outline_Vpn | 17",
+            "tag": "❔XX | 🟢 | vless | @Outline_Vpn | 17",
             "type": "vless",
             "server": "57.129.49.1",
             "server_port": 23576,
@@ -233,7 +233,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
