@@ -107,11 +107,11 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🟢 | vless | @XsV2ray | 1",
-                "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
-                "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 3",
+                "❔XX | 🟢 | vless | @rxv2ray | 7",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4",
-                "🇺🇸US | 🔴 | vless | @v2logy | 6",
+                "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
                 "❔XX | 🟢 | vless | @prrofile_purple | 42",
                 "❔XX | 🟢 | vless | @prrofile_purple | 47",
@@ -143,13 +143,13 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "🇲🇩MD | 🟢 | vless | @FreakConfig | 0",
-                "🇨🇭CH | 🟢 | vless | @FreakConfig | 2",
-                "🇳🇱NL | 🔴 | vless | @FreakConfig | 7",
-                "🇵🇱PL | 🟢 | vless | @kiava | 16",
-                "🇷🇺RU | 🟢 | vless | @kiava | 18",
-                "🇷🇺RU | 🔴 | vless | @kiava | 19",
-                "🇮🇷IR | 🟢 | vless | @kiava | 22",
+                "❔XX | 🟢 | vless | @FreakConfig | 0",
+                "❔XX | 🟢 | vless | @FreakConfig | 2",
+                "❔XX | 🔴 | vless | @FreakConfig | 7",
+                "❔XX | 🟢 | vless | @kiava | 16",
+                "❔XX | 🟢 | vless | @kiava | 18",
+                "❔XX | 🔴 | vless | @kiava | 19",
+                "❔XX | 🟢 | vless | @kiava | 22",
                 "❔XX | 🔴 | vless | @kiava | 38",
                 "❔XX | 🔴 | vless | @kiava | 39",
                 "❔XX | 🔴 | vless | @kiava | 40",
@@ -175,11 +175,11 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🟢 | vless | @XsV2ray | 1",
-                "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
-                "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 3",
+                "❔XX | 🟢 | vless | @rxv2ray | 7",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4",
-                "🇺🇸US | 🔴 | vless | @v2logy | 6",
+                "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @Outline_Vpn | 17",
                 "❔XX | 🟢 | vless | @prrofile_purple | 42",
                 "❔XX | 🟢 | vless | @prrofile_purple | 47",
@@ -211,13 +211,13 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "🇲🇩MD | 🟢 | vless | @FreakConfig | 0",
-                "🇨🇭CH | 🟢 | vless | @FreakConfig | 2",
-                "🇳🇱NL | 🔴 | vless | @FreakConfig | 7",
-                "🇵🇱PL | 🟢 | vless | @kiava | 16",
-                "🇷🇺RU | 🟢 | vless | @kiava | 18",
-                "🇷🇺RU | 🔴 | vless | @kiava | 19",
-                "🇮🇷IR | 🟢 | vless | @kiava | 22",
+                "❔XX | 🟢 | vless | @FreakConfig | 0",
+                "❔XX | 🟢 | vless | @FreakConfig | 2",
+                "❔XX | 🔴 | vless | @FreakConfig | 7",
+                "❔XX | 🟢 | vless | @kiava | 16",
+                "❔XX | 🟢 | vless | @kiava | 18",
+                "❔XX | 🔴 | vless | @kiava | 19",
+                "❔XX | 🟢 | vless | @kiava | 22",
                 "❔XX | 🔴 | vless | @kiava | 38",
                 "❔XX | 🔴 | vless | @kiava | 39",
                 "❔XX | 🔴 | vless | @kiava | 40",
@@ -287,7 +287,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 3",
             "type": "vless",
             "server": "185.234.65.232",
             "server_port": 4423,
@@ -323,7 +323,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
+            "tag": "❔XX | 🟢 | vless | @rxv2ray | 7",
             "type": "vless",
             "server": "89.208.86.65",
             "server_port": 443,
@@ -410,7 +410,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 6",
+            "tag": "❔XX | 🔴 | vless | @v2logy | 6",
             "type": "vless",
             "server": "188.245.65.59",
             "server_port": 443,
@@ -1373,7 +1373,7 @@
             }
         },
         {
-            "tag": "🇲🇩MD | 🟢 | vless | @FreakConfig | 0",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 0",
             "type": "vless",
             "server": "3.cdnconn.com",
             "server_port": 23335,
@@ -1402,7 +1402,7 @@
             }
         },
         {
-            "tag": "🇨🇭CH | 🟢 | vless | @FreakConfig | 2",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 2",
             "type": "vless",
             "server": "185.227.149.123",
             "server_port": 443,
@@ -1431,7 +1431,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @FreakConfig | 7",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 7",
             "type": "vless",
             "server": "195.26.224.112",
             "server_port": 8443,
@@ -1460,7 +1460,7 @@
             }
         },
         {
-            "tag": "🇵🇱PL | 🟢 | vless | @kiava | 16",
+            "tag": "❔XX | 🟢 | vless | @kiava | 16",
             "type": "vless",
             "server": "pl.nitroo-tech.ru",
             "server_port": 48885,
@@ -1489,7 +1489,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | @kiava | 18",
+            "tag": "❔XX | 🟢 | vless | @kiava | 18",
             "type": "vless",
             "server": "176.124.214.188",
             "server_port": 443,
@@ -1518,7 +1518,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🔴 | vless | @kiava | 19",
+            "tag": "❔XX | 🔴 | vless | @kiava | 19",
             "type": "vless",
             "server": "82.202.159.119",
             "server_port": 443,
@@ -1547,7 +1547,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vless | @kiava | 22",
+            "tag": "❔XX | 🟢 | vless | @kiava | 22",
             "type": "vless",
             "server": "mail.tomandjery.eu",
             "server_port": 1001,
