@@ -109,8 +109,8 @@
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🔴 | vless | @kiava | 56",
-                "❔XX | 🔴 | vless | @kiava | 57",
+                "❔XX | 🔴 | vless | @kiava | 61",
+                "❔XX | 🔴 | vless | @kiava | 62",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ]
@@ -122,8 +122,8 @@
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🔴 | vless | @kiava | 56",
-                "❔XX | 🔴 | vless | @kiava | 57",
+                "❔XX | 🔴 | vless | @kiava | 61",
+                "❔XX | 🔴 | vless | @kiava | 62",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ],
@@ -235,11 +235,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 56",
+            "tag": "❔XX | 🔴 | vless | @kiava | 61",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
-            "uuid": "9ad15b75-02c4-4d88-82e4-e7c1f9c1b74d",
+            "uuid": "24a4185b-2f90-4d17-99ba-d04663d28c75",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -271,11 +271,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 57",
+            "tag": "❔XX | 🔴 | vless | @kiava | 62",
             "type": "vless",
-            "server": "prime.dissertationhelpspecialist.com",
+            "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
-            "uuid": "4b1167f6-8675-48c1-945f-75e8917b1d9b",
+            "uuid": "9ad15b75-02c4-4d88-82e4-e7c1f9c1b74d",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -294,8 +294,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "0iw_tSzMx7XUDfwyPap42dHriRCsirtWmOSlFz9hB30",
-                    "short_id": "6cc942eb26a2"
+                    "public_key": "6WQYfZi6JDT5nc_YJwGnq3SOAwiG2g7BLX4euXTMe0c",
+                    "short_id": "2e16809167"
                 }
             },
             "transport": {
