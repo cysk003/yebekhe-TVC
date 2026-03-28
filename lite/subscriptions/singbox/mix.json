@@ -129,7 +129,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 8",
+                "🇵🇱PL | 🔴 | trojan | @oneclickvpnkeys | 8",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 9",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 68",
@@ -190,7 +191,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 8",
+                "🇵🇱PL | 🔴 | trojan | @oneclickvpnkeys | 8",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 9",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 68",
@@ -789,7 +791,19 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 8",
+            "tag": "🇵🇱PL | 🔴 | trojan | @oneclickvpnkeys | 8",
+            "type": "trojan",
+            "server": "62.112.222.76",
+            "server_port": 443,
+            "password": "WF42809561",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 9",
             "type": "vmess",
             "server": null,
             "server_port": 0,
