@@ -131,8 +131,8 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 9",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 68",
-                "❔XX | 🔴 | vless | @prrofile_purple | 69",
+                "🇵🇱PL | 🟢 | vless | @prrofile_purple | 66",
+                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 67",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -146,12 +146,12 @@
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
+                "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🔴 | vless | @FreakConfig | 11",
+                "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 61",
                 "❔XX | 🔴 | vless | @kiava | 62",
@@ -191,8 +191,8 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 9",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 68",
-                "❔XX | 🔴 | vless | @prrofile_purple | 69",
+                "🇵🇱PL | 🟢 | vless | @prrofile_purple | 66",
+                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 67",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -206,12 +206,12 @@
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
+                "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🔴 | vless | @FreakConfig | 11",
+                "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 61",
                 "❔XX | 🔴 | vless | @kiava | 62",
@@ -833,31 +833,61 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 68",
+            "tag": "🇵🇱PL | 🟢 | vless | @prrofile_purple | 66",
             "type": "vless",
-            "server": "s1.nimbaha.info",
-            "server_port": 46116,
-            "uuid": "b707f5f3-0cd4-42cf-8b1f-ee9a54edb2b9",
-            "flow": "",
+            "server": "45.136.126.16",
+            "server_port": 443,
+            "uuid": "203b0744-f943-4bba-a8d2-cab635467c46",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0",
+                    "short_id": "d020b2"
+                }
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 69",
+            "tag": "🇩🇪DE | 🟢 | vless | @prrofile_purple | 67",
             "type": "vless",
-            "server": "jsbsh_jsjsbdixsjsvsjvdj_dhdjdjdkjbsj_b.d2centeerr.sbs",
-            "server_port": 27208,
-            "uuid": "94986991-74c7-4c8b-acf2-90992059e7f1",
-            "flow": "",
+            "server": "185.125.103.147",
+            "server_port": 443,
+            "uuid": "21915536-afb5-4a0c-b047-fcf549d3a173",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "wikihow.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ",
+                    "short_id": "8bd29483ded126b4"
+                }
             }
         },
         {
@@ -1154,7 +1184,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 0",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
@@ -1214,7 +1244,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -1301,7 +1331,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 11",
+            "tag": "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
             "type": "vless",
             "server": "dd.openaccessnode.com",
             "server_port": 50,
