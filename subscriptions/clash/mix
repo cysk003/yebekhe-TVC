@@ -176,7 +176,6 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 4","type":"trojan","server":"touching-pigeon.rooster465.autos","port":443,"udp":false,"password":"WF42809561","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 7","type":"trojan","server":"84.32.9.60","port":4443,"udp":false,"password":"strong-secret-pass-777","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 9","type":"trojan","server":"ct.090227.xyz","port":443,"udp":false,"password":"22367c45-f6c4-4ca8-8d52-d9787d7bbe91","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"cm22-bgphhh.pages.dev"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 10","type":"trojan","server":"103.231.73.181","port":4443,"udp":false,"password":"strong-secret-pass-777","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 45","type":"vmess","server":"am.nftydreams.io","port":"2002","cipher":"auto","uuid":"e49c6b32-d220-49c9-8bed-981248a06c5b","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 53","type":"vmess","server":"185.181.183.124","port":"28094","cipher":"auto","uuid":"a6440729-1046-4a9c-bc19-7c0ede4bf4d4","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":""}}}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1","type":"trojan","server":"104.18.32.47","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
@@ -264,7 +263,6 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 4'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 9'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 10'
       - '❔XX | 🟢 | vmess | @prrofile_purple | 45'
       - '❔XX | 🟢 | vmess | @prrofile_purple | 53'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
@@ -352,7 +350,6 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 4'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 9'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 10'
       - '❔XX | 🟢 | vmess | @prrofile_purple | 45'
       - '❔XX | 🟢 | vmess | @prrofile_purple | 53'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
@@ -439,7 +436,6 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 4'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 9'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 10'
       - '❔XX | 🟢 | vmess | @prrofile_purple | 45'
       - '❔XX | 🟢 | vmess | @prrofile_purple | 53'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
