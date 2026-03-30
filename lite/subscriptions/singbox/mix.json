@@ -127,12 +127,12 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 18",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 6",
-                "🇯🇵JP | 🔴 | trojan | @oneclickvpnkeys | 7",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6",
+                "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
-                "🇵🇱PL | 🟢 | vless | @prrofile_purple | 71",
-                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 72",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 68",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 69",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -145,10 +145,10 @@
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "❔XX | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
@@ -187,12 +187,12 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 18",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 6",
-                "🇯🇵JP | 🔴 | trojan | @oneclickvpnkeys | 7",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6",
+                "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
-                "🇵🇱PL | 🟢 | vless | @prrofile_purple | 71",
-                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 72",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 68",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 69",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -205,10 +205,10 @@
                 "🇺🇿UZ | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "❔XX | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
@@ -742,7 +742,26 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 6",
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6",
+            "type": "trojan",
+            "server": "v1.dabache.top",
+            "server_port": 443,
+            "password": "humanity",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/assignment",
+                "headers": {
+                    "Host": "www.multiplydose.com"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 7",
             "type": "vmess",
             "server": "94.232.247.165",
             "server_port": 45653,
@@ -752,18 +771,6 @@
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇯🇵JP | 🔴 | trojan | @oneclickvpnkeys | 7",
-            "type": "trojan",
-            "server": "45.12.134.57",
-            "server_port": 4443,
-            "password": "strong-secret-pass-777",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -833,61 +840,31 @@
             }
         },
         {
-            "tag": "🇵🇱PL | 🟢 | vless | @prrofile_purple | 71",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 68",
             "type": "vless",
-            "server": "45.136.126.16",
-            "server_port": 443,
-            "uuid": "203b0744-f943-4bba-a8d2-cab635467c46",
-            "flow": "xtls-rprx-vision",
+            "server": "mlh.mynethub99.top",
+            "server_port": 2083,
+            "uuid": "9920d8dc-6823-4be6-a9ac-522e8584fbca",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0",
-                    "short_id": "d020b2"
-                }
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @prrofile_purple | 72",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 69",
             "type": "vless",
-            "server": "185.125.103.147",
-            "server_port": 443,
-            "uuid": "21915536-afb5-4a0c-b047-fcf549d3a173",
-            "flow": "xtls-rprx-vision",
+            "server": "starv1.meepo1.com",
+            "server_port": 19971,
+            "uuid": "29eb504a-f25f-4d5d-ac7f-d643ec83686e",
+            "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "wikihow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ",
-                    "short_id": "8bd29483ded126b4"
-                }
             }
         },
         {
@@ -1150,7 +1127,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -1244,7 +1221,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
