@@ -108,9 +108,9 @@
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🔴 | vless | @kiava | 61",
-                "❔XX | 🔴 | vless | @kiava | 62",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @kiava | 69",
+                "❔XX | 🔴 | vless | @kiava | 70",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ]
@@ -121,9 +121,9 @@
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "❔XX | 🔴 | vless | @kiava | 61",
-                "❔XX | 🔴 | vless | @kiava | 62",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @kiava | 69",
+                "❔XX | 🔴 | vless | @kiava | 70",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ],
@@ -206,7 +206,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -235,11 +235,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 61",
+            "tag": "❔XX | 🔴 | vless | @kiava | 69",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
-            "uuid": "24a4185b-2f90-4d17-99ba-d04663d28c75",
+            "uuid": "31d780d0-82ef-4f28-8651-a2e315b213f7",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -271,11 +271,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 62",
+            "tag": "❔XX | 🔴 | vless | @kiava | 70",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
-            "uuid": "9ad15b75-02c4-4d88-82e4-e7c1f9c1b74d",
+            "uuid": "24a4185b-2f90-4d17-99ba-d04663d28c75",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
