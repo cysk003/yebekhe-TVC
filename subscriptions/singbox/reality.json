@@ -112,11 +112,10 @@
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4",
                 "❔XX | 🔴 | vless | @v2logy | 6",
+                "❔XX | 🟢 | vless | @prrofile_purple | 36",
                 "❔XX | 🟢 | vless | @prrofile_purple | 64",
                 "❔XX | 🟢 | vless | @prrofile_purple | 69",
                 "❔XX | 🟢 | vless | @prrofile_purple | 72",
-                "❔XX | 🟢 | vless | @prrofile_purple | 76",
-                "❔XX | 🟢 | vless | @prrofile_purple | 77",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -144,6 +143,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 0",
                 "❔XX | 🟢 | vless | @FreakConfig | 2",
+                "❔XX | 🟢 | vless | @FreakConfig | 4",
                 "❔XX | 🔴 | vless | @FreakConfig | 7",
                 "❔XX | 🟢 | vless | @kiava | 39",
                 "❔XX | 🔴 | vless | @kiava | 43",
@@ -153,9 +153,9 @@
                 "❔XX | 🟢 | vless | @kiava | 54",
                 "❔XX | 🔴 | vless | @kiava | 55",
                 "❔XX | 🟢 | vless | @kiava | 58",
-                "🇩🇪DE | 🔴 | vless | @kiava | 74",
-                "🇩🇪DE | 🔴 | vless | @kiava | 75",
-                "🇩🇪DE | 🔴 | vless | @kiava | 76",
+                "❔XX | 🔴 | vless | @kiava | 74",
+                "❔XX | 🔴 | vless | @kiava | 75",
+                "❔XX | 🔴 | vless | @kiava | 76",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -181,11 +181,10 @@
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 3",
                 "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 4",
                 "❔XX | 🔴 | vless | @v2logy | 6",
+                "❔XX | 🟢 | vless | @prrofile_purple | 36",
                 "❔XX | 🟢 | vless | @prrofile_purple | 64",
                 "❔XX | 🟢 | vless | @prrofile_purple | 69",
                 "❔XX | 🟢 | vless | @prrofile_purple | 72",
-                "❔XX | 🟢 | vless | @prrofile_purple | 76",
-                "❔XX | 🟢 | vless | @prrofile_purple | 77",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -213,6 +212,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vless | @FreakConfig | 0",
                 "❔XX | 🟢 | vless | @FreakConfig | 2",
+                "❔XX | 🟢 | vless | @FreakConfig | 4",
                 "❔XX | 🔴 | vless | @FreakConfig | 7",
                 "❔XX | 🟢 | vless | @kiava | 39",
                 "❔XX | 🔴 | vless | @kiava | 43",
@@ -222,9 +222,9 @@
                 "❔XX | 🟢 | vless | @kiava | 54",
                 "❔XX | 🔴 | vless | @kiava | 55",
                 "❔XX | 🟢 | vless | @kiava | 58",
-                "🇩🇪DE | 🔴 | vless | @kiava | 74",
-                "🇩🇪DE | 🔴 | vless | @kiava | 75",
-                "🇩🇪DE | 🔴 | vless | @kiava | 76",
+                "❔XX | 🔴 | vless | @kiava | 74",
+                "❔XX | 🔴 | vless | @kiava | 75",
+                "❔XX | 🔴 | vless | @kiava | 76",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -448,6 +448,35 @@
             }
         },
         {
+            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 36",
+            "type": "vless",
+            "server": "pic1.myket.mom",
+            "server_port": 37001,
+            "uuid": "0377df23-a1d4-4b3f-ae84-0b4f3d3d71dd",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.amazon.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ",
+                    "short_id": "c385"
+                }
+            }
+        },
+        {
             "tag": "❔XX | 🟢 | vless | @prrofile_purple | 64",
             "type": "vless",
             "server": "94.101.179.197",
@@ -531,64 +560,6 @@
                     "enabled": true,
                     "public_key": "8yHuzZK-w0BKPDvvbKC5-bmMb5mTYCP300N30XGulzM",
                     "short_id": "768ef2dd2dd43b00"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 76",
-            "type": "vless",
-            "server": "45.136.126.16",
-            "server_port": 443,
-            "uuid": "203b0744-f943-4bba-a8d2-cab635467c46",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0",
-                    "short_id": "d020b2"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 77",
-            "type": "vless",
-            "server": "185.125.103.147",
-            "server_port": 443,
-            "uuid": "21915536-afb5-4a0c-b047-fcf549d3a173",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "wikihow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ",
-                    "short_id": "8bd29483ded126b4"
                 }
             }
         },
@@ -1404,6 +1375,35 @@
             }
         },
         {
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 4",
+            "type": "vless",
+            "server": "45.136.126.16",
+            "server_port": 443,
+            "uuid": "203b0744-f943-4bba-a8d2-cab635467c46",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0",
+                    "short_id": "d020b2"
+                }
+            }
+        },
+        {
             "tag": "❔XX | 🔴 | vless | @FreakConfig | 7",
             "type": "vless",
             "server": "195.26.224.112",
@@ -1672,7 +1672,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 74",
+            "tag": "❔XX | 🔴 | vless | @kiava | 74",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -1708,7 +1708,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 75",
+            "tag": "❔XX | 🔴 | vless | @kiava | 75",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -1744,7 +1744,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 76",
+            "tag": "❔XX | 🔴 | vless | @kiava | 76",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
