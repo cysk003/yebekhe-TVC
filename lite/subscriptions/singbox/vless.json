@@ -123,8 +123,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 77",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 78",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 71",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 72",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -134,7 +134,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "❔XX | 🔴 | vless | @fnet00 | 0",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
@@ -169,8 +169,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 77",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 78",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 71",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 72",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -180,7 +180,7 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "❔XX | 🔴 | vless | @fnet00 | 0",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
@@ -654,25 +654,42 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 77",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 71",
             "type": "vless",
-            "server": "mlh.mynethub99.top",
-            "server_port": 2083,
-            "uuid": "9920d8dc-6823-4be6-a9ac-522e8584fbca",
+            "server": "104.26.15.21",
+            "server_port": 443,
+            "uuid": "d9a83363-40a6-4a21-9dbe-cb2b7d287048",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "afrcloud22.mmv.kr",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/107.174.121.122=443",
+                "headers": {
+                    "Host": "afrcloud22.mmv.kr"
+                }
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 78",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 72",
             "type": "vless",
-            "server": "starv1.meepo1.com",
-            "server_port": 19971,
-            "uuid": "29eb504a-f25f-4d5d-ac7f-d643ec83686e",
+            "server": "meow.panbe.mom",
+            "server_port": 443,
+            "uuid": "431b5aea-099c-4f86-9302-698166870680",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -890,7 +907,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @fnet00 | 0",
+            "tag": "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
