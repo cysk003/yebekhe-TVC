@@ -130,8 +130,8 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 78",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 79",
+                "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 71",
+                "🇮🇷IR | 🟢 | vless | @prrofile_purple | 72",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -147,13 +147,13 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
-                "❔XX | 🟢 | vmess | @v2Line | 5",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
-                "❔XX | 🔴 | vless | @kiava | 75",
-                "❔XX | 🔴 | vless | @kiava | 76",
+                "❔XX | 🔴 | vless | @kiava | 83",
+                "❔XX | 🔴 | vless | @kiava | 84",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
@@ -189,8 +189,8 @@
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 78",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 79",
+                "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 71",
+                "🇮🇷IR | 🟢 | vless | @prrofile_purple | 72",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -206,13 +206,13 @@
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
-                "❔XX | 🟢 | vmess | @v2Line | 5",
+                "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
-                "❔XX | 🔴 | vless | @kiava | 75",
-                "❔XX | 🔴 | vless | @kiava | 76",
+                "❔XX | 🔴 | vless | @kiava | 83",
+                "❔XX | 🔴 | vless | @kiava | 84",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
@@ -824,26 +824,36 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 78",
-            "type": "vless",
-            "server": "jsv-ir2.randino.ir",
-            "server_port": 9624,
-            "uuid": "ca6e4902-1e1f-11f1-8d30-2ddfba49052f",
-            "flow": "",
-            "packet_encoding": "xudp",
+            "tag": "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 71",
+            "type": "vmess",
+            "server": "185.181.183.124",
+            "server_port": 28094,
+            "uuid": "a6440729-1046-4a9c-bc19-7c0ede4bf4d4",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": ""
+                }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 79",
+            "tag": "🇮🇷IR | 🟢 | vless | @prrofile_purple | 72",
             "type": "vless",
-            "server": "104.26.15.21",
+            "server": "94.101.179.197",
             "server_port": 443,
-            "uuid": "d9a83363-40a6-4a21-9dbe-cb2b7d287048",
-            "flow": "",
+            "uuid": "788d2a40-12fe-4296-b802-d218308e769b",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -852,19 +862,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "afrcloud22.mmv.kr",
+                "server_name": "archive-azd1101.telewebion.ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/107.174.121.122=443",
-                "headers": {
-                    "Host": "afrcloud22.mmv.kr"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": "6ba85179e30d4fc2"
                 }
             }
         },
@@ -1222,7 +1230,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -1275,7 +1283,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @v2Line | 5",
+            "tag": "🇩🇪DE | 🟢 | vmess | @v2Line | 5",
             "type": "vmess",
             "server": "57.129.24.124",
             "server_port": 443,
@@ -1337,11 +1345,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 75",
+            "tag": "❔XX | 🔴 | vless | @kiava | 83",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
-            "uuid": "31d780d0-82ef-4f28-8651-a2e315b213f7",
+            "uuid": "456e4f29-1623-4944-9244-dcafb0922d03",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1373,11 +1381,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 76",
+            "tag": "❔XX | 🔴 | vless | @kiava | 84",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
-            "uuid": "24a4185b-2f90-4d17-99ba-d04663d28c75",
+            "uuid": "31d780d0-82ef-4f28-8651-a2e315b213f7",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
