@@ -108,8 +108,8 @@
                 "URL-TEST",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 2",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
@@ -121,8 +121,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
+                "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
-                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇮🇷IR | 🟢 | vless | @prrofile_purple | 77",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 78",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
@@ -136,7 +136,7 @@
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
@@ -154,8 +154,8 @@
             "outbounds": [
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 2",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
@@ -167,8 +167,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
+                "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
-                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
                 "🇮🇷IR | 🟢 | vless | @prrofile_purple | 77",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 78",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
@@ -182,7 +182,7 @@
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
@@ -259,9 +259,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "3.120.57.119",
+            "server": "15.236.184.73",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -290,9 +290,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "13.37.210.125",
+            "server": "3.120.57.119",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -597,6 +597,37 @@
             }
         },
         {
+            "tag": "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
+            "type": "vless",
+            "server": "190.93.245.94",
+            "server_port": 2096,
+            "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sni.111000.indevs.in",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "sni.111000.indevs.in"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
             "type": "vless",
             "server": "104.17.162.123",
@@ -624,37 +655,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "dev.twistsparrow.xyz"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 16",
-            "type": "vless",
-            "server": "162.159.36.5",
-            "server_port": 2053,
-            "uuid": "e5f8a9f6-f164-479b-b3b5-b90f213c7145",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ir1.airpanel.top",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "ir1.airpanel.top"
                 }
             }
         },
@@ -970,7 +970,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
