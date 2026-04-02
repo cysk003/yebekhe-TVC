@@ -108,8 +108,8 @@
                 "URL-TEST",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
@@ -126,14 +126,15 @@
                 "🇮🇷IR | 🟢 | vless | @prrofile_purple | 82",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 83",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
-                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 7",
+                "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @lrnbymaa | 0",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
@@ -154,8 +155,8 @@
             "outbounds": [
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "❔XX | 🔴 | vless | @XsV2ray | 5",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
@@ -172,14 +173,15 @@
                 "🇮🇷IR | 🟢 | vless | @prrofile_purple | 82",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 83",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
-                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 7",
+                "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @lrnbymaa | 0",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
@@ -259,9 +261,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "51.44.121.226",
+            "server": "18.197.45.250",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -290,9 +292,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "3.78.2.6",
+            "server": "51.44.121.226",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -711,7 +713,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 7",
+            "tag": "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
             "type": "vless",
             "server": "185.136.135.164",
             "server_port": 8086,
@@ -829,7 +831,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
+            "tag": "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -874,7 +876,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+            "tag": "❔XX | 🔴 | vless | @MehradLearn | 1",
             "type": "vless",
             "server": "104.17.74.206",
             "server_port": 2053,
@@ -901,6 +903,27 @@
                 "path": "\/JeiwoBjOYwhwoabA",
                 "headers": {
                     "Host": "afranet1.nitromobile.online"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 0",
+            "type": "vless",
+            "server": "forimarket.2.globalmymusic2.com",
+            "server_port": 80,
+            "uuid": "88f964e1-4ab8-4280-9557-e1cd573abdec",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/filimo-video\/177430809054030600\/1774365690\/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd\/196328x264new1-1080p.mp4\/s-20-v1-a1.ts",
+                "headers": {
+                    "Host": "forimarket.2.globalmymusic2.com"
                 }
             }
         },
