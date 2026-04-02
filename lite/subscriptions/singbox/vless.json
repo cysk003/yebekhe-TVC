@@ -124,6 +124,7 @@
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇮🇷IR | 🟢 | vless | @prrofile_purple | 82",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 83",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -135,7 +136,7 @@
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 0",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 1",
-                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
+                "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
@@ -171,6 +172,7 @@
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇮🇷IR | 🟢 | vless | @prrofile_purple | 82",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 83",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -182,7 +184,7 @@
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 0",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 1",
-                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
+                "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
@@ -685,6 +687,20 @@
             }
         },
         {
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 83",
+            "type": "vless",
+            "server": "meow.panbe.mom",
+            "server_port": 443,
+            "uuid": "431b5aea-099c-4f86-9302-698166870680",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
             "type": "vless",
             "server": "de-2-tun-single.starping1.fun",
@@ -928,7 +944,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 0",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
