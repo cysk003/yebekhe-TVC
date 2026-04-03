@@ -119,8 +119,8 @@
                 "❔XX | 🟢 | vmess | @mftizi | 14",
                 "❔XX | 🟢 | vmess | @mftizi | 15",
                 "❔XX | 🟢 | vmess | @mftizi | 16",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 73",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 81",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 78",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
@@ -153,8 +153,8 @@
                 "❔XX | 🟢 | vmess | @mftizi | 14",
                 "❔XX | 🟢 | vmess | @mftizi | 15",
                 "❔XX | 🟢 | vmess | @mftizi | 16",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 73",
-                "❔XX | 🟢 | vmess | @prrofile_purple | 81",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
+                "❔XX | 🟢 | vmess | @prrofile_purple | 78",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 1",
                 "❔XX | 🟢 | vmess | @yaney_01 | 2",
@@ -411,7 +411,24 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 73",
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 0",
+            "type": "vmess",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 78",
             "type": "vmess",
             "server": "am.nftydreams.io",
             "server_port": 2002,
@@ -425,30 +442,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @prrofile_purple | 81",
-            "type": "vmess",
-            "server": "185.181.183.124",
-            "server_port": 28094,
-            "uuid": "a6440729-1046-4a9c-bc19-7c0ede4bf4d4",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {

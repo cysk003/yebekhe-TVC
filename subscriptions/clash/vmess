@@ -131,8 +131,7 @@ proxies:
   - {"name":"❔XX | 🟢 | vmess | @mftizi | 14","type":"vmess","server":"120.232.153.63","port":"40972","cipher":"auto","uuid":"770ee730-2450-4e3c-a6c6-3932bd32afbd","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @mftizi | 15","type":"vmess","server":"183.236.48.163","port":"58831","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @mftizi | 16","type":"vmess","server":"120.232.153.27","port":"58831","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 73","type":"vmess","server":"am.nftydreams.io","port":"2002","cipher":"auto","uuid":"e49c6b32-d220-49c9-8bed-981248a06c5b","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 81","type":"vmess","server":"185.181.183.124","port":"28094","cipher":"auto","uuid":"a6440729-1046-4a9c-bc19-7c0ede4bf4d4","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":""}}}
+  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 78","type":"vmess","server":"am.nftydreams.io","port":"2002","cipher":"auto","uuid":"e49c6b32-d220-49c9-8bed-981248a06c5b","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @proxystore11 | 0","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 1","type":"vmess","server":"45.199.138.217","port":"41000","cipher":"auto","uuid":"f9fa3a9c-f7d5-414f-88e6-6970585d9949","alterId":"64","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/282018252526","headers":{"host":"45.199.138.217"}}}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 2","type":"vmess","server":"107.149.119.43","port":"37000","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/040318142507","headers":{"host":"107.149.119.43"}}}
@@ -160,8 +159,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @mftizi | 14'
       - '❔XX | 🟢 | vmess | @mftizi | 15'
       - '❔XX | 🟢 | vmess | @mftizi | 16'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 73'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 81'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 78'
       - '❔XX | 🟢 | vmess | @proxystore11 | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 1'
       - '❔XX | 🟢 | vmess | @yaney_01 | 2'
@@ -189,8 +187,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @mftizi | 14'
       - '❔XX | 🟢 | vmess | @mftizi | 15'
       - '❔XX | 🟢 | vmess | @mftizi | 16'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 73'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 81'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 78'
       - '❔XX | 🟢 | vmess | @proxystore11 | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 1'
       - '❔XX | 🟢 | vmess | @yaney_01 | 2'
@@ -217,8 +214,7 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @mftizi | 14'
       - '❔XX | 🟢 | vmess | @mftizi | 15'
       - '❔XX | 🟢 | vmess | @mftizi | 16'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 73'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 81'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 78'
       - '❔XX | 🟢 | vmess | @proxystore11 | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 1'
       - '❔XX | 🟢 | vmess | @yaney_01 | 2'
