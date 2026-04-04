@@ -11,16 +11,16 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 18 = trojan, 63.179.40.43, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19 = trojan, 15.236.83.234, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🟢 | trojan | @DirectVPN | 18 = trojan, 63.179.40.43, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | @DirectVPN | 19 = trojan, 15.236.83.234, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇳🇱NL | 🔴 | trojan | @oneclickvpnkeys | 7 = trojan, nl-4.tr202512.com, 443, password = M08tvzYWtUEJNtbpHp, udp-delay = true, skip-cert-verify = true, ws = false
-🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8 = trojan, 82.26.155.20, 10369, password = n5ix4FcMQYENMQPL YKbvyJ8nZ84 bNTsj, udp-delay = true, skip-cert-verify = true, sni = fra35.chasem2026sud.com, ws = false
+🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18 = trojan, 15.224.22.33, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19 = trojan, 63.179.40.43, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | @DirectVPN | 18 = trojan, 15.224.22.33, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🟢 | trojan | @DirectVPN | 19 = trojan, 63.179.40.43, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇦🇱AL | 🔴 | trojan | @oneclickvpnkeys | 7 = trojan, 185.177.238.87, 2083, password = q2jXRWncMA7pQren_VjQKhSQfoBWK_, udp-delay = true, skip-cert-verify = true, sni = xo.e0f.cx, ws = false
+🇳🇱NL | 🔴 | trojan | @oneclickvpnkeys | 8 = trojan, nl-4.tr202512.com, 443, password = M08tvzYWtUEJNtbpHp, udp-delay = true, skip-cert-verify = true, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 18,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19,🇩🇪DE | 🟢 | trojan | @DirectVPN | 18,🇫🇷FR | 🟢 | trojan | @DirectVPN | 19,🇳🇱NL | 🔴 | trojan | @oneclickvpnkeys | 7,🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8
-URL-TEST = url-test,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 18,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19,🇩🇪DE | 🟢 | trojan | @DirectVPN | 18,🇫🇷FR | 🟢 | trojan | @DirectVPN | 19,🇳🇱NL | 🔴 | trojan | @oneclickvpnkeys | 7,🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8
-FALLBACK = fallback,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 18,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19,🇩🇪DE | 🟢 | trojan | @DirectVPN | 18,🇫🇷FR | 🟢 | trojan | @DirectVPN | 19,🇳🇱NL | 🔴 | trojan | @oneclickvpnkeys | 7,🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8
+MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19,🇫🇷FR | 🟢 | trojan | @DirectVPN | 18,🇩🇪DE | 🟢 | trojan | @DirectVPN | 19,🇦🇱AL | 🔴 | trojan | @oneclickvpnkeys | 7,🇳🇱NL | 🔴 | trojan | @oneclickvpnkeys | 8
+URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19,🇫🇷FR | 🟢 | trojan | @DirectVPN | 18,🇩🇪DE | 🟢 | trojan | @DirectVPN | 19,🇦🇱AL | 🔴 | trojan | @oneclickvpnkeys | 7,🇳🇱NL | 🔴 | trojan | @oneclickvpnkeys | 8
+FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19,🇫🇷FR | 🟢 | trojan | @DirectVPN | 18,🇩🇪DE | 🟢 | trojan | @DirectVPN | 19,🇦🇱AL | 🔴 | trojan | @oneclickvpnkeys | 7,🇳🇱NL | 🔴 | trojan | @oneclickvpnkeys | 8
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
