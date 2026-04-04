@@ -127,8 +127,8 @@
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇳🇱NL | 🔴 | trojan | @oneclickvpnkeys | 5",
                 "🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 6",
-                "🇦🇱AL | 🔴 | trojan | @oneclickvpnkeys | 7",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 86",
@@ -148,12 +148,12 @@
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🔴 | vless | @fnet00 | 0",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🔴 | vless | @FreakConfig | 11",
+                "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
                 "❔XX | 🔴 | vless | @kiava | 84",
@@ -189,8 +189,8 @@
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇳🇱NL | 🔴 | trojan | @oneclickvpnkeys | 5",
                 "🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 6",
-                "🇦🇱AL | 🔴 | trojan | @oneclickvpnkeys | 7",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 86",
@@ -210,12 +210,12 @@
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🔴 | vless | @fnet00 | 0",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🟢 | vmess | @v2Line | 4",
                 "❔XX | 🟢 | vmess | @v2Line | 5",
-                "❔XX | 🔴 | vless | @FreakConfig | 11",
+                "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
                 "❔XX | 🔴 | vless | @kiava | 84",
@@ -746,6 +746,18 @@
             }
         },
         {
+            "tag": "🇳🇱NL | 🔴 | trojan | @oneclickvpnkeys | 5",
+            "type": "trojan",
+            "server": "nl-4.tr202512.com",
+            "server_port": 443,
+            "password": "M08tvzYWtUEJNtbpHp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 6",
             "type": "trojan",
             "server": "82.26.155.20",
@@ -755,25 +767,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇦🇱AL | 🔴 | trojan | @oneclickvpnkeys | 7",
-            "type": "trojan",
-            "server": "185.177.238.15",
-            "server_port": 2083,
-            "password": "q2jXRWncMA7pQren_VjQKhSQfoBWK_",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/trojan-ws",
-                "headers": {
-                    "Host": "xo.e0f.cx"
-                }
             }
         },
         {
@@ -1220,7 +1213,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @fnet00 | 0",
+            "tag": "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
@@ -1367,7 +1360,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 11",
+            "tag": "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
             "type": "vless",
             "server": "dd.openaccessnode.com",
             "server_port": 50,
