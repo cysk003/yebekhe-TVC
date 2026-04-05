@@ -114,8 +114,9 @@
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🔴 | vless | @prrofile_purple | 53",
                 "❔XX | 🟢 | vless | @prrofile_purple | 69",
-                "❔XX | 🔴 | vless | @lrnbymaa | 0",
-                "❔XX | 🟢 | vless | @lrnbymaa | 1",
+                "❔XX | 🟢 | vless | @lrnbymaa | 0",
+                "❔XX | 🔴 | vless | @lrnbymaa | 1",
+                "❔XX | 🟢 | vless | @lrnbymaa | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -182,8 +183,9 @@
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🔴 | vless | @prrofile_purple | 53",
                 "❔XX | 🟢 | vless | @prrofile_purple | 69",
-                "❔XX | 🔴 | vless | @lrnbymaa | 0",
-                "❔XX | 🟢 | vless | @lrnbymaa | 1",
+                "❔XX | 🟢 | vless | @lrnbymaa | 0",
+                "❔XX | 🔴 | vless | @lrnbymaa | 1",
+                "❔XX | 🟢 | vless | @lrnbymaa | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -511,7 +513,36 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 0",
+            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 0",
+            "type": "vless",
+            "server": "185.238.140.212",
+            "server_port": 443,
+            "uuid": "6fb4c229-6f9a-449a-a533-9f2a8040c71c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.microsoft.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE",
+                    "short_id": "6ba85179e30d4fc2"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 1",
             "type": "vless",
             "server": "102.37.155.79",
             "server_port": 443,
@@ -540,7 +571,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 1",
+            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 2",
             "type": "vless",
             "server": "193.233.253.77",
             "server_port": 8443,
