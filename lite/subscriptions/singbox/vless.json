@@ -134,8 +134,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 5",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 6",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 7",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -182,8 +182,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 5",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 6",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 7",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -894,25 +894,32 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 6",
+            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 5",
             "type": "vless",
-            "server": "api.playshoptv.com",
-            "server_port": 43173,
-            "uuid": "e37b9758-5026-4825-a4fb-8ef974103341",
+            "server": "link2x05376_5.temp.veraspeed.ir",
+            "server_port": 80,
+            "uuid": "4ab11980-7400-4737-9825-6ecd0b7b4b0b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/filimo-video\/177430809054030600\/1774365690\/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd\/196328x264new1-1080p.mp4\/s-20-v1-a1.ts",
+                "headers": {
+                    "Host": "link2x05376_5.temp.veraspeed.ir"
+                }
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 7",
+            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 6",
             "type": "vless",
-            "server": "link2x05342_5.temp.veraspeed.ir",
-            "server_port": 80,
-            "uuid": "784ab76c-c03f-490c-bbbf-4bf679a16e06",
+            "server": "api.playshoptv.com",
+            "server_port": 43173,
+            "uuid": "e37b9758-5026-4825-a4fb-8ef974103341",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
