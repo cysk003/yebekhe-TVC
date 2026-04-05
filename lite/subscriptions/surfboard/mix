@@ -16,7 +16,7 @@ DIRECT = direct
 🇫🇷FR | 🟢 | trojan | @DirectVPN | 18 = trojan, 35.181.231.212, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
 🇫🇷FR | 🟢 | trojan | @DirectVPN | 19 = trojan, 35.181.201.33, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
 🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5 = trojan, irancell.buzzmuzzpanel.online, 443, password = )5,9FW.Kk166, udp-delay = true, skip-cert-verify = true, sni = 028.eLECtRocEllco-Cf-028.worKErS.dev, ws = false
-🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6 = trojan, irancell.buzzmuzzpanel.online, 443, password = A4u^p(_UR*F6, udp-delay = true, skip-cert-verify = true, sni = 027.eLECTROcelLCO-cf-027.WorKerS.Dev, ws = false
+🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6 = trojan, irancell.buzzmuzzpanel.online, 443, password = )5,9FW.Kk166, udp-delay = true, skip-cert-verify = true, sni = 028.eLECtRocEllco-Cf-028.worKErS.dev, ws = false
 ❔XX | 🟢 | vmess | @yaney_01 | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
 [Proxy Group]
 MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19,🇫🇷FR | 🟢 | trojan | @DirectVPN | 18,🇫🇷FR | 🟢 | trojan | @DirectVPN | 19,🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5,🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6,❔XX | 🟢 | vmess | @yaney_01 | 4

@@ -143,17 +143,17 @@
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 6",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 7",
-                "❔XX | 🟢 | vmess | @proxystore11 | 0",
+                "❔XX | 🔴 | vless | @lrnbymaa | 7",
+                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
-                "🇩🇪DE | 🔴 | vless | @kiava | 83",
-                "❔XX | 🔴 | vless | @kiava | 84",
+                "❔XX | 🔴 | vless | @kiava | 83",
+                "🇩🇪DE | 🔴 | vless | @kiava | 84",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
@@ -202,17 +202,17 @@
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 6",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 7",
-                "❔XX | 🟢 | vmess | @proxystore11 | 0",
+                "❔XX | 🔴 | vless | @lrnbymaa | 7",
+                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "❔XX | 🟢 | vmess | @yaney_01 | 5",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
-                "🇩🇪DE | 🔴 | vless | @kiava | 83",
-                "❔XX | 🔴 | vless | @kiava | 84",
+                "❔XX | 🔴 | vless | @kiava | 83",
+                "🇩🇪DE | 🔴 | vless | @kiava | 84",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
@@ -752,7 +752,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "\/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ",
                 "headers": {
                     "Host": "028.eLECtRocEllco-Cf-028.worKErS.dev"
                 }
@@ -763,7 +763,7 @@
             "type": "trojan",
             "server": "irancell.buzzmuzzpanel.online",
             "server_port": 443,
-            "password": "A4u^p(_UR*F6",
+            "password": ")5,9FW.Kk166",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -771,9 +771,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/eyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
+                "path": "\/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
                 "headers": {
-                    "Host": "027.eLECTROcelLCO-cf-027.WorKerS.Dev"
+                    "Host": "028.eLECtRocEllco-Cf-028.worKErS.dev"
                 }
             }
         },
@@ -1090,7 +1090,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 7",
+            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 7",
             "type": "vless",
             "server": "link2x05342_5.temp.veraspeed.ir",
             "server_port": 80,
@@ -1104,7 +1104,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @proxystore11 | 0",
+            "tag": "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
             "type": "vmess",
             "server": "217.218.52.1",
             "server_port": 10410,
@@ -1145,7 +1145,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -1296,7 +1296,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 83",
+            "tag": "❔XX | 🔴 | vless | @kiava | 83",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -1332,7 +1332,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kiava | 84",
+            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 84",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,

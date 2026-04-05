@@ -123,7 +123,7 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 18","type":"trojan","server":"35.181.231.212","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 19","type":"trojan","server":"35.181.201.33","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"irancell.buzzmuzzpanel.online","port":443,"udp":false,"password":")5,9FW.Kk166","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"028.eLECtRocEllco-Cf-028.worKErS.dev"}
-  - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6","type":"trojan","server":"irancell.buzzmuzzpanel.online","port":443,"udp":false,"password":"A4u^p(_UR*F6","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"027.eLECTROcelLCO-cf-027.WorKerS.Dev"}
+  - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6","type":"trojan","server":"irancell.buzzmuzzpanel.online","port":443,"udp":false,"password":")5,9FW.Kk166","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"028.eLECtRocEllco-Cf-028.worKErS.dev"}
 proxy-groups:
   - name: MANUAL
     type: select
