@@ -123,8 +123,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 87",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 88",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 85",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 86",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -134,8 +134,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 6",
-                "❔XX | 🔴 | vless | @lrnbymaa | 7",
+                "❔XX | 🔴 | vless | @lrnbymaa | 6",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 7",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
@@ -171,8 +171,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 87",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 88",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 85",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 86",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -182,8 +182,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 6",
-                "❔XX | 🔴 | vless | @lrnbymaa | 7",
+                "❔XX | 🔴 | vless | @lrnbymaa | 6",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 7",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
@@ -658,7 +658,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 87",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 85",
             "type": "vless",
             "server": "str.lntunvip.com",
             "server_port": 1020,
@@ -672,34 +672,17 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 88",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 86",
             "type": "vless",
-            "server": "broad-sky-9360.k7uztejf9ief.workers.dev",
-            "server_port": 443,
-            "uuid": "bf710ad2-4a43-4379-aa73-e684f00b6240",
+            "server": "teamlifez.ir",
+            "server_port": 3000,
+            "uuid": "379becec-7e34-4281-943f-d222a981630d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "broad-sky-9360.k7uztejf9ief.workers.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "broad-sky-9360.k7uztejf9ief.workers.dev"
-                }
             }
         },
         {
@@ -911,7 +894,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 6",
+            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 6",
             "type": "vless",
             "server": "api.playshoptv.com",
             "server_port": 43173,
@@ -925,7 +908,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 7",
+            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 7",
             "type": "vless",
             "server": "link2x05342_5.temp.veraspeed.ir",
             "server_port": 80,
