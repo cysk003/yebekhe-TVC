@@ -127,7 +127,7 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
+                "🇦🇹AT | 🔴 | trojan | @oneclickvpnkeys | 5",
                 "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
@@ -144,12 +144,12 @@
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 6",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 7",
-                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
+                "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
+                "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
@@ -186,7 +186,7 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
+                "🇦🇹AT | 🔴 | trojan | @oneclickvpnkeys | 5",
                 "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
@@ -203,12 +203,12 @@
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 6",
                 "🇮🇷IR | 🔴 | vless | @lrnbymaa | 7",
-                "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
+                "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
+                "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
@@ -740,11 +740,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
+            "tag": "🇦🇹AT | 🔴 | trojan | @oneclickvpnkeys | 5",
             "type": "trojan",
-            "server": "irancell.buzzmuzzpanel.online",
-            "server_port": 443,
-            "password": ")5,9FW.Kk166",
+            "server": "87.251.69.71",
+            "server_port": 2083,
+            "password": "q2jXRWncMA7pQren_VjQKhSQfoBWK_",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -752,9 +752,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ",
+                "path": "\/trojan-ws",
                 "headers": {
-                    "Host": "028.eLECtRocEllco-Cf-028.worKErS.dev"
+                    "Host": "xo.e0f.cx"
                 }
             }
         },
@@ -771,7 +771,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==",
+                "path": "\/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ",
                 "headers": {
                     "Host": "028.eLECtRocEllco-Cf-028.worKErS.dev"
                 }
@@ -1104,7 +1104,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
+            "tag": "❔XX | 🟢 | vmess | @proxystore11 | 0",
             "type": "vmess",
             "server": "217.218.52.1",
             "server_port": 10410,
@@ -1179,7 +1179,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 0",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
@@ -1239,7 +1239,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,

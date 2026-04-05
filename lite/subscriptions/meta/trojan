@@ -124,7 +124,7 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19","type":"trojan","server":"35.181.201.33","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 18","type":"trojan","server":"35.181.231.212","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 19","type":"trojan","server":"35.181.201.33","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"irancell.buzzmuzzpanel.online","port":443,"udp":false,"password":")5,9FW.Kk166","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"028.eLECtRocEllco-Cf-028.worKErS.dev"}
+  - {"name":"🇦🇹AT | 🔴 | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"87.251.69.71","port":2083,"udp":false,"password":"q2jXRWncMA7pQren_VjQKhSQfoBWK_","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"xo.e0f.cx"}
   - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6","type":"trojan","server":"irancell.buzzmuzzpanel.online","port":443,"udp":false,"password":")5,9FW.Kk166","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"028.eLECtRocEllco-Cf-028.worKErS.dev"}
 proxy-groups:
   - name: MANUAL
@@ -136,7 +136,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 19'
-      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '🇦🇹AT | 🔴 | trojan | @oneclickvpnkeys | 5'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6'
   - name: URL-TEST
     type: url-test
@@ -148,7 +148,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 19'
-      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '🇦🇹AT | 🔴 | trojan | @oneclickvpnkeys | 5'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6'
   - name: FALLBACK
     type: fallback
@@ -159,7 +159,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 19'
-      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '🇦🇹AT | 🔴 | trojan | @oneclickvpnkeys | 5'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
