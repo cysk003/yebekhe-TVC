@@ -145,13 +145,13 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 13",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 14",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 15",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
-                "❔XX | 🔴 | vless | @rxv2ray | 0",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+                "🇧🇪BE | 🔴 | vless | @rxv2ray | 0",
                 "❔XX | 🔴 | vless | @rxv2ray | 1",
                 "🚩CF | 🔴 | vless | @rxv2ray | 3",
                 "❔XX | 🔴 | vless | @rxv2ray | 4",
@@ -239,7 +239,6 @@
                 "❔XX | 🔴 | trojan | @oneclickvpnkeys | 2",
                 "❔XX | 🔴 | trojan | @oneclickvpnkeys | 3",
                 "❔XX | 🔴 | trojan | @oneclickvpnkeys | 4",
-                "❔XX | 🔴 | trojan | @oneclickvpnkeys | 5",
                 "❔XX | 🔴 | vless | @Outline_Vpn | 0",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 1",
                 "❔XX | 🔴 | vless | @Outline_Vpn | 2",
@@ -525,13 +524,13 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 13",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 14",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 15",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
-                "❔XX | 🔴 | vless | @rxv2ray | 0",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+                "🇧🇪BE | 🔴 | vless | @rxv2ray | 0",
                 "❔XX | 🔴 | vless | @rxv2ray | 1",
                 "🚩CF | 🔴 | vless | @rxv2ray | 3",
                 "❔XX | 🔴 | vless | @rxv2ray | 4",
@@ -619,7 +618,6 @@
                 "❔XX | 🔴 | trojan | @oneclickvpnkeys | 2",
                 "❔XX | 🔴 | trojan | @oneclickvpnkeys | 3",
                 "❔XX | 🔴 | trojan | @oneclickvpnkeys | 4",
-                "❔XX | 🔴 | trojan | @oneclickvpnkeys | 5",
                 "❔XX | 🔴 | vless | @Outline_Vpn | 0",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 1",
                 "❔XX | 🔴 | vless | @Outline_Vpn | 2",
@@ -1907,7 +1905,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 11",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1977,7 +1975,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1991,7 +1989,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @rxv2ray | 0",
+            "tag": "🇧🇪BE | 🔴 | vless | @rxv2ray | 0",
             "type": "vless",
             "server": "185.158.133.158",
             "server_port": 2096,
@@ -3924,25 +3922,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | trojan | @oneclickvpnkeys | 5",
-            "type": "trojan",
-            "server": "91.184.250.116",
-            "server_port": 2083,
-            "password": "q2jXRWncMA7pQren_VjQKhSQfoBWK_",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/trojan-ws",
-                "headers": {
-                    "Host": "xo.e0f.cx"
-                }
             }
         },
         {
