@@ -132,7 +132,7 @@ proxies:
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 9","type":"trojan","server":"3.72.189.223","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 10","type":"trojan","server":"15.224.68.36","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 11","type":"trojan","server":"3.72.196.114","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12","type":"trojan","server":"15.188.149.87","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 12","type":"trojan","server":"15.188.149.87","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 13","type":"trojan","server":"13.36.185.49","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 14","type":"trojan","server":"18.193.170.62","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 15","type":"trojan","server":"13.38.154.88","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
@@ -160,10 +160,11 @@ proxies:
   - {"name":"❔XX | 🟢 | trojan | @DirectVPN | 17","type":"trojan","server":"15.188.235.241","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @DirectVPN | 18","type":"trojan","server":"15.188.250.243","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @DirectVPN | 19","type":"trojan","server":"63.183.56.27","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 1","type":"trojan","server":"82.26.155.3","port":10369,"udp":false,"password":"n5ix4FcMQYENMQPL YKbvyJ8nZ84 bNTsj","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"fra34.chasem2026sud.com"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 3","type":"trojan","server":"130.0.234.160","port":2083,"udp":false,"password":"q2jXRWncMA7pQren_VjQKhSQfoBWK_","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"xo.e0f.cx"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 4","type":"trojan","server":"178.172.212.105","port":2083,"udp":false,"password":"q2jXRWncMA7pQren_VjQKhSQfoBWK_","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"xo.e0f.cx"}
-  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"172.64.147.24","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.gossipglove.com"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 0","type":"trojan","server":"bestcf.030101.xyz","port":443,"udp":false,"password":"6202b230-417c-4d8e-b624-0f71afa9c75d","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sni.111000.dynv6.net"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 2","type":"trojan","server":"82.26.155.3","port":10369,"udp":false,"password":"n5ix4FcMQYENMQPL YKbvyJ8nZ84 bNTsj","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"fra34.chasem2026sud.com"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 4","type":"trojan","server":"130.0.234.160","port":2083,"udp":false,"password":"q2jXRWncMA7pQren_VjQKhSQfoBWK_","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"xo.e0f.cx"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"178.172.212.105","port":2083,"udp":false,"password":"q2jXRWncMA7pQren_VjQKhSQfoBWK_","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"xo.e0f.cx"}
+  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 6","type":"trojan","server":"172.64.147.24","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.gossipglove.com"}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1","type":"trojan","server":"104.18.32.47","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
 proxy-groups:
   - name: MANUAL
@@ -183,7 +184,7 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 9'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 10'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 11'
-      - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12'
+      - '❔XX | 🟢 | trojan | @PrivateVPNs | 12'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 13'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 14'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 15'
@@ -211,10 +212,11 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @DirectVPN | 17'
       - '❔XX | 🟢 | trojan | @DirectVPN | 18'
       - '❔XX | 🟢 | trojan | @DirectVPN | 19'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 3'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 0'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 2'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 4'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 6'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
   - name: URL-TEST
     type: url-test
@@ -234,7 +236,7 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 9'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 10'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 11'
-      - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12'
+      - '❔XX | 🟢 | trojan | @PrivateVPNs | 12'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 13'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 14'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 15'
@@ -262,10 +264,11 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @DirectVPN | 17'
       - '❔XX | 🟢 | trojan | @DirectVPN | 18'
       - '❔XX | 🟢 | trojan | @DirectVPN | 19'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 3'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 0'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 2'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 4'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 6'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
   - name: FALLBACK
     type: fallback
@@ -284,7 +287,7 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 9'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 10'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 11'
-      - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12'
+      - '❔XX | 🟢 | trojan | @PrivateVPNs | 12'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 13'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 14'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 15'
@@ -312,10 +315,11 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @DirectVPN | 17'
       - '❔XX | 🟢 | trojan | @DirectVPN | 18'
       - '❔XX | 🟢 | trojan | @DirectVPN | 19'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 3'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 0'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 2'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 4'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 6'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
