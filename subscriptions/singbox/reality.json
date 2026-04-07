@@ -114,8 +114,7 @@
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🔴 | vless | @prrofile_purple | 68",
                 "❔XX | 🟢 | vless | @prrofile_purple | 84",
-                "❔XX | 🔴 | vless | @lrnbymaa | 1",
-                "❔XX | 🟢 | vless | @lrnbymaa | 3",
+                "❔XX | 🔴 | vless | @lrnbymaa | 4",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -140,12 +139,12 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 41",
                 "❔XX | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇲🇩MD | 🟢 | vless | @FreakConfig | 0",
-                "🇨🇭CH | 🟢 | vless | @FreakConfig | 2",
-                "🇵🇱PL | 🟢 | vless | @FreakConfig | 4",
-                "🇳🇱NL | 🔴 | vless | @FreakConfig | 7",
-                "🇩🇪DE | 🟢 | vless | @kiava | 48",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vless | @FreakConfig | 0",
+                "❔XX | 🟢 | vless | @FreakConfig | 2",
+                "❔XX | 🟢 | vless | @FreakConfig | 4",
+                "❔XX | 🔴 | vless | @FreakConfig | 7",
+                "❔XX | 🟢 | vless | @kiava | 48",
                 "❔XX | 🔴 | vless | @kiava | 52",
                 "❔XX | 🟢 | vless | @kiava | 53",
                 "❔XX | 🟢 | vless | @kiava | 54",
@@ -182,8 +181,7 @@
                 "❔XX | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🔴 | vless | @prrofile_purple | 68",
                 "❔XX | 🟢 | vless | @prrofile_purple | 84",
-                "❔XX | 🔴 | vless | @lrnbymaa | 1",
-                "❔XX | 🟢 | vless | @lrnbymaa | 3",
+                "❔XX | 🔴 | vless | @lrnbymaa | 4",
                 "❔XX | 🔴 | vless | @Capital_NET | 6",
                 "❔XX | 🟢 | vless | @Capital_NET | 8",
                 "❔XX | 🔴 | vless | @Capital_NET | 9",
@@ -208,12 +206,12 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 41",
                 "❔XX | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇲🇩MD | 🟢 | vless | @FreakConfig | 0",
-                "🇨🇭CH | 🟢 | vless | @FreakConfig | 2",
-                "🇵🇱PL | 🟢 | vless | @FreakConfig | 4",
-                "🇳🇱NL | 🔴 | vless | @FreakConfig | 7",
-                "🇩🇪DE | 🟢 | vless | @kiava | 48",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🟢 | vless | @FreakConfig | 0",
+                "❔XX | 🟢 | vless | @FreakConfig | 2",
+                "❔XX | 🟢 | vless | @FreakConfig | 4",
+                "❔XX | 🔴 | vless | @FreakConfig | 7",
+                "❔XX | 🟢 | vless | @kiava | 48",
                 "❔XX | 🔴 | vless | @kiava | 52",
                 "❔XX | 🟢 | vless | @kiava | 53",
                 "❔XX | 🟢 | vless | @kiava | 54",
@@ -511,36 +509,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 1",
-            "type": "vless",
-            "server": "185.238.140.212",
-            "server_port": 443,
-            "uuid": "6fb4c229-6f9a-449a-a533-9f2a8040c71c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.microsoft.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE",
-                    "short_id": "6ba85179e30d4fc2"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 3",
+            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 4",
             "type": "vless",
             "server": "185.238.140.212",
             "server_port": 443,
@@ -1293,7 +1262,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -1322,7 +1291,7 @@
             }
         },
         {
-            "tag": "🇲🇩MD | 🟢 | vless | @FreakConfig | 0",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 0",
             "type": "vless",
             "server": "3.cdnconn.com",
             "server_port": 23335,
@@ -1351,7 +1320,7 @@
             }
         },
         {
-            "tag": "🇨🇭CH | 🟢 | vless | @FreakConfig | 2",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 2",
             "type": "vless",
             "server": "185.227.149.123",
             "server_port": 443,
@@ -1380,7 +1349,7 @@
             }
         },
         {
-            "tag": "🇵🇱PL | 🟢 | vless | @FreakConfig | 4",
+            "tag": "❔XX | 🟢 | vless | @FreakConfig | 4",
             "type": "vless",
             "server": "45.136.126.16",
             "server_port": 443,
@@ -1409,7 +1378,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @FreakConfig | 7",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 7",
             "type": "vless",
             "server": "195.26.224.112",
             "server_port": 8443,
@@ -1438,7 +1407,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @kiava | 48",
+            "tag": "❔XX | 🟢 | vless | @kiava | 48",
             "type": "vless",
             "server": "57.129.53.181",
             "server_port": 23576,
