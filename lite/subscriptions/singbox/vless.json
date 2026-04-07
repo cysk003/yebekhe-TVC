@@ -123,8 +123,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
-                "🇮🇷IR | 🟢 | vless | @prrofile_purple | 87",
-                "❔XX | 🔴 | vless | @prrofile_purple | 88",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 92",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 93",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -135,13 +135,14 @@
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 2",
-                "❔XX | 🟢 | vless | @lrnbymaa | 3",
+                "❔XX | 🔴 | vless | @lrnbymaa | 3",
+                "❔XX | 🔴 | vless | @lrnbymaa | 4",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capoit | 0",
                 "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
-                "🇮🇷IR | 🔴 | vless | @flyv2ray | 0",
+                "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
                 "❔XX | 🔴 | vless | @kiava | 84",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
@@ -172,8 +173,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
-                "🇮🇷IR | 🟢 | vless | @prrofile_purple | 87",
-                "❔XX | 🔴 | vless | @prrofile_purple | 88",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 92",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 93",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -184,13 +185,14 @@
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 2",
-                "❔XX | 🟢 | vless | @lrnbymaa | 3",
+                "❔XX | 🔴 | vless | @lrnbymaa | 3",
+                "❔XX | 🔴 | vless | @lrnbymaa | 4",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capoit | 0",
                 "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
-                "🇮🇷IR | 🔴 | vless | @flyv2ray | 0",
+                "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
                 "❔XX | 🔴 | vless | @kiava | 84",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
@@ -660,35 +662,25 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vless | @prrofile_purple | 87",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 92",
             "type": "vless",
-            "server": "mlh.mynethub99.top",
+            "server": "ir.gafe-lorbad.ir",
             "server_port": 443,
-            "uuid": "18e35ca4-4b6e-43dd-9c28-b3ef89966821",
+            "uuid": "22753114-c3cb-4613-9f2d-759a871489f7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mlh.mynethub99.top",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 88",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 93",
             "type": "vless",
-            "server": "tun2.wopeq.com",
-            "server_port": 921,
-            "uuid": "898f08d1-f64a-4cc1-8e70-5e9b3a2494dc",
+            "server": "porttt4.webchipro2.ir",
+            "server_port": 3040,
+            "uuid": "b9653688-1470-f844-f106-a12f10fb3517",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -920,21 +912,28 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 2",
+            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 3",
             "type": "vless",
-            "server": "188.121.106.138",
-            "server_port": 10449,
-            "uuid": "c5b1ca44-9e31-4b46-94e8-2c7e8386d98d",
+            "server": "37.152.189.74",
+            "server_port": 4431,
+            "uuid": "37f2b456-5c0a-43da-be12-753c86393bdc",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/ek\/irinn\/live\/1080p\/",
+                "headers": {
+                    "Host": "37.152.189.74"
+                }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 3",
+            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 4",
             "type": "vless",
             "server": "185.238.140.212",
             "server_port": 443,
@@ -1023,7 +1022,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -1052,6 +1051,37 @@
             }
         },
         {
+            "tag": "❔XX | 🔴 | vless | @Capoit | 0",
+            "type": "vless",
+            "server": "78.158.166.180",
+            "server_port": 2096,
+            "uuid": "e911c552-3a98-41e0-b5fb-0dd3879887b7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "vod.ensf.top",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/api\/v1\/irc",
+                "headers": {
+                    "Host": "vod.ensf.top"
+                }
+            }
+        },
+        {
             "tag": "🇸🇪SE | 🔴 | vless | @FreakConfig | 11",
             "type": "vless",
             "server": "dd.openaccessnode.com",
@@ -1066,7 +1096,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @flyv2ray | 0",
+            "tag": "❔XX | 🔴 | vless | @flyv2ray | 0",
             "type": "vless",
             "server": "v4.mesterking8786.cfd",
             "server_port": 55948,
