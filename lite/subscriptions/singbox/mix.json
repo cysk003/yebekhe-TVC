@@ -127,14 +127,12 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 2",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "🇺🇦UA | 🔴 | trojan | @oneclickvpnkeys | 4",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 90",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 91",
-                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
-                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
@@ -147,10 +145,10 @@
                 "🇮🇷IR | 🟢 | vless | @lrnbymaa | 3",
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "❔XX | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
@@ -187,14 +185,12 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 2",
                 "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "🇺🇦UA | 🔴 | trojan | @oneclickvpnkeys | 4",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 15",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 90",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 91",
-                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
-                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
@@ -207,10 +203,10 @@
                 "🇮🇷IR | 🟢 | vless | @lrnbymaa | 3",
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "❔XX | 🟢 | vmess | @yaney_01 | 5",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
@@ -742,6 +738,18 @@
             }
         },
         {
+            "tag": "🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 2",
+            "type": "trojan",
+            "server": "82.26.155.3",
+            "server_port": 10369,
+            "password": "n5ix4FcMQYENMQPL YKbvyJ8nZ84 bNTsj",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
             "type": "vmess",
             "server": null,
@@ -756,25 +764,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇦UA | 🔴 | trojan | @oneclickvpnkeys | 4",
-            "type": "trojan",
-            "server": "130.0.234.160",
-            "server_port": 2083,
-            "password": "q2jXRWncMA7pQren_VjQKhSQfoBWK_",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/trojan-ws",
-                "headers": {
-                    "Host": "xo.e0f.cx"
-                }
             }
         },
         {
@@ -859,34 +848,6 @@
             "server": "th.gostargate.top",
             "server_port": 49961,
             "uuid": "2a78b500-a49c-4e66-8735-4413dddad030",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
-            "type": "vless",
-            "server": "de-2-tun-single.starping1.fun",
-            "server_port": 8083,
-            "uuid": "ee73ff6e-af32-43df-854e-754253bd1bd8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 7",
-            "type": "vless",
-            "server": "185.136.135.164",
-            "server_port": 8086,
-            "uuid": "541de3b2-5b5f-4e27-b671-f32b28b811af",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1174,7 +1135,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -1268,7 +1229,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
+            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
