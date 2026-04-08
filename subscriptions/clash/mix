@@ -118,12 +118,12 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
-  - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 0","type":"trojan","server":"35.181.184.47","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 0","type":"trojan","server":"35.181.184.47","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 1","type":"trojan","server":"51.102.234.18","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 2","type":"trojan","server":"51.45.56.96","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 3","type":"trojan","server":"35.157.169.92","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 4","type":"trojan","server":"13.39.166.165","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 5","type":"trojan","server":"18.156.124.169","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 5","type":"trojan","server":"18.156.124.169","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 6","type":"trojan","server":"52.47.115.113","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 7","type":"trojan","server":"13.36.197.1","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @PrivateVPNs | 8","type":"trojan","server":"3.121.164.51","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
@@ -188,12 +188,12 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
-      - '❔XX | 🟢 | trojan | @PrivateVPNs | 0'
+      - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 0'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 1'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 2'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 3'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 4'
-      - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 5'
+      - '❔XX | 🟢 | trojan | @PrivateVPNs | 5'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 6'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 7'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 8'
@@ -258,12 +258,12 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - '❔XX | 🟢 | trojan | @PrivateVPNs | 0'
+      - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 0'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 1'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 2'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 3'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 4'
-      - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 5'
+      - '❔XX | 🟢 | trojan | @PrivateVPNs | 5'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 6'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 7'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 8'
@@ -327,12 +327,12 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - '❔XX | 🟢 | trojan | @PrivateVPNs | 0'
+      - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 0'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 1'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 2'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 3'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 4'
-      - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 5'
+      - '❔XX | 🟢 | trojan | @PrivateVPNs | 5'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 6'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 7'
       - '❔XX | 🟢 | trojan | @PrivateVPNs | 8'
