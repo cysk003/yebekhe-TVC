@@ -107,11 +107,10 @@
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
-                "🇧🇷BR | 🔴 | vless | @prrofile_purple | 77",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇩🇪DE | 🔴 | vless | @kiava | 83",
-                "🇩🇪DE | 🔴 | vless | @kiava | 84",
+                "❔XX | 🔴 | vless | @kiava | 83",
+                "❔XX | 🔴 | vless | @kiava | 84",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ]
@@ -121,11 +120,10 @@
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
-                "🇧🇷BR | 🔴 | vless | @prrofile_purple | 77",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
-                "🇩🇪DE | 🔴 | vless | @kiava | 83",
-                "🇩🇪DE | 🔴 | vless | @kiava | 84",
+                "❔XX | 🔴 | vless | @kiava | 83",
+                "❔XX | 🔴 | vless | @kiava | 84",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19"
             ],
@@ -176,42 +174,6 @@
                     "public_key": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
                     "short_id": "f32140952ba18e18"
                 }
-            }
-        },
-        {
-            "tag": "🇧🇷BR | 🔴 | vless | @prrofile_purple | 77",
-            "type": "vless",
-            "server": "104.64.32.87",
-            "server_port": 443,
-            "uuid": "1effb118-1f2d-4577-a689-20e21fb50b13",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.telewebion.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "LXCcjZmNLdp52SG4KRQ6n_yTjkMO9ZkxQGBf3RJ8tiM",
-                    "short_id": "cf5415b64e15"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "mci.ir",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
@@ -273,7 +235,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 83",
+            "tag": "❔XX | 🔴 | vless | @kiava | 83",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -309,7 +271,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kiava | 84",
+            "tag": "❔XX | 🔴 | vless | @kiava | 84",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
