@@ -173,7 +173,6 @@ proxies:
   - {"name":"❔XX | 🟢 | vmess | @mftizi | 16","type":"vmess","server":"120.232.153.27","port":"58831","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"8ZQi@172.64.147.106:2096?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tr&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 0","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 1","type":"trojan","server":"www.gossipglove.com","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 3","type":"trojan","server":"82.26.155.199","port":10369,"udp":false,"password":"n5ix4FcMQYENMQPL YKbvyJ8nZ84 bNTsj","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"fra4.chasem2026sud.com"}
   - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 50","type":"vmess","server":"mel.usdtbama.com","port":"8443","cipher":"auto","uuid":"b4a513cd-bedc-4b72-9af0-aee1827e1de0","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1","type":"trojan","server":"104.18.32.47","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
   - {"name":"❔XX | 🟢 | vmess | @proxystore11 | 0","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -243,7 +242,6 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @mftizi | 16'
       - '8ZQi@172.64.147.106:2096?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tr&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 0'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 3'
       - '❔XX | 🟢 | vmess | @prrofile_purple | 50'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '❔XX | 🟢 | vmess | @proxystore11 | 0'
@@ -313,7 +311,6 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @mftizi | 16'
       - '8ZQi@172.64.147.106:2096?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tr&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 0'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 3'
       - '❔XX | 🟢 | vmess | @prrofile_purple | 50'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '❔XX | 🟢 | vmess | @proxystore11 | 0'
@@ -382,7 +379,6 @@ proxy-groups:
       - '❔XX | 🟢 | vmess | @mftizi | 16'
       - '8ZQi@172.64.147.106:2096?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/tr&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 0'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 3'
       - '❔XX | 🟢 | vmess | @prrofile_purple | 50'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '❔XX | 🟢 | vmess | @proxystore11 | 0'
