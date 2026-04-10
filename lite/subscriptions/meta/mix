@@ -156,7 +156,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19","type":"vless","server":"172.66.40.99","port":8080,"udp":false,"uuid":"92ee6cfa-a6c2-48ec-b833-b072975c7177","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | vless | @MehradLearn | 0","type":"vless","server":"cdn4.eswap.ir","port":2087,"udp":false,"uuid":"0a229011-1db0-4dd5-916e-e18c668b4e9e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"ge.adamz.site","ws-opts":{"path":"/kos nane/khameneee/","headers":{"host":"ge.adamz.site"}}}
   - {"name":"❔XX | 🔴 | vless | @MehradLearn | 1","type":"vless","server":"104.17.74.206","port":2053,"udp":false,"uuid":"a3f952f1-142f-435f-9e82-e19581874fce","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"afranet1.nitromobile.online","ws-opts":{"path":"/JeiwoBjOYwhwoabA","headers":{"host":"afranet.nitromobile.online"}}}
-  - {"name":"❔XX | 🔴 | vless | @lrnbymaa | 0","type":"vless","server":"varzesh3.com","port":443,"udp":false,"uuid":"c387b0f2-5d9e-4c95-882d-1d5eeb443ce2","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir","ws-opts":{"path":"/movie","headers":{"host":"nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir"}}}
+  - {"name":"🇮🇷IR | 🔴 | vless | @lrnbymaa | 0","type":"vless","server":"varzesh3.com","port":443,"udp":false,"uuid":"c387b0f2-5d9e-4c95-882d-1d5eeb443ce2","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir","ws-opts":{"path":"/movie","headers":{"host":"nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir"}}}
   - {"name":"❔XX | 🔴 | vless | @lrnbymaa | 1","type":"vless","server":"tangerine-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir","port":443,"udp":false,"uuid":"8c53daee-2173-4889-a483-4f698b4b0432","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"t","ws-opts":{"path":"/vless","headers":{"host":"tangerine-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir"}}}
   - {"name":"❔XX | 🟢 | vmess | @proxystore11 | 0","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
@@ -213,7 +213,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19'
       - '❔XX | 🔴 | vless | @MehradLearn | 0'
       - '❔XX | 🔴 | vless | @MehradLearn | 1'
-      - '❔XX | 🔴 | vless | @lrnbymaa | 0'
+      - '🇮🇷IR | 🔴 | vless | @lrnbymaa | 0'
       - '❔XX | 🔴 | vless | @lrnbymaa | 1'
       - '❔XX | 🟢 | vmess | @proxystore11 | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
@@ -270,7 +270,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19'
       - '❔XX | 🔴 | vless | @MehradLearn | 0'
       - '❔XX | 🔴 | vless | @MehradLearn | 1'
-      - '❔XX | 🔴 | vless | @lrnbymaa | 0'
+      - '🇮🇷IR | 🔴 | vless | @lrnbymaa | 0'
       - '❔XX | 🔴 | vless | @lrnbymaa | 1'
       - '❔XX | 🟢 | vmess | @proxystore11 | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
@@ -326,7 +326,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19'
       - '❔XX | 🔴 | vless | @MehradLearn | 0'
       - '❔XX | 🔴 | vless | @MehradLearn | 1'
-      - '❔XX | 🔴 | vless | @lrnbymaa | 0'
+      - '🇮🇷IR | 🔴 | vless | @lrnbymaa | 0'
       - '❔XX | 🔴 | vless | @lrnbymaa | 1'
       - '❔XX | 🟢 | vmess | @proxystore11 | 0'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
