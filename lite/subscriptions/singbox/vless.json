@@ -127,8 +127,8 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 70",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 5",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 6",
+                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
-                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
@@ -136,8 +136,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 0",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @lrnbymaa | 0",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -180,8 +180,8 @@
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 70",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 5",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 6",
+                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
-                "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
@@ -189,8 +189,8 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 0",
+                "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🔴 | vless | @lrnbymaa | 0",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -745,11 +745,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
             "type": "vless",
-            "server": "VIP2.xQFire.iR",
-            "server_port": 811,
-            "uuid": "f25e7ea5-ef6b-4f63-8617-8151ca31b7b1",
+            "server": "v2.royalway.shop",
+            "server_port": 2053,
+            "uuid": "c3a8f526-6f41-4884-adb8-f33b4ec30fa6",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -759,11 +759,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 6",
+            "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
             "type": "vless",
-            "server": "de-2-tun-single.starping1.fun",
-            "server_port": 8083,
-            "uuid": "ee73ff6e-af32-43df-854e-754253bd1bd8",
+            "server": "VIP2.xQFire.iR",
+            "server_port": 811,
+            "uuid": "f25e7ea5-ef6b-4f63-8617-8151ca31b7b1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -936,7 +936,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @MehradLearn | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @MehradLearn | 1",
             "type": "vless",
             "server": "104.17.74.206",
             "server_port": 2053,
@@ -967,7 +967,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 0",
+            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 0",
             "type": "vless",
             "server": "varzesh3.com",
             "server_port": 443,
