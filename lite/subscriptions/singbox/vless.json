@@ -106,7 +106,6 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @XsV2ray | 1",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
@@ -124,8 +123,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 72",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 73",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 69",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 70",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 5",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 6",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -135,10 +134,10 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
-                "❔XX | 🔴 | vless | @VmessProtocol | 0",
+                "🇩🇪DE | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "❔XX | 🔴 | vless | @lrnbymaa | 0",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 0",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -160,7 +159,6 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @XsV2ray | 1",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
@@ -178,8 +176,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 72",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 73",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 69",
+                "🇺🇸US | 🔴 | vless | @prrofile_purple | 70",
                 "🇮🇷IR | 🔴 | vless | @vmessorg | 5",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 6",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -189,10 +187,10 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
-                "❔XX | 🔴 | vless | @VmessProtocol | 0",
+                "🇩🇪DE | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "❔XX | 🔴 | vless | @lrnbymaa | 0",
+                "🇮🇷IR | 🔴 | vless | @lrnbymaa | 0",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
@@ -228,20 +226,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @XsV2ray | 1",
-            "type": "vless",
-            "server": "am3.estarlink1.us",
-            "server_port": 51234,
-            "uuid": "a8ec0c05-e040-4b7c-b04d-39bd63db4661",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
         },
         {
             "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
@@ -681,11 +665,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 72",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 69",
             "type": "vless",
-            "server": "dlc-new11.persianpinggame.com",
-            "server_port": 5111,
-            "uuid": "d061c520-1cdb-11f1-972f-92000723b4ab",
+            "server": "2.188.227.168",
+            "server_port": 43291,
+            "uuid": "2824261c-ab99-4af9-99fd-1a95c7da493d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -695,11 +679,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 73",
+            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 70",
             "type": "vless",
-            "server": "172.237.128.199",
-            "server_port": 443,
-            "uuid": "fae38aae-0342-4752-834d-",
+            "server": "151.101.65.57",
+            "server_port": 80,
+            "uuid": "2ed83fb1-6873-439f-abf8-a58015358802",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -907,7 +891,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @VmessProtocol | 0",
             "type": "vless",
             "server": "3.127.218.176",
             "server_port": 443,
@@ -983,7 +967,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 0",
+            "tag": "🇮🇷IR | 🔴 | vless | @lrnbymaa | 0",
             "type": "vless",
             "server": "varzesh3.com",
             "server_port": 443,
