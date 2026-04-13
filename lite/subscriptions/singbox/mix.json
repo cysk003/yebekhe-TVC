@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Parsashonam | 2",
+                "❔XX | 🔴 | vless | @Parsashonam | 3",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
@@ -142,9 +142,9 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @ServerNett | 2",
                 "🇺🇸US | 🔴 | vless | @ServerNett | 3",
-                "❔XX | 🔴 | vless | @v2ray_swhil | 43",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "❔XX | 🔴 | vless | @vless_vmess | 18",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
+                "❔XX | 🔴 | vless | @v2ray_swhil | 44",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 0",
@@ -175,7 +175,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Parsashonam | 2",
+                "❔XX | 🔴 | vless | @Parsashonam | 3",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
@@ -211,9 +211,9 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🇺🇸US | 🔴 | vless | @ServerNett | 2",
                 "🇺🇸US | 🔴 | vless | @ServerNett | 3",
-                "❔XX | 🔴 | vless | @v2ray_swhil | 43",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "❔XX | 🔴 | vless | @vless_vmess | 18",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
+                "❔XX | 🔴 | vless | @v2ray_swhil | 44",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 0",
@@ -260,7 +260,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 2",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 3",
             "type": "vless",
             "server": "127.0.0.1",
             "server_port": 40443,
@@ -1116,7 +1116,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2ray_swhil | 43",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -1147,7 +1147,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
+            "tag": "❔XX | 🔴 | vless | @v2ray_swhil | 44",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -1178,7 +1178,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @vless_vmess | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
             "type": "vless",
             "server": "172.67.141.140",
             "server_port": 8880,
