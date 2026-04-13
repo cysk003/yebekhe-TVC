@@ -128,8 +128,8 @@
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 31",
@@ -142,7 +142,7 @@
                 "🇺🇸US | 🔴 | vless | @ServerNett | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "❔XX | 🔴 | vless | @vless_vmess | 18",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @VmessProtocol | 0",
@@ -196,8 +196,8 @@
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
-                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 31",
@@ -210,7 +210,7 @@
                 "🇺🇸US | 🔴 | vless | @ServerNett | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "❔XX | 🔴 | vless | @vless_vmess | 18",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @VmessProtocol | 0",
@@ -776,7 +776,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2",
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3",
             "type": "trojan",
             "server": "www.multiplydose.com",
             "server_port": 443,
@@ -795,7 +795,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 3",
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
             "type": "vmess",
             "server": null,
             "server_port": 0,
@@ -1116,7 +1116,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @vless_vmess | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
             "type": "vless",
             "server": "172.67.141.140",
             "server_port": 8880,
