@@ -142,10 +142,10 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 2",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 9",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 10",
+                "❔XX | 🔴 | vless | @v2rayngvpn | 8",
+                "❔XX | 🔴 | vless | @v2rayngvpn | 9",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 3",
-                "❔XX | 🔴 | vless | @FalconPolV2rayNG | 4",
+                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "❔XX | 🟢 | vless | @ShadowProxy66 | 3",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 4",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 43",
@@ -221,10 +221,10 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 2",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 9",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 10",
+                "❔XX | 🔴 | vless | @v2rayngvpn | 8",
+                "❔XX | 🔴 | vless | @v2rayngvpn | 9",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 3",
-                "❔XX | 🔴 | vless | @FalconPolV2rayNG | 4",
+                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "❔XX | 🟢 | vless | @ShadowProxy66 | 3",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 4",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 43",
@@ -1164,7 +1164,28 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 9",
+            "tag": "❔XX | 🔴 | vless | @v2rayngvpn | 8",
+            "type": "vless",
+            "server": "185.143.234.235",
+            "server_port": 80,
+            "uuid": "20bc570b-0d2e-4514-832b-f588d416bdf2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "185.143.234.235"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @v2rayngvpn | 9",
             "type": "vless",
             "server": "104.18.16.56",
             "server_port": 80,
@@ -1185,37 +1206,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 10",
-            "type": "vless",
-            "server": "172.64.152.23",
-            "server_port": 8443,
-            "uuid": "b179aef9-46a6-4e21-9a15-d21139c705b9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "line.smartphone1.top",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/shop",
-                "headers": {
-                    "Host": "line.smartphone1.top"
-                }
-            }
-        },
-        {
             "tag": "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 3",
             "type": "vless",
             "server": "37.156.145.183",
@@ -1230,7 +1220,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FalconPolV2rayNG | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
             "type": "vless",
             "server": "v2.royalway.shop",
             "server_port": 2053,
