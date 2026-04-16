@@ -133,8 +133,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6",
+                "🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 3",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🟢 | vless | @prrofile_purple | 16",
@@ -150,7 +150,7 @@
                 "❔XX | 🔴 | vless | @FalconPolV2rayNG | 2",
                 "❔XX | 🟢 | vless | @ShadowProxy66 | 3",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 4",
-                "❔XX | 🔴 | vless | @v2ray_swhil | 43",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 44",
                 "❔XX | 🔴 | vless | @v2ray1_ng | 0",
                 "❔XX | 🔴 | vless | @vless_vmess | 18",
@@ -159,6 +159,7 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🟢 | vless | @lrnbymaa | 1",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
@@ -213,8 +214,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6",
+                "🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 3",
+                "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇨🇷CR | 🟢 | vless | @Outline_Vpn | 14",
                 "🇺🇸US | 🟢 | vless | @prrofile_purple | 16",
@@ -230,7 +231,7 @@
                 "❔XX | 🔴 | vless | @FalconPolV2rayNG | 2",
                 "❔XX | 🟢 | vless | @ShadowProxy66 | 3",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 4",
-                "❔XX | 🔴 | vless | @v2ray_swhil | 43",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 44",
                 "❔XX | 🔴 | vless | @v2ray1_ng | 0",
                 "❔XX | 🔴 | vless | @vless_vmess | 18",
@@ -239,6 +240,7 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
+                "❔XX | 🟢 | vless | @lrnbymaa | 1",
                 "❔XX | 🟢 | vmess | @proxystore11 | 0",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5",
@@ -961,41 +963,32 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 5",
+            "tag": "🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 3",
             "type": "trojan",
-            "server": "www.ignitelimit.com",
-            "server_port": 443,
-            "password": "humanity",
+            "server": "82.26.155.20",
+            "server_port": 10369,
+            "password": "n5ix4FcMQYENMQPL YKbvyJ8nZ84 bNTsj",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/assignment",
-                "headers": {
-                    "Host": "www.ignitelimit.com"
-                }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6",
-            "type": "trojan",
-            "server": "bestcf.030101.xyz",
-            "server_port": 443,
-            "password": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+            "tag": "❔XX | 🟢 | vmess | @oneclickvpnkeys | 4",
+            "type": "vmess",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?proxyip=ip.111000.de5.net:443",
-                "headers": {
-                    "Host": "sni.111000.dynv6.net"
-                }
             }
         },
         {
@@ -1369,7 +1362,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2ray_swhil | 43",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -1590,6 +1583,37 @@
                 "path": "\/JeiwoBjOYwhwoabA",
                 "headers": {
                     "Host": "afranet1.nitromobile.online"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | @lrnbymaa | 1",
+            "type": "vless",
+            "server": "8.6.112.6",
+            "server_port": 2083,
+            "uuid": "eb211fb7-40c8-4314-8b67-7b5f025e0f62",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "kamalnet.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "kamalnet.pages.dev"
                 }
             }
         },
