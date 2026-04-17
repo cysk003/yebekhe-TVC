@@ -121,8 +121,6 @@
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇮🇷IR | 🔴 | vless | @DigiV2ray | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @azadi_az_inja_migzare | 0",
@@ -143,8 +141,8 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 1",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 2",
-                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 7",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 8",
+                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 9",
                 "❔XX | 🔴 | vless | @FalconPolV2rayNG | 1",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 2",
                 "🇺🇸US | 🟢 | vless | @ShadowProxy66 | 3",
@@ -177,7 +175,7 @@
                 "🇺🇸US | 🔴 | vless | @proxy_mtm | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
-                "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
+                "❔XX | 🔴 | vless | @GozargahVPN | 0",
                 "❔XX | 🔴 | vless | @GozargahVPN | 1",
                 "❔XX | 🔴 | vless | @V2FETCH | 0"
             ]
@@ -201,8 +199,6 @@
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇮🇷IR | 🔴 | vless | @DigiV2ray | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @azadi_az_inja_migzare | 0",
@@ -223,8 +219,8 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 1",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 2",
-                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 7",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 8",
+                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 9",
                 "❔XX | 🔴 | vless | @FalconPolV2rayNG | 1",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 2",
                 "🇺🇸US | 🟢 | vless | @ShadowProxy66 | 3",
@@ -257,7 +253,7 @@
                 "🇺🇸US | 🔴 | vless | @proxy_mtm | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
-                "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
+                "❔XX | 🔴 | vless | @GozargahVPN | 0",
                 "❔XX | 🔴 | vless | @GozargahVPN | 1",
                 "❔XX | 🔴 | vless | @V2FETCH | 0"
             ],
@@ -683,41 +679,6 @@
                 "path": "\/api?ed=2560",
                 "headers": {
                     "Host": "streamchat.ikoochi.ir."
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
-            "type": "vless",
-            "server": "fuckrc.enhanzy.com",
-            "server_port": 443,
-            "uuid": "c2bf8051-3fce-4e16-b10c-ca15176136b5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 2",
-            "type": "vless",
-            "server": "arvancloud.ir",
-            "server_port": 80,
-            "uuid": "42dd8cfc-623b-4762-8edd-8c8115d6e7d7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@TunizoNET",
-                "headers": {
-                    "Host": "arvancloud.ir"
                 }
             }
         },
@@ -1215,65 +1176,38 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 7",
-            "type": "vless",
-            "server": "185.143.233.5",
-            "server_port": 443,
-            "uuid": "46144235-a781-49bd-82ce-4ed4c979e863",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "bn.8lack.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/chat?ed=128",
-                "headers": {
-                    "Host": "bn.8lack.ir"
-                }
-            }
-        },
-        {
             "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 8",
             "type": "vless",
-            "server": "45.82.136.188",
-            "server_port": 443,
-            "uuid": "f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f",
+            "server": "185.143.235.253",
+            "server_port": 2082,
+            "uuid": "0642ef1b-734a-4e64-95d7-a9dbe92035d8",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "webassets.cafebazaar.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
             },
             "transport": {
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "webassets.cafebazaar.ir"
+                    "Host": "185.143.235.253"
                 }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 9",
+            "type": "vless",
+            "server": "194.59.171.217",
+            "server_port": 14774,
+            "uuid": "3be173d0-06d0-4631-a491-4945449ed28e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
@@ -2102,7 +2036,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
+            "tag": "❔XX | 🔴 | vless | @GozargahVPN | 0",
             "type": "vless",
             "server": "104.17.72.206",
             "server_port": 443,
