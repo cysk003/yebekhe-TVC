@@ -142,8 +142,8 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 0",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 1",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 7",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 8",
+                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 6",
+                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 7",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 0",
                 "❔XX | 🔴 | vless | @FalconPolV2rayNG | 1",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 0",
@@ -219,8 +219,8 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 0",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 1",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 7",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 8",
+                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 6",
+                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 7",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 0",
                 "❔XX | 🔴 | vless | @FalconPolV2rayNG | 1",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 0",
@@ -931,6 +931,25 @@
         {
             "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3",
             "type": "trojan",
+            "server": "104.17.150.76",
+            "server_port": 443,
+            "password": "humanity",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/assignment",
+                "headers": {
+                    "Host": "www.calmloud.com"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4",
+            "type": "trojan",
             "server": "chatgpt.com",
             "server_port": 443,
             "password": "humanity",
@@ -944,25 +963,6 @@
                 "path": "\/assignment",
                 "headers": {
                     "Host": "www.gossipglove.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4",
-            "type": "trojan",
-            "server": "162.159.153.212",
-            "server_port": 2087,
-            "password": "r137979f",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "sheleqaz.emotionreza.workers.dev"
                 }
             }
         },
@@ -1188,65 +1188,31 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 7",
+            "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 6",
             "type": "vless",
-            "server": "8.6.112.0",
+            "server": "fuckrc.enhanzy.com",
             "server_port": 443,
-            "uuid": "651a858c-2975-4b96-96b7-82745b38714c",
+            "uuid": "c2bf8051-3fce-4e16-b10c-ca15176136b5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "api.frest.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/WITH_CHACHA20_POLY1305_SHA256",
-                "headers": {
-                    "Host": "api.frest.ir"
-                }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 8",
+            "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 7",
             "type": "vless",
-            "server": "172.64.152.100",
+            "server": "sub.starfast.site",
             "server_port": 443,
-            "uuid": "d37a75db-76b6-4db8-b213-0d5b044d138d",
+            "uuid": "43457127-ee2f-439f-bfd0-54c515043804",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "hio-awx.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "hio-awx.pages.dev"
-                }
             }
         },
         {
