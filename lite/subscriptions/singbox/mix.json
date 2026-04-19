@@ -120,7 +120,8 @@
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇮🇷IR | 🔴 | vless | @DigiV2ray | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
+                "🇷🇺RU | 🔴 | vless | @proxy_kafee | 0",
+                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollector | 0",
@@ -141,14 +142,14 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 0",
-                "❔XX | 🟢 | vless | @vmessorg | 1",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 1",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 5",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 6",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 0",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 0",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 43",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 44",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
+                "❔XX | 🔴 | vless | @vless_vmess | 18",
                 "❔XX | 🔴 | vless | @vless_vmess | 19",
                 "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0",
@@ -195,7 +196,8 @@
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇮🇷IR | 🔴 | vless | @DigiV2ray | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
+                "🇷🇺RU | 🔴 | vless | @proxy_kafee | 0",
+                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollector | 0",
@@ -216,14 +218,14 @@
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 0",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 1",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 0",
-                "❔XX | 🟢 | vless | @vmessorg | 1",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 1",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 5",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 6",
                 "🇺🇸US | 🟢 | vless | @FalconPolV2rayNG | 0",
                 "❔XX | 🔴 | vless | @ShadowProxy66 | 0",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 43",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 44",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
+                "❔XX | 🔴 | vless | @vless_vmess | 18",
                 "❔XX | 🔴 | vless | @vless_vmess | 19",
                 "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0",
@@ -644,7 +646,36 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
+            "tag": "🇷🇺RU | 🔴 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "85.239.33.76",
+            "server_port": 4354,
+            "uuid": "4c3a2f39-dc52-4322-ac66-83010d12bfc0",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "apple.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "ww.iwantmoney.ir",
             "server_port": 8880,
@@ -1160,7 +1191,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @vmessorg | 1",
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 1",
             "type": "vless",
             "server": "8.6.112.0",
             "server_port": 443,
@@ -1357,7 +1388,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
+            "tag": "❔XX | 🔴 | vless | @vless_vmess | 18",
             "type": "vless",
             "server": "172.67.141.140",
             "server_port": 8880,
