@@ -126,7 +126,7 @@ proxies:
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 19","type":"trojan","server":"51.102.234.219","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2","type":"trojan","server":"8.6.112.0","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
   - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3","type":"trojan","server":"saas.sin.fan","port":443,"udp":false,"password":"6202b230-417c-4d8e-b624-0f71afa9c75d","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sni.111000.dynv6.net"}
-  - {"name":"8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -139,7 +139,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 19'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3'
-      - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0'
+      - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -152,7 +152,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 19'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3'
-      - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0'
+      - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -164,7 +164,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 19'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2'
       - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 3'
-      - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0'
+      - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
