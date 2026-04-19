@@ -108,9 +108,8 @@
                 "URL-TEST",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
-                "🇷🇺RU | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @kiava | 83",
                 "❔XX | 🔴 | vless | @kiava | 84",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
@@ -123,9 +122,8 @@
             "outbounds": [
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
                 "🇷🇺RU | 🟢 | vless | @rxv2ray | 7",
-                "🇷🇺RU | 🔴 | vless | @proxy_kafee | 2",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @kiava | 83",
                 "❔XX | 🔴 | vless | @kiava | 84",
                 "❔XX | 🔴 | vless | @vpn_go67 | 18",
@@ -217,35 +215,6 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🔴 | vless | @proxy_kafee | 2",
-            "type": "vless",
-            "server": "85.239.33.76",
-            "server_port": 4354,
-            "uuid": "4c3a2f39-dc52-4322-ac66-83010d12bfc0",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-                    "short_id": ""
-                }
-            }
-        },
-        {
             "tag": "❔XX | 🔴 | vless | @Capital_NET | 44",
             "type": "vless",
             "server": "ec76.kiava.fun",
@@ -275,7 +244,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
