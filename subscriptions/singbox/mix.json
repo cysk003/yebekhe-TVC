@@ -142,13 +142,13 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 10",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 12",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 13",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 15",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 0",
                 "❔XX | 🔴 | vless | @rxv2ray | 1",
                 "🚩CF | 🔴 | vless | @rxv2ray | 3",
@@ -237,7 +237,6 @@
                 "🚩CF | 🔴 | trojan | @oneclickvpnkeys | 0",
                 "❔XX | 🔴 | trojan | @oneclickvpnkeys | 1",
                 "❔XX | 🔴 | trojan | @oneclickvpnkeys | 2",
-                "❔XX | 🔴 | trojan | @oneclickvpnkeys | 3",
                 "❔XX | 🔴 | vless | @Outline_Vpn | 0",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 1",
                 "❔XX | 🔴 | vless | @Outline_Vpn | 2",
@@ -506,13 +505,13 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 10",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 12",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 13",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 15",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 0",
                 "❔XX | 🔴 | vless | @rxv2ray | 1",
                 "🚩CF | 🔴 | vless | @rxv2ray | 3",
@@ -601,7 +600,6 @@
                 "🚩CF | 🔴 | trojan | @oneclickvpnkeys | 0",
                 "❔XX | 🔴 | trojan | @oneclickvpnkeys | 1",
                 "❔XX | 🔴 | trojan | @oneclickvpnkeys | 2",
-                "❔XX | 🔴 | trojan | @oneclickvpnkeys | 3",
                 "❔XX | 🔴 | vless | @Outline_Vpn | 0",
                 "🚩CF | 🔴 | vless | @Outline_Vpn | 1",
                 "❔XX | 🔴 | vless | @Outline_Vpn | 2",
@@ -1831,7 +1829,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1873,7 +1871,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 13",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1915,7 +1913,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -3869,25 +3867,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | trojan | @oneclickvpnkeys | 3",
-            "type": "trojan",
-            "server": "8.6.112.0",
-            "server_port": 443,
-            "password": "humanity",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/assignment",
-                "headers": {
-                    "Host": "www.calmloud.com"
-                }
             }
         },
         {
