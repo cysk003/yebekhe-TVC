@@ -142,12 +142,12 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 13",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 14",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 15",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
-                "🇧🇪BE | 🔴 | vless | @rxv2ray | 0",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+                "❔XX | 🔴 | vless | @rxv2ray | 0",
                 "❔XX | 🔴 | vless | @rxv2ray | 1",
                 "🚩CF | 🔴 | vless | @rxv2ray | 3",
                 "❔XX | 🔴 | vless | @rxv2ray | 4",
@@ -169,6 +169,7 @@
                 "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
+                "❔XX | 🔴 | vless | @proxy_kafee | 3",
                 "❔XX | 🔴 | vless | @v2logy | 0",
                 "❔XX | 🔴 | vless | @v2logy | 1",
                 "❔XX | 🔴 | vless | @v2logy | 2",
@@ -436,12 +437,12 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 13",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 14",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 15",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
-                "🇧🇪BE | 🔴 | vless | @rxv2ray | 0",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+                "❔XX | 🔴 | vless | @rxv2ray | 0",
                 "❔XX | 🔴 | vless | @rxv2ray | 1",
                 "🚩CF | 🔴 | vless | @rxv2ray | 3",
                 "❔XX | 🔴 | vless | @rxv2ray | 4",
@@ -463,6 +464,7 @@
                 "❔XX | 🔴 | vless | @proxy_kafee | 0",
                 "❔XX | 🔴 | vless | @proxy_kafee | 1",
                 "❔XX | 🔴 | vless | @proxy_kafee | 2",
+                "❔XX | 🔴 | vless | @proxy_kafee | 3",
                 "❔XX | 🔴 | vless | @v2logy | 0",
                 "❔XX | 🔴 | vless | @v2logy | 1",
                 "❔XX | 🔴 | vless | @v2logy | 2",
@@ -1671,7 +1673,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 12",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1699,7 +1701,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1727,7 +1729,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1741,7 +1743,7 @@
             }
         },
         {
-            "tag": "🇧🇪BE | 🔴 | vless | @rxv2ray | 0",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 0",
             "type": "vless",
             "server": "185.158.133.158",
             "server_port": 2096,
@@ -2224,6 +2226,20 @@
         {
             "tag": "❔XX | 🔴 | vless | @proxy_kafee | 0",
             "type": "vless",
+            "server": "193.151.153.47",
+            "server_port": 34661,
+            "uuid": "4278a814-4a82-4b9b-8092-0ba60a3fb2f6",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 1",
+            "type": "vless",
             "server": "185.143.233.235",
             "server_port": 80,
             "uuid": "355cbbae-10ac-4715-8790-c8dc57d7d9f6",
@@ -2243,7 +2259,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "79.175.167.196",
             "server_port": 4041,
@@ -2257,7 +2273,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "❔XX | 🔴 | vless | @proxy_kafee | 3",
             "type": "vless",
             "server": "185.143.234.235",
             "server_port": 80,
