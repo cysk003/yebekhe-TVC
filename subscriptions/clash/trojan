@@ -158,15 +158,16 @@ proxies:
   - {"name":"❔XX | 🟢 | trojan | @DirectVPN | 17","type":"trojan","server":"51.45.12.237","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @DirectVPN | 18","type":"trojan","server":"3.125.219.119","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | @DirectVPN | 19","type":"trojan","server":"13.36.75.195","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 0","type":"trojan","server":"135.125.234.148","port":2053,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 1","type":"trojan","server":"5.187.6.30","port":8443,"udp":false,"password":"1234567890","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
-  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 2","type":"trojan","server":"162.159.153.2","port":443,"udp":false,"password":"6202b230-417c-4d8e-b624-0f71afa9c75d","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sni.111000.dynv6.net"}
-  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 3","type":"trojan","server":"104.18.12.149","port":443,"udp":false,"password":"22367c45-f6c4-4ca8-8d52-d9787d7bbe91","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"cm22-bgphhh.pages.dev"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 4","type":"trojan","server":"5.187.6.30","port":8443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"www.multiplydose.com","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 6","type":"trojan","server":"104.18.12.149","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.multiplydose.com"}
-  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 7","type":"trojan","server":"162.159.153.212","port":2087,"udp":false,"password":"r137979f","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sheleqaz.emotionreza.workers.dev"}
-  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 8","type":"trojan","server":"104.18.12.149","port":8443,"udp":false,"password":"6202b230-417c-4d8e-b624-0f71afa9c75d","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sni.111000.dynv6.net"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 0","type":"trojan","server":"217.177.10.105","port":443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
+  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 1","type":"trojan","server":"104.18.41.190","port":2087,"udp":false,"password":"22367c45-f6c4-4ca8-8d52-d9787d7bbe91","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"cm22-bgphhh.pages.dev"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 2","type":"trojan","server":"135.125.234.148","port":2053,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 3","type":"trojan","server":"5.187.6.30","port":8443,"udp":false,"password":"1234567890","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
+  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 4","type":"trojan","server":"162.159.153.2","port":443,"udp":false,"password":"6202b230-417c-4d8e-b624-0f71afa9c75d","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sni.111000.dynv6.net"}
+  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"104.18.12.149","port":443,"udp":false,"password":"22367c45-f6c4-4ca8-8d52-d9787d7bbe91","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"cm22-bgphhh.pages.dev"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 6","type":"trojan","server":"5.187.6.30","port":8443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
+  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 7","type":"trojan","server":"www.multiplydose.com","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 8","type":"trojan","server":"104.18.12.149","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.multiplydose.com"}
+  - {"name":"🚩CF | 🔴 | trojan | @oneclickvpnkeys | 9","type":"trojan","server":"162.159.153.212","port":2087,"udp":false,"password":"r137979f","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sheleqaz.emotionreza.workers.dev"}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1","type":"trojan","server":"104.18.32.47","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
   - {"name":"8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | trojan | @iP_CF | 1","type":"trojan","server":"172.64.152.23","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.multiplydose.com"}
@@ -217,14 +218,15 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @DirectVPN | 18'
       - '❔XX | 🟢 | trojan | @DirectVPN | 19'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 0'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 2'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 3'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 4'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 5'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 6'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 7'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 1'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 3'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 4'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 6'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 8'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 9'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0'
       - '🚩CF | 🔴 | trojan | @iP_CF | 1'
@@ -275,14 +277,15 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @DirectVPN | 18'
       - '❔XX | 🟢 | trojan | @DirectVPN | 19'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 0'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 2'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 3'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 4'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 5'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 6'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 7'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 1'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 3'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 4'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 6'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 8'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 9'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0'
       - '🚩CF | 🔴 | trojan | @iP_CF | 1'
@@ -332,14 +335,15 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | @DirectVPN | 18'
       - '❔XX | 🟢 | trojan | @DirectVPN | 19'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 0'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 1'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 2'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 3'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 4'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 5'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 6'
-      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 7'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 1'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 3'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 4'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 5'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 6'
+      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 8'
+      - '🚩CF | 🔴 | trojan | @oneclickvpnkeys | 9'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0'
       - '🚩CF | 🔴 | trojan | @iP_CF | 1'
