@@ -144,7 +144,7 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "❔XX | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
-                "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0",
+                "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
@@ -212,7 +212,7 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "❔XX | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
-                "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0",
+                "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 1",
@@ -936,6 +936,27 @@
         {
             "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 15",
             "type": "vless",
+            "server": "185.143.233.235",
+            "server_port": 80,
+            "uuid": "5bcfacea-d69c-4e38-9007-80871db80567",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "185.143.233.235"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 16",
+            "type": "vless",
             "server": "45.82.136.188",
             "server_port": 443,
             "uuid": "f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f",
@@ -961,27 +982,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "webassets.cafebazaar.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 16",
-            "type": "vless",
-            "server": "s2.xbat.ir",
-            "server_port": 80,
-            "uuid": "c0cac14f-9702-46c2-985f-f5d3b24b456d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "s2.xbat.ir"
                 }
             }
         },
@@ -1187,7 +1187,7 @@
             }
         },
         {
-            "tag": "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0",
+            "tag": "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0",
             "type": "trojan",
             "server": "8r<[9'l6hAO",
             "server_port": 0,

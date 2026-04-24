@@ -748,6 +748,27 @@
         {
             "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 15",
             "type": "vless",
+            "server": "185.143.233.235",
+            "server_port": 80,
+            "uuid": "5bcfacea-d69c-4e38-9007-80871db80567",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "185.143.233.235"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 16",
+            "type": "vless",
             "server": "45.82.136.188",
             "server_port": 443,
             "uuid": "f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f",
@@ -773,27 +794,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "webassets.cafebazaar.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 16",
-            "type": "vless",
-            "server": "s2.xbat.ir",
-            "server_port": 80,
-            "uuid": "c0cac14f-9702-46c2-985f-f5d3b24b456d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "s2.xbat.ir"
                 }
             }
         },
