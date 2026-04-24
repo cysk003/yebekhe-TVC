@@ -119,8 +119,8 @@
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇮🇷IR | 🔴 | vless | @DigiV2ray | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
+                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
                 "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollector | 0",
@@ -137,8 +137,6 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "❔XX | 🔴 | vless | @v2ray_vpn_ir | 14",
                 "❔XX | 🔴 | vless | @free1_vpn | 0",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
@@ -173,8 +171,8 @@
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 9",
                 "🇮🇷IR | 🔴 | vless | @DigiV2ray | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
+                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
                 "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
-                "🇮🇷IR | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollector | 0",
@@ -191,8 +189,6 @@
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @MehradLearn | 1",
-                "❔XX | 🔴 | vless | @v2ray_vpn_ir | 14",
                 "❔XX | 🔴 | vless | @free1_vpn | 0",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
@@ -566,25 +562,11 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
             "type": "vless",
-            "server": "193.151.153.47",
-            "server_port": 34661,
-            "uuid": "4278a814-4a82-4b9b-8092-0ba60a3fb2f6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 2",
-            "type": "vless",
-            "server": "185.143.233.235",
-            "server_port": 80,
-            "uuid": "355cbbae-10ac-4715-8790-c8dc57d7d9f6",
+            "server": "varzesh3.com",
+            "server_port": 8080,
+            "uuid": "c334010c-b5eb-4d80-bc93-9d7b52b03e6e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -596,8 +578,22 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "185.143.233.235"
+                    "Host": "varzesh3.com"
                 }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
+            "type": "vless",
+            "server": "193.151.153.47",
+            "server_port": 34661,
+            "uuid": "4278a814-4a82-4b9b-8092-0ba60a3fb2f6",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
@@ -999,58 +995,6 @@
                 "path": "\/kos nane\/khameneee\/",
                 "headers": {
                     "Host": "ge.adamz.site"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @MehradLearn | 1",
-            "type": "vless",
-            "server": "104.17.74.206",
-            "server_port": 2053,
-            "uuid": "a3f952f1-142f-435f-9e82-e19581874fce",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "afranet1.nitromobile.online",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/JeiwoBjOYwhwoabA",
-                "headers": {
-                    "Host": "afranet1.nitromobile.online"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @v2ray_vpn_ir | 14",
-            "type": "vless",
-            "server": "varzesh3.com",
-            "server_port": 8080,
-            "uuid": "c334010c-b5eb-4d80-bc93-9d7b52b03e6e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "varzesh3.com"
                 }
             }
         },
