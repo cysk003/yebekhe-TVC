@@ -122,8 +122,8 @@ proxies:
   - {"name":"🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19","type":"trojan","server":"18.193.0.159","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 18","type":"trojan","server":"51.44.101.255","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 19","type":"trojan","server":"18.193.0.159","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8","type":"trojan","server":"164.92.200.68","port":443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
-  - {"name":"🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 9","type":"trojan","server":"144.31.98.216","port":443,"udp":false,"password":"1234567890","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
+  - {"name":"🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 9","type":"trojan","server":"164.92.200.68","port":443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
+  - {"name":"🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 10","type":"trojan","server":"144.31.98.216","port":443,"udp":false,"password":"1234567890","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
   - {"name":"8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | trojan | @iP_CF | 1","type":"trojan","server":"172.64.152.23","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.multiplydose.com"}
 proxy-groups:
@@ -136,8 +136,8 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 19'
-      - '🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8'
       - '🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 9'
+      - '🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 10'
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0'
       - '❔XX | 🔴 | trojan | @iP_CF | 1'
   - name: URL-TEST
@@ -150,8 +150,8 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 19'
-      - '🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8'
       - '🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 9'
+      - '🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 10'
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0'
       - '❔XX | 🔴 | trojan | @iP_CF | 1'
   - name: FALLBACK
@@ -163,8 +163,8 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 18'
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 19'
-      - '🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 8'
       - '🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 9'
+      - '🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 10'
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0'
       - '❔XX | 🔴 | trojan | @iP_CF | 1'
 rules:
