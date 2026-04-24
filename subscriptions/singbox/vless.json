@@ -106,7 +106,6 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🚩CF | 🔴 | vless | @Parsashonam | 0",
                 "🚩CF | 🔴 | vless | @v2_team | 2",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 0",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 1",
@@ -142,11 +141,11 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 12",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 13",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 15",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 15",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 0",
                 "❔XX | 🔴 | vless | @rxv2ray | 1",
                 "🚩CF | 🔴 | vless | @rxv2ray | 3",
@@ -212,7 +211,6 @@
                 "❔XX | 🔴 | vless | @v2rayngvpn | 0",
                 "❔XX | 🔴 | vless | @v2rayngvpn | 1",
                 "❔XX | 🔴 | vless | @v2rayngvpn | 2",
-                "🚩CF | 🔴 | vless | @ShadowProxy66 | 0",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 7",
@@ -397,7 +395,6 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🚩CF | 🔴 | vless | @Parsashonam | 0",
                 "🚩CF | 🔴 | vless | @v2_team | 2",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 0",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 1",
@@ -433,11 +430,11 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 12",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 13",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 15",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 15",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 0",
                 "❔XX | 🔴 | vless | @rxv2ray | 1",
                 "🚩CF | 🔴 | vless | @rxv2ray | 3",
@@ -503,7 +500,6 @@
                 "❔XX | 🔴 | vless | @v2rayngvpn | 0",
                 "❔XX | 🔴 | vless | @v2rayngvpn | 1",
                 "❔XX | 🔴 | vless | @v2rayngvpn | 2",
-                "🚩CF | 🔴 | vless | @ShadowProxy66 | 0",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 5",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 6",
                 "❔XX | 🔴 | vless | @v2ray_swhil | 7",
@@ -702,30 +698,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @Parsashonam | 0",
-            "type": "vless",
-            "server": "104.17.150.76",
-            "server_port": 443,
-            "uuid": "Telegram-Parsashonam",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "test.atlasw.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🚩CF | 🔴 | vless | @v2_team | 2",
@@ -1665,7 +1637,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1679,7 +1651,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 13",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1707,7 +1679,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 15",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1721,7 +1693,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -3341,37 +3313,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "185.143.234.235"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @ShadowProxy66 | 0",
-            "type": "vless",
-            "server": "104.18.13.149",
-            "server_port": 2053,
-            "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sni.111000.indevs.in",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "sni.111000.indevs.in"
                 }
             }
         },
