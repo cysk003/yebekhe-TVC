@@ -127,7 +127,8 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
+                "❔XX | 🟢 | vmess | @nofiltering2 | 7",
+                "❔XX | 🟢 | vmess | @ISVvpn | 0"
             ]
         },
         {
@@ -155,7 +156,8 @@
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
-                "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7"
+                "❔XX | 🟢 | vmess | @nofiltering2 | 7",
+                "❔XX | 🟢 | vmess | @ISVvpn | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -600,11 +602,28 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vmess | @nofiltering2 | 7",
+            "tag": "❔XX | 🟢 | vmess | @nofiltering2 | 7",
             "type": "vmess",
             "server": "193.151.128.37",
             "server_port": 3131,
             "uuid": "23f58ce5-5e07-4d4e-9551-85f84db5c492",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @ISVvpn | 0",
+            "type": "vmess",
+            "server": "185.11.89.38",
+            "server_port": 12809,
+            "uuid": "aeddbbbd-ad95-49e8-ee31-7cacc7ede117",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
