@@ -127,14 +127,15 @@
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 14",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 15",
-                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 1",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 13",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 2",
+                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
-                "❔XX | 🔴 | vless | @VmessProtocol | 1",
+                "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @v2ray_vpn_ir | 7",
                 "❔XX | 🔴 | vless | @free1_vpn | 0",
@@ -179,14 +180,15 @@
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 14",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 15",
-                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 1",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 13",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 2",
+                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
-                "❔XX | 🔴 | vless | @VmessProtocol | 1",
+                "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @v2ray_vpn_ir | 7",
                 "❔XX | 🔴 | vless | @free1_vpn | 0",
@@ -782,7 +784,38 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 13",
+            "type": "vless",
+            "server": "172.64.149.54",
+            "server_port": 8443,
+            "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "sni.111000.v6.navy",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "sni.111000.v6.navy"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 2",
             "type": "vless",
             "server": "62.60.147.73",
             "server_port": 20020,
@@ -796,7 +829,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 2",
+            "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 3",
             "type": "vless",
             "server": "185.143.233.5",
             "server_port": 443,
@@ -945,7 +978,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 1",
+            "tag": "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
             "type": "vless",
             "server": "3.127.218.176",
             "server_port": 443,
