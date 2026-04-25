@@ -156,8 +156,7 @@ proxies:
   - {"name":"8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | vless | @MehradLearn | 0","type":"vless","server":"cdn4.eswap.ir","port":2087,"udp":false,"uuid":"0a229011-1db0-4dd5-916e-e18c668b4e9e","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"ge.adamz.site","ws-opts":{"path":"/kos nane/khameneee/","headers":{"host":"ge.adamz.site"}}}
   - {"name":"❔XX | 🔴 | vless | @lrnbymaa | 0","type":"vless","server":"78.109.199.60","port":12050,"udp":false,"uuid":"f0626fab-0ae9-4928-b183-0e87136ca577","tls":false,"network":"grpc","client-fingerprint":"chrome"}
-  - {"name":"🇮🇷IR | 🔴 | vless | @v2ray_vpn_ir | 7","type":"vless","server":"anten.ir","port":80,"udp":false,"uuid":"5050193d-1a82-4fea-933d-994083bae6a7","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"ss.linuwebtunnel.site"}}}
-  - {"name":"❔XX | 🟢 | vmess | @proxystore11 | 2","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇷IR | 🟢 | vmess | @proxystore11 | 2","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | @yaney_01 | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
   - {"name":"❔XX | 🔴 | vless | @fnet00 | 0","type":"vless","server":"45.85.118.209","port":443,"udp":false,"uuid":"573c787d-d549-4171-b05f-29984bc0266c","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"ipv4.farazteams.ir","ws-opts":{"path":"/@AmirGeekTech-@FNET00","headers":{"host":"ipv4.farazteams.ir"}}}
   - {"name":"❔XX | 🔴 | vless | @Capital_NET | 45","type":"vless","server":"four.felinetest.site","port":443,"udp":true,"uuid":"fbe02c0b-775f-4431-8615-a9497255c876","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"none.felinetest.site","flow":"xtls-rprx-vision","reality-opts":{"public-key":"fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs","short-id":"6f9deca7"}}
@@ -212,8 +211,7 @@ proxy-groups:
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0'
       - '❔XX | 🔴 | vless | @MehradLearn | 0'
       - '❔XX | 🔴 | vless | @lrnbymaa | 0'
-      - '🇮🇷IR | 🔴 | vless | @v2ray_vpn_ir | 7'
-      - '❔XX | 🟢 | vmess | @proxystore11 | 2'
+      - '🇮🇷IR | 🟢 | vmess | @proxystore11 | 2'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🔴 | vless | @fnet00 | 0'
       - '❔XX | 🔴 | vless | @Capital_NET | 45'
@@ -268,8 +266,7 @@ proxy-groups:
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0'
       - '❔XX | 🔴 | vless | @MehradLearn | 0'
       - '❔XX | 🔴 | vless | @lrnbymaa | 0'
-      - '🇮🇷IR | 🔴 | vless | @v2ray_vpn_ir | 7'
-      - '❔XX | 🟢 | vmess | @proxystore11 | 2'
+      - '🇮🇷IR | 🟢 | vmess | @proxystore11 | 2'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🔴 | vless | @fnet00 | 0'
       - '❔XX | 🔴 | vless | @Capital_NET | 45'
@@ -323,8 +320,7 @@ proxy-groups:
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0'
       - '❔XX | 🔴 | vless | @MehradLearn | 0'
       - '❔XX | 🔴 | vless | @lrnbymaa | 0'
-      - '🇮🇷IR | 🔴 | vless | @v2ray_vpn_ir | 7'
-      - '❔XX | 🟢 | vmess | @proxystore11 | 2'
+      - '🇮🇷IR | 🟢 | vmess | @proxystore11 | 2'
       - '❔XX | 🟢 | vmess | @yaney_01 | 4'
       - '❔XX | 🔴 | vless | @fnet00 | 0'
       - '❔XX | 🔴 | vless | @Capital_NET | 45'
