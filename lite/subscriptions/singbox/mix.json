@@ -137,16 +137,15 @@
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 15",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 16",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 0",
-                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
-                "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0",
-                "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
+                "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0",
+                "❔XX | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vmess | @v2ray_vpn_ir | 10",
+                "🇮🇷IR | 🔴 | vmess | @v2ray_vpn_ir | 10",
                 "❔XX | 🟢 | vmess | @proxystore11 | 1",
                 "❔XX | 🟢 | vmess | @proxystore11 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -204,16 +203,15 @@
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 15",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 16",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 0",
-                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
-                "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0",
-                "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
+                "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0",
+                "❔XX | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vmess | @v2ray_vpn_ir | 10",
+                "🇮🇷IR | 🔴 | vmess | @v2ray_vpn_ir | 10",
                 "❔XX | 🟢 | vmess | @proxystore11 | 1",
                 "❔XX | 🟢 | vmess | @proxystore11 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -1022,27 +1020,6 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 1",
-            "type": "vless",
-            "server": "185.143.233.235",
-            "server_port": 80,
-            "uuid": "10d15584-fe06-4c78-b106-7a96439e731b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "185.143.233.235"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -1161,7 +1138,7 @@
             }
         },
         {
-            "tag": "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0",
+            "tag": "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 0",
             "type": "trojan",
             "server": "8r<[9'l6hAO",
             "server_port": 0,
@@ -1173,7 +1150,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VmessProtocol | 1",
+            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 1",
             "type": "vless",
             "server": "3.127.218.176",
             "server_port": 443,
@@ -1218,7 +1195,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vmess | @v2ray_vpn_ir | 10",
+            "tag": "🇮🇷IR | 🔴 | vmess | @v2ray_vpn_ir | 10",
             "type": "vmess",
             "server": "185.11.89.38",
             "server_port": 12809,
