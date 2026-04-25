@@ -180,9 +180,7 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 6","type":"trojan","server":"158.180.49.11","port":2053,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
   - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 7","type":"trojan","server":"167.99.244.254","port":443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
   - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 8","type":"trojan","server":"68.183.65.82","port":8443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 9","type":"trojan","server":"95.181.161.242","port":443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 10","type":"trojan","server":"116.202.14.249","port":8443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
-  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 1","type":"vmess","server":"cdn.ip-static.com","port":"80","cipher":"auto","uuid":"a9311ff2-14bf-4ba6-8601-42028a7e3a84","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"FIN003.midasnet.work"}}}
+  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 2","type":"vmess","server":"cdn.ip-static.com","port":"80","cipher":"auto","uuid":"a9311ff2-14bf-4ba6-8601-42028a7e3a84","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"FIN003.midasnet.work"}}}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1","type":"trojan","server":"104.18.32.47","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
   - {"name":"8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🟢 | vmess | @proxystore11 | 2","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -259,9 +257,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 6'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 8'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 9'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 10'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 1'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 2'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0'
       - '❔XX | 🟢 | vmess | @proxystore11 | 2'
@@ -338,9 +334,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 6'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 8'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 9'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 10'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 1'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 2'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0'
       - '❔XX | 🟢 | vmess | @proxystore11 | 2'
@@ -416,9 +410,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 6'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 8'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 9'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 10'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 1'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 2'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 0'
       - '❔XX | 🟢 | vmess | @proxystore11 | 2'
