@@ -130,6 +130,7 @@
                 "🇬🇧GB | 🔴 | vless | @ARv2ray | 0",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 1",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
+                "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
@@ -141,7 +142,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 13",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 15",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
@@ -269,7 +270,6 @@
                 "❔XX | 🔴 | vless | @prrofile_purple | 13",
                 "❔XX | 🔴 | vless | @prrofile_purple | 14",
                 "❔XX | 🔴 | vless | @prrofile_purple | 15",
-                "❔XX | 🔴 | vless | @prrofile_purple | 16",
                 "🚩CF | 🔴 | vless | @customv2ray | 0",
                 "🚩CF | 🔴 | vless | @customv2ray | 1",
                 "🚩CF | 🔴 | vless | @customv2ray | 2",
@@ -505,6 +505,7 @@
                 "🇬🇧GB | 🔴 | vless | @ARv2ray | 0",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 1",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
+                "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
@@ -516,7 +517,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 13",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 15",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
@@ -644,7 +645,6 @@
                 "❔XX | 🔴 | vless | @prrofile_purple | 13",
                 "❔XX | 🔴 | vless | @prrofile_purple | 14",
                 "❔XX | 🔴 | vless | @prrofile_purple | 15",
-                "❔XX | 🔴 | vless | @prrofile_purple | 16",
                 "🚩CF | 🔴 | vless | @customv2ray | 0",
                 "🚩CF | 🔴 | vless | @customv2ray | 1",
                 "🚩CF | 🔴 | vless | @customv2ray | 2",
@@ -1604,6 +1604,37 @@
             }
         },
         {
+            "tag": "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
+            "type": "vless",
+            "server": "156.243.83.167",
+            "server_port": 443,
+            "uuid": "telegram-id-Arfilter",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn-alman2.arfilter2.blog",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter",
+                "headers": {
+                    "Host": "cdn-alman2.arfilter2.blog"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 0",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -1792,7 +1823,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 13",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -4669,27 +4700,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "tamin.ir"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 16",
-            "type": "vless",
-            "server": "37.152.190.119",
-            "server_port": 80,
-            "uuid": "a9b51066-137b-48ef-a54a-0c220028882b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "37.152.190.119"
                 }
             }
         },
