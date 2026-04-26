@@ -128,6 +128,9 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇬🇧GB | 🔴 | vless | @ARv2ray | 0",
+                "🇵🇹PT | 🔴 | vless | @ARv2ray | 1",
+                "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
+                "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
@@ -140,13 +143,13 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 15",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 0",
                 "❔XX | 🔴 | vless | @rxv2ray | 1",
                 "🚩CF | 🔴 | vless | @rxv2ray | 3",
-                "🇸🇬SG | 🔴 | vless | @rxv2ray | 4",
+                "❔XX | 🔴 | vless | @rxv2ray | 4",
                 "❔XX | 🔴 | vless | @rxv2ray | 5",
                 "❔XX | 🔴 | vless | @rxv2ray | 6",
                 "❔XX | 🟢 | vless | @rxv2ray | 7",
@@ -434,6 +437,9 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇬🇧GB | 🔴 | vless | @ARv2ray | 0",
+                "🇵🇹PT | 🔴 | vless | @ARv2ray | 1",
+                "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
+                "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 2",
@@ -446,13 +452,13 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 12",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 15",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+                "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 0",
                 "❔XX | 🔴 | vless | @rxv2ray | 1",
                 "🚩CF | 🔴 | vless | @rxv2ray | 3",
-                "🇸🇬SG | 🔴 | vless | @rxv2ray | 4",
+                "❔XX | 🔴 | vless | @rxv2ray | 4",
                 "❔XX | 🔴 | vless | @rxv2ray | 5",
                 "❔XX | 🔴 | vless | @rxv2ray | 6",
                 "❔XX | 🟢 | vless | @rxv2ray | 7",
@@ -1392,6 +1398,104 @@
             }
         },
         {
+            "tag": "🇵🇹PT | 🔴 | vless | @ARv2ray | 1",
+            "type": "vless",
+            "server": "156.243.83.167",
+            "server_port": 443,
+            "uuid": "telegram-id-Arfilter",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn-alman1.arfilter2.blog",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter",
+                "headers": {
+                    "Host": "cdn-alman1.arfilter2.blog"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
+            "type": "vless",
+            "server": "185.234.65.232",
+            "server_port": 4423,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "animejs.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "D4fo-UBIrSlLx3R8qu3iWSoynAvArdXpn5uZoDEt3Uc",
+                    "short_id": "b740"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2rayy",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇵🇹PT | 🔴 | vless | @ARv2ray | 5",
+            "type": "vless",
+            "server": "156.243.83.167",
+            "server_port": 443,
+            "uuid": "telegram-id-Arfilter",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn-alman2.arfilter2.blog",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter",
+                "headers": {
+                    "Host": "cdn-alman2.arfilter2.blog"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 0",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -1594,7 +1698,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 14",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1622,7 +1726,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 17",
+            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1712,7 +1816,7 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🔴 | vless | @rxv2ray | 4",
+            "tag": "❔XX | 🔴 | vless | @rxv2ray | 4",
             "type": "vless",
             "server": "fn11.irsbv2.ir",
             "server_port": 443,
