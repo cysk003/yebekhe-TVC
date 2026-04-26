@@ -131,15 +131,16 @@
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
+                "❔XX | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @free1_vpn | 0",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capoit | 0",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @iP_CF | 0",
@@ -182,15 +183,16 @@
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 1",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
+                "❔XX | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @free1_vpn | 0",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "❔XX | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "❔XX | 🔴 | vless | @Capoit | 0",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @iP_CF | 0",
@@ -855,7 +857,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
+            "tag": "❔XX | 🔴 | vless | @vless_vmess | 18",
             "type": "vless",
             "server": "172.67.141.140",
             "server_port": 8880,
@@ -897,7 +899,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
@@ -956,7 +958,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free1_vpn | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
             "type": "vless",
             "server": "8.6.112.6",
             "server_port": 443,
@@ -1073,6 +1075,20 @@
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
                 }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @Capoit | 0",
+            "type": "vless",
+            "server": "37.32.5.155",
+            "server_port": 2028,
+            "uuid": "868eb379-6dc7-45a4-a707-0f7da1092703",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
