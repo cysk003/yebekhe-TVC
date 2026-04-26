@@ -106,7 +106,6 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @v2_team | 2",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
@@ -159,7 +158,6 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @v2_team | 2",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
@@ -226,37 +224,6 @@
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @v2_team | 2",
-            "type": "vless",
-            "server": "104.17.72.206",
-            "server_port": 443,
-            "uuid": "06ef598c-1555-4887-b3f9-08214a2f6792",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "2026.hhhhh.eu.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/222.167.202.31:7443",
-                "headers": {
-                    "Host": "2026.hhhhh.eu.org"
-                }
-            }
         },
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
@@ -542,6 +509,20 @@
         {
             "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 0",
             "type": "vless",
+            "server": "95.38.197.219",
+            "server_port": 41379,
+            "uuid": "b738ce99-ddaa-4eea-a3f6-2266e1cc961c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
+            "type": "vless",
             "server": "arvan1.un1ty.ir",
             "server_port": 80,
             "uuid": "be0bff33-a095-4f82-9edb-9073c3ba08af",
@@ -557,37 +538,6 @@
                 "path": "\/jesuschrist",
                 "headers": {
                     "Host": "arvan1.un1ty.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @proxy_kafee | 1",
-            "type": "vless",
-            "server": "khan10.tarfandgallery.sbs",
-            "server_port": 443,
-            "uuid": "ff6d6f8e-79f2-441e-ac39-bc3406f86e5c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "khan10.tarfandgallery.sbs",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "khan10.tarfandgallery.sbs"
                 }
             }
         },
