@@ -179,8 +179,7 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 5","type":"trojan","server":"162.19.243.185","port":8443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
   - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 7","type":"trojan","server":"134.122.84.25","port":8443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
   - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 8","type":"trojan","server":"104.194.156.164","port":8443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
-  - {"name":"❔XX | 🔴 | trojan | @oneclickvpnkeys | 9","type":"trojan","server":"5.75.182.89","port":443,"udp":false,"password":"1234567890","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"kfm-bn0.pages.dev"}
-  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 7","type":"vmess","server":"cdn.ip-static.com","port":"80","cipher":"auto","uuid":"a9311ff2-14bf-4ba6-8601-42028a7e3a84","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"FIN003.midasnet.work"}}}
+  - {"name":"❔XX | 🟢 | vmess | @prrofile_purple | 8","type":"vmess","server":"cdn.ip-static.com","port":"80","cipher":"auto","uuid":"a9311ff2-14bf-4ba6-8601-42028a7e3a84","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"FIN003.midasnet.work"}}}
   - {"name":"🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1","type":"trojan","server":"104.18.32.47","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
   - {"name":"8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 1","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🟢 | vmess | @proxystore11 | 2","type":"vmess","server":"217.218.52.1","port":"10410","cipher":"auto","uuid":"f93f134f-7adb-48c3-bcd1-2532edb0b478","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -256,8 +255,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 5'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 8'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 9'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 7'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 8'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 1'
       - '❔XX | 🟢 | vmess | @proxystore11 | 2'
@@ -333,8 +331,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 5'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 8'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 9'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 7'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 8'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 1'
       - '❔XX | 🟢 | vmess | @proxystore11 | 2'
@@ -409,8 +406,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 5'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 7'
       - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 8'
-      - '❔XX | 🔴 | trojan | @oneclickvpnkeys | 9'
-      - '❔XX | 🟢 | vmess | @prrofile_purple | 7'
+      - '❔XX | 🟢 | vmess | @prrofile_purple | 8'
       - '🚩CF | 🔴 | trojan | @vmess_vless_v2rayng | 1'
       - '8ZQi@8.6.112.0:2096?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 1'
       - '❔XX | 🟢 | vmess | @proxystore11 | 2'
