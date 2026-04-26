@@ -124,8 +124,8 @@
                 "❔XX | 🔴 | vless | @V2rayCollector | 0",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 12",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 13",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 14",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 15",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 13",
                 "🇸🇨SC | 🔴 | vless | @v2rayngvpn | 1",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 2",
@@ -133,7 +133,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @free1_vpn | 0",
@@ -175,8 +175,8 @@
                 "❔XX | 🔴 | vless | @V2rayCollector | 0",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 12",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
-                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 13",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 14",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 15",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 13",
                 "🇸🇨SC | 🔴 | vless | @v2rayngvpn | 1",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 2",
@@ -184,7 +184,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
+                "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
                 "❔XX | 🔴 | vless | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @free1_vpn | 0",
@@ -685,20 +685,6 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 13",
-            "type": "vless",
-            "server": "78.157.53.235",
-            "server_port": 35651,
-            "uuid": "GozargahAzadi",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 14",
             "type": "vless",
             "server": "arvancloud.ir",
@@ -716,6 +702,27 @@
                 "path": "\/@TunizoNET",
                 "headers": {
                     "Host": "arvancloud.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 15",
+            "type": "vless",
+            "server": "tamin.ir",
+            "server_port": 2052,
+            "uuid": "a16e9398-733a-450e-9a7f-7711ef24e2bf",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "tamin.ir"
                 }
             }
         },
@@ -900,7 +907,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 19",
+            "tag": "❔XX | 🔴 | vless | @vmess_vless_v2rayng | 19",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 8080,
