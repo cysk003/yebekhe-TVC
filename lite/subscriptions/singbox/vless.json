@@ -150,6 +150,7 @@
                 "❔XX | 🔴 | vless | @Capoit | 1",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
+                "❔XX | 🔴 | vless | @iP_CF | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
                 "❔XX | 🔴 | vless | @kiava | 84",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
@@ -209,6 +210,7 @@
                 "❔XX | 🔴 | vless | @Capoit | 1",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
+                "❔XX | 🔴 | vless | @iP_CF | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
                 "❔XX | 🔴 | vless | @kiava | 84",
                 "❔XX | 🔴 | vless | @nofiltering2 | 9",
@@ -1360,6 +1362,20 @@
             "server": "v4.mesterking8786.cfd",
             "server_port": 55948,
             "uuid": "3c74a11b-1676-4f58-921f-7399bea00880",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @iP_CF | 0",
+            "type": "vless",
+            "server": "panel.motabarimshaknakon.xyz",
+            "server_port": 44846,
+            "uuid": "36e6a186-d264-4711-8aad-690f3f373d4f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
