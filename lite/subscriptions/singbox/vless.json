@@ -106,9 +106,9 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 4",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 16",
@@ -131,12 +131,12 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 0",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 1",
-                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 2",
-                "❔XX | 🔴 | vless | @v2ray_swhil | 43",
+                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 3",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
-                "❔XX | 🔴 | vless | @vless_vmess | 19",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
+                "❔XX | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @lrnbymaa | 0",
                 "❔XX | 🔴 | vless | @v2ray_vpn_ir | 1",
@@ -162,9 +162,9 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 4",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 16",
@@ -187,12 +187,12 @@
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 0",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 1",
-                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 2",
-                "❔XX | 🔴 | vless | @v2ray_swhil | 43",
+                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 3",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
-                "❔XX | 🔴 | vless | @vless_vmess | 19",
-                "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
+                "❔XX | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "❔XX | 🔴 | vless | @lrnbymaa | 0",
                 "❔XX | 🔴 | vless | @v2ray_vpn_ir | 1",
@@ -234,7 +234,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
             "type": "vless",
             "server": "104.20.6.134",
             "server_port": 443,
@@ -260,7 +260,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "13.38.235.130",
+            "server": "35.181.15.157",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -289,9 +289,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 19",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "3.75.103.136",
+            "server": "13.38.235.130",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -856,7 +856,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 2",
+            "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 3",
             "type": "vless",
             "server": "golden.alisecvice.ir",
             "server_port": 8080,
@@ -877,7 +877,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2ray_swhil | 43",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -960,7 +960,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @vless_vmess | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
             "type": "vless",
             "server": "104.16.85.3",
             "server_port": 8880,
@@ -981,7 +981,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
+            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 0",
             "type": "vless",
             "server": "104.20.6.134",
             "server_port": 8443,
