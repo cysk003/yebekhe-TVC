@@ -108,6 +108,7 @@
                 "URL-TEST",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 0",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 2",
+                "🚩CF | 🔴 | vless | @Parsashonam | 3",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 0",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 1",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 2",
@@ -143,7 +144,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 13",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 14",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 15",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 0",
@@ -399,6 +400,7 @@
             "outbounds": [
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 0",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 2",
+                "🚩CF | 🔴 | vless | @Parsashonam | 3",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 0",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 1",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 2",
@@ -434,7 +436,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 12",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 13",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 14",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 15",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
                 "❔XX | 🔴 | vless | @rxv2ray | 0",
@@ -743,6 +745,30 @@
             "tls": {
                 "enabled": true,
                 "server_name": "nextjs.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @Parsashonam | 3",
+            "type": "vless",
+            "server": "104.20.6.134",
+            "server_port": 443,
+            "uuid": "Telegram-Parsashonam",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "parsaaaa.atlasq.ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1655,7 +1681,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 14",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
