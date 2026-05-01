@@ -106,7 +106,6 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 2",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
@@ -129,8 +128,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7",
                 "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 8",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 9",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 12",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 16",
@@ -140,11 +139,10 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 0",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 1",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 2",
-                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
-                "❔XX | 🔴 | vless | @vless_vmess | 19",
+                "❔XX | 🔴 | vless | @v2ray_swhil | 44",
+                "❔XX | 🔴 | vless | @vless_vmess | 18",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
                 "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
@@ -172,7 +170,6 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 2",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
@@ -195,8 +192,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7",
                 "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 8",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 9",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 12",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 16",
@@ -206,11 +203,10 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 0",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 1",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 2",
-                "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
-                "❔XX | 🔴 | vless | @vless_vmess | 19",
+                "❔XX | 🔴 | vless | @v2ray_swhil | 44",
+                "❔XX | 🔴 | vless | @vless_vmess | 18",
+                "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
                 "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
@@ -254,30 +250,6 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 2",
-            "type": "vless",
-            "server": "nextjs.org",
-            "server_port": 443,
-            "uuid": "Parsashonam",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "nextjs.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
             "type": "vless",
             "server": "104.20.6.134",
@@ -304,7 +276,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "13.36.179.38",
+            "server": "13.39.77.217",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -335,7 +307,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "13.38.232.205",
+            "server": "13.36.179.38",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -677,7 +649,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18",
             "type": "trojan",
-            "server": "13.36.179.38",
+            "server": "13.39.77.217",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -699,7 +671,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19",
             "type": "trojan",
-            "server": "13.38.232.205",
+            "server": "13.36.179.38",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -721,7 +693,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 18",
             "type": "trojan",
-            "server": "13.36.179.38",
+            "server": "13.39.77.217",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -743,7 +715,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
             "type": "trojan",
-            "server": "13.38.232.205",
+            "server": "13.36.179.38",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -797,7 +769,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7",
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 8",
             "type": "trojan",
             "server": "172.64.147.29",
             "server_port": 443,
@@ -816,7 +788,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 8",
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 9",
             "type": "trojan",
             "server": "162.159.36.5",
             "server_port": 443,
@@ -1087,27 +1059,6 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 3",
-            "type": "vless",
-            "server": "185.143.233.235",
-            "server_port": 2095,
-            "uuid": "270bb251-06a8-4066-8a92-f0d1bd06150a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "185.143.233.235"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -1139,7 +1090,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
+            "tag": "❔XX | 🔴 | vless | @v2ray_swhil | 44",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -1170,7 +1121,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
+            "tag": "❔XX | 🔴 | vless | @vless_vmess | 18",
             "type": "vless",
             "server": "172.67.141.140",
             "server_port": 8880,
@@ -1191,7 +1142,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @vless_vmess | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
             "type": "vless",
             "server": "104.16.85.3",
             "server_port": 8880,
