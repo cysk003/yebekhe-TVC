@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 4",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
@@ -135,8 +135,7 @@
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 16",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 17",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 9",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 10",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 0",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 1",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 3",
@@ -145,10 +144,9 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "❔XX | 🔴 | vless | @VmessProtocol | 0",
+                "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
                 "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @lrnbymaa | 0",
                 "❔XX | 🔴 | vless | @v2ray_vpn_ir | 2",
                 "❔XX | 🟢 | vmess | @v2ray_vpn_ir | 3",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
@@ -176,7 +174,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 4",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
@@ -205,8 +203,7 @@
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 16",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 17",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 9",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 10",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 0",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 1",
                 "🇮🇷IR | 🔴 | vless | @v2rayngvpn | 3",
@@ -215,10 +212,9 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
-                "❔XX | 🔴 | vless | @VmessProtocol | 0",
+                "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
                 "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @lrnbymaa | 0",
                 "❔XX | 🔴 | vless | @v2ray_vpn_ir | 2",
                 "❔XX | 🟢 | vmess | @v2ray_vpn_ir | 3",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
@@ -262,7 +258,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
             "type": "vless",
             "server": "104.20.6.134",
             "server_port": 443,
@@ -288,7 +284,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "15.236.78.92",
+            "server": "13.38.232.205",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -319,7 +315,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "35.181.15.157",
+            "server": "15.236.78.92",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -685,7 +681,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18",
             "type": "trojan",
-            "server": "15.236.78.92",
+            "server": "13.38.232.205",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -707,7 +703,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19",
             "type": "trojan",
-            "server": "35.181.15.157",
+            "server": "15.236.78.92",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -729,7 +725,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 18",
             "type": "trojan",
-            "server": "15.236.78.92",
+            "server": "13.38.232.205",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -751,7 +747,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
             "type": "trojan",
-            "server": "35.181.15.157",
+            "server": "15.236.78.92",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -933,7 +929,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 6",
             "type": "vless",
             "server": "172.64.152.100",
             "server_port": 443,
@@ -960,27 +956,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "hio-awx.pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 10",
-            "type": "vless",
-            "server": "104.18.16.56",
-            "server_port": 80,
-            "uuid": "388a6c57-87e7-420b-afe2-b3eb670fd7da",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ @RzChanel1",
-                "headers": {
-                    "Host": "104.18.16.56"
                 }
             }
         },
@@ -1193,7 +1168,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
             "type": "vless",
             "server": "104.20.6.134",
             "server_port": 8443,
@@ -1263,30 +1238,6 @@
                 "path": "\/kos nane\/khameneee\/",
                 "headers": {
                     "Host": "ge.adamz.site"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @lrnbymaa | 0",
-            "type": "vless",
-            "server": "104.20.6.134",
-            "server_port": 2053,
-            "uuid": "58fbbc47-237d-4bc2-a8c3-6db623585a1b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "itfgnf-hkjkhfmhghf-hjmngb.infinitecreativehorizons.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
