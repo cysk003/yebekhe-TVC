@@ -108,7 +108,6 @@
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @v2ray_vpn_ir | 3",
                 "❔XX | 🟢 | vmess | @proxystore11 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5"
@@ -120,7 +119,6 @@
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @v2ray_vpn_ir | 3",
                 "❔XX | 🟢 | vmess | @proxystore11 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "❔XX | 🟢 | vmess | @yaney_01 | 5"
@@ -170,23 +168,6 @@
             "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
             "alter_id": 64,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @v2ray_vpn_ir | 3",
-            "type": "vmess",
-            "server": "185.11.89.38",
-            "server_port": 12809,
-            "uuid": "aeddbbbd-ad95-49e8-ee31-7cacc7ede117",
-            "security": "auto",
-            "alter_id": 0,
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",

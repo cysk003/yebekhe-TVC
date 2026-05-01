@@ -129,8 +129,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6",
                 "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 8",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 12",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 16",
@@ -145,10 +145,9 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
-                "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 1",
+                "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @v2ray_vpn_ir | 2",
-                "❔XX | 🟢 | vmess | @v2ray_vpn_ir | 3",
+                "🇮🇷IR | 🔴 | vless | @v2ray_vpn_ir | 1",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "❔XX | 🟢 | vmess | @proxystore11 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -197,8 +196,8 @@
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6",
                 "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7",
-                "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 8",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 12",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 13",
                 "🇮🇷IR | 🔴 | vless | @prrofile_purple | 16",
@@ -213,10 +212,9 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 18",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 19",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
-                "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 1",
+                "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 1",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
-                "❔XX | 🔴 | vless | @v2ray_vpn_ir | 2",
-                "❔XX | 🟢 | vmess | @v2ray_vpn_ir | 3",
+                "🇮🇷IR | 🔴 | vless | @v2ray_vpn_ir | 1",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "❔XX | 🟢 | vmess | @proxystore11 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
@@ -284,7 +282,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "13.38.232.205",
+            "server": "13.36.179.38",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -315,7 +313,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "15.236.78.92",
+            "server": "13.38.232.205",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -681,7 +679,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18",
             "type": "trojan",
-            "server": "13.38.232.205",
+            "server": "13.36.179.38",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -703,7 +701,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19",
             "type": "trojan",
-            "server": "15.236.78.92",
+            "server": "13.38.232.205",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -725,7 +723,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 18",
             "type": "trojan",
-            "server": "13.38.232.205",
+            "server": "13.36.179.38",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -747,7 +745,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 19",
             "type": "trojan",
-            "server": "15.236.78.92",
+            "server": "13.38.232.205",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -801,9 +799,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7",
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 6",
             "type": "trojan",
-            "server": "162.159.36.5",
+            "server": "172.64.147.29",
             "server_port": 443,
             "password": "6202b230-417c-4d8e-b624-0f71afa9c75d",
             "multiplex": {
@@ -820,9 +818,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 8",
+            "tag": "🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 7",
             "type": "trojan",
-            "server": "104.17.185.207",
+            "server": "162.159.36.5",
             "server_port": 443,
             "password": "6202b230-417c-4d8e-b624-0f71afa9c75d",
             "multiplex": {
@@ -1199,7 +1197,7 @@
             }
         },
         {
-            "tag": "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#❔XX | 🔴 | trojan | @VmessProtocol | 1",
+            "tag": "8ZQi@8.6.112.0:2096?type=ws&security=tls&path=\/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🇺🇸US | 🔴 | trojan | @VmessProtocol | 1",
             "type": "trojan",
             "server": "8r<[9'l6hAO",
             "server_port": 0,
@@ -1242,7 +1240,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2ray_vpn_ir | 2",
+            "tag": "🇮🇷IR | 🔴 | vless | @v2ray_vpn_ir | 1",
             "type": "vless",
             "server": "185.143.233.235",
             "server_port": 80,
@@ -1260,23 +1258,6 @@
                 "headers": {
                     "Host": "185.143.233.235"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @v2ray_vpn_ir | 3",
-            "type": "vmess",
-            "server": "185.11.89.38",
-            "server_port": 12809,
-            "uuid": "aeddbbbd-ad95-49e8-ee31-7cacc7ede117",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
