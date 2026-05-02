@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 2",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
@@ -139,13 +139,13 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 1",
-                "❔XX | 🔴 | vless | @free1_vpn | 0",
-                "❔XX | 🔴 | vless | @fnet00 | 0",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @Capoit | 0",
                 "❔XX | 🔴 | vless | @Capoit | 1",
-                "❔XX | 🔴 | vless | @FreakConfig | 13",
+                "🇺🇸US | 🔴 | vless | @FreakConfig | 13",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
                 "❔XX | 🔴 | vless | @kiava | 84",
@@ -163,7 +163,7 @@
             "outbounds": [
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 2",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
                 "🇳🇱NL | 🔴 | vless | @ARv2ray | 3",
                 "🇵🇹PT | 🔴 | vless | @ARv2ray | 4",
@@ -194,13 +194,13 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
                 "❔XX | 🔴 | vless | @MehradLearn | 0",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 1",
-                "❔XX | 🔴 | vless | @free1_vpn | 0",
-                "❔XX | 🔴 | vless | @fnet00 | 0",
+                "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
+                "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
-                "❔XX | 🔴 | vless | @Capital_NET | 45",
+                "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
                 "❔XX | 🔴 | vless | @Capoit | 0",
                 "❔XX | 🔴 | vless | @Capoit | 1",
-                "❔XX | 🔴 | vless | @FreakConfig | 13",
+                "🇺🇸US | 🔴 | vless | @FreakConfig | 13",
                 "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "❔XX | 🔴 | vless | @kiava | 83",
                 "❔XX | 🔴 | vless | @kiava | 84",
@@ -280,9 +280,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "15.236.1.234",
+            "server": "63.183.130.255",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -313,7 +313,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "15.224.77.136",
+            "server": "15.236.1.234",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1082,7 +1082,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @free1_vpn | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
             "type": "vless",
             "server": "8.6.112.6",
             "server_port": 443,
@@ -1113,7 +1113,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @fnet00 | 0",
+            "tag": "🇬🇧GB | 🔴 | vless | @fnet00 | 0",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
@@ -1173,7 +1173,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Capital_NET | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -1244,7 +1244,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 13",
             "type": "vless",
             "server": "simurgh.adslimit.info",
             "server_port": 2345,
