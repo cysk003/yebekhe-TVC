@@ -11,12 +11,12 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇪🇸ES | 🔴 | trojan | @oneclickvpnkeys | 6 = trojan, 212.227.144.37, 8443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmlunch.com, ws = false
-🇨🇦CA | 🔴 | trojan | @kingofilter | 0 = trojan, 188.114.97.6, 443, password = humanity, udp-delay = true, skip-cert-verify = false, ws = false
+🇸🇨SC | 🔴 | trojan | @oneclickvpnkeys | 4 = trojan, 45.130.125.75, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmlunch.com, ws = false
+🇳🇱NL | 🟢 | trojan | @v2ray1_ng | 5 = trojan, 194.93.61.120, 443, password = pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr, udp-delay = true, skip-cert-verify = false, sni = 16.img.avito.st, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇪🇸ES | 🔴 | trojan | @oneclickvpnkeys | 6,🇨🇦CA | 🔴 | trojan | @kingofilter | 0
-URL-TEST = url-test,🇪🇸ES | 🔴 | trojan | @oneclickvpnkeys | 6,🇨🇦CA | 🔴 | trojan | @kingofilter | 0
-FALLBACK = fallback,🇪🇸ES | 🔴 | trojan | @oneclickvpnkeys | 6,🇨🇦CA | 🔴 | trojan | @kingofilter | 0
+MANUAL = select,URL-TEST,FALLBACK,🇸🇨SC | 🔴 | trojan | @oneclickvpnkeys | 4,🇳🇱NL | 🟢 | trojan | @v2ray1_ng | 5
+URL-TEST = url-test,🇸🇨SC | 🔴 | trojan | @oneclickvpnkeys | 4,🇳🇱NL | 🟢 | trojan | @v2ray1_ng | 5
+FALLBACK = fallback,🇸🇨SC | 🔴 | trojan | @oneclickvpnkeys | 4,🇳🇱NL | 🟢 | trojan | @v2ray1_ng | 5
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
